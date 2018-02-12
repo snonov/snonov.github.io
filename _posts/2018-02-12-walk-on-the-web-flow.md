@@ -1,4 +1,11 @@
-## H2 Architecture
+---
+layout: post
+title: "Walk on the web flow 20180212"
+date:   2018-02-12
+tags : API Javaparser Concourse Ketch Google Jgit Serverless Dotmesh Optimisation Bayesian Junit5 Jvm Stream Reactive Java9 Java Blockchain Consensus Ia Webflowwalk
+---
+
+## Architecture
 
 Quelques ressources pour appréhender l'IA
 [https://github.com/gopala-kr/ai-learning-roadmap](https://github.com/gopala-kr/ai-learning-roadmap)
@@ -6,7 +13,7 @@ Quelques ressources pour appréhender l'IA
 Les type de consensus en blockchain
 [https://blog.acolyer.org/2018/02/12/sok-consensus-in-the-age-of-blockchains/](https://blog.acolyer.org/2018/02/12/sok-consensus-in-the-age-of-blockchains/)
 
-## H2 Dev
+## Dev
 
 ReactiveStream en Java 9
 [https://dzone.com/articles/reactive-streams-in-java-9](https://dzone.com/articles/reactive-streams-in-java-9)
@@ -25,7 +32,7 @@ JUnit5 extension model
 Automated Performance Tuning with Bayesian Optimization
 [https://www.youtube.com/watch?v=X-fZZyw5HAQ](https://www.youtube.com/watch?v=X-fZZyw5HAQ)
 
-## H2 Tool
+## Tool
 
 Dotmesh : Capture, organize and share application states using a git-like CLI.
 [https://dotmesh.com/](https://dotmesh.com/)
@@ -50,7 +57,7 @@ Concourse pour CI/CD et Devops
 [https://www.infoq.com/presentations/concourse-ci-cd-pcf](https://www.infoq.com/presentations/concourse-ci-cd-pcf)
 [http://concourse.ci/](http://concourse.ci/)
 
-## H2 Various
+## Various
 
 Un dashboard pour suivre les évolutions de vos API préférée (Spark, Kafka, Avro, ...) basé sur
 [https://abi-laboratory.pro/java/tracker/](https://abi-laboratory.pro/java/tracker/)
