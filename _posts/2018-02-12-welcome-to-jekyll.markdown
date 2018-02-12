@@ -8,9 +8,9 @@ tags : jekyll githubpages
 The very beginnng of this Githubpages Jekyll follow up Walk on the web flow
 
 Some official resources :
-* Github pages https://pages.github.com/
-* Blogging with Jekyll https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/
-* Theme Hacker https://github.com/pages-themes/hacker
+* Github pages (https://pages.github.com/)
+* Blogging with Jekyll (https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
+* Theme Hacker (https://github.com/pages-themes/hacker)
 * https://jekyllrb.com/docs/configuration/
 * https://jekyllrb.com/docs/structure/
 
