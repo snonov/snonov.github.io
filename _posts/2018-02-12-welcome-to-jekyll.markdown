@@ -12,7 +12,7 @@ The very beginnng of this Githubpages Jekyll follow up Walk on the web flow
 * [Blogging with Jekyll](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
 * [Theme Hacker](https://github.com/pages-themes/hacker)
 * [Jekyll doc configuration](https://jekyllrb.com/docs/configuration/)
-* [Jekyll doc structure] https://jekyllrb.com/docs/structure/
+* [Jekyll doc structure](https://jekyllrb.com/docs/structure/)
 
 **Going deeper** :
 * tutorial [https://coderwall.com/p/njjb7a/checkout-simple-clean-jekyll-theme-for-hackers](https://coderwall.com/p/njjb7a/checkout-simple-clean-jekyll-theme-for-hackers)
