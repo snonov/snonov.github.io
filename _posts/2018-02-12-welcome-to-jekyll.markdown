@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Welcome to Jekyll!"
-description: 
 date:   2018-02-12
-categories: jekyll blog
 tags : jekyll githubpages
 ---
 
-The very beginnng of yhis Githubpages / Jekyll follow up Walk on the web flow
+The very beginnng of this Githubpages Jekyll follow up Walk on the web flow
 
 Some official resources :
 * Github pages https://pages.github.com/
