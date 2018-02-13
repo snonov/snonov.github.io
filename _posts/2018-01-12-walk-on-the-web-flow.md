@@ -2,13 +2,16 @@
 layout: post
 title: "Walk on the web flow 20180112"
 date: 2018-01-12
-tags : Restql Spolsky Stackwalker Java9 Java Graphql Rest Flink Webflowwalk
+tags : Restql Spolsky Stackwalker Java9 Java Graphql Rest Flink Webflowwalk Olap Druid Kylin
 ---
 
 ## Architecture
 
 Sizer son cluster Flink
 [https://data-artisans.com/blog/how-to-size-your-apache-flink-cluster-general-guidelines](https://data-artisans.com/blog/how-to-size-your-apache-flink-cluster-general-guidelines)
+
+OLAP side : Kylin, Druids
+[https://fr.slideshare.net/argonauts007/kylin-and-druid-presentation](https://fr.slideshare.net/argonauts007/kylin-and-druid-presentation)
 
 ## Dev
 
