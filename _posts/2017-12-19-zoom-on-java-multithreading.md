@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zoom on coding platform"
+title: "Zoom on java multithreading"
 date: 2017-12-19
 tags : Java Multithreading Zoomon
 ---
