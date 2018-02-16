@@ -20,6 +20,8 @@ Notes on Reactive Programming :
 
 [Generation history of reactive](https://akarnokd.blogspot.fr/2016/03/operator-fusion-part-1.html)
 
+[RxJava at Netflix](https://medium.com/netflix-techblog/reactive-programming-in-the-netflix-api-with-rxjava-7811c3a1496a)
+
 [Reactive programming : development model structured around asynchronous data streams](https://developers.redhat.com/blog/2017/06/30/5-things-to-know-about-reactive-programming/)
 
 [Reactive landscape from RedHat](https://static.rainfocus.com/oracle/oow17/sess/1492515839907001F0ry/PF/The%20reactive%20landscape_1507191401874001RJgz.pdf)
@@ -53,3 +55,9 @@ Included feature in Spring 5
 Also some product driver : MongoDb reactive java driver
 [https://mongodb.github.io/mongo-java-driver-reactivestreams/](https://mongodb.github.io/mongo-java-driver-reactivestreams/)
 
+## Some code
+
+Code notes : [https://github.com/dsyer/reactive-notes](https://github.com/dsyer/reactive-notes)
+
+Hands On : [https://github.com/reactor/lite-rx-api-hands-on](https://github.com/reactor/lite-rx-api-hands-on)
+Workshop : [https://github.com/nurkiewicz/rxjava-workshop](https://github.com/nurkiewicz/rxjava-workshop)
