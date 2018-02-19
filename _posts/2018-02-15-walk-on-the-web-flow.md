@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Walk on the web flow 201810215"
+title: "Walk on the web flow 20180215"
 date: 2018-02-15
 tags : Linkedin Google Dynamotester Docker Memory Jvm Tlab Java Kafka Machinelearning Ipfs Database Cloud Webflowwalk Hadoop
 ---
