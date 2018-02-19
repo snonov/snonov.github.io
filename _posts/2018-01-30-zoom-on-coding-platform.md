@@ -31,7 +31,7 @@ Online Java compiler (https://jaxenter.com/top-6-java-compilers-students-141549.
 * JDoodle [https://www.jdoodle.com/](https://www.jdoodle.com/)
 * RexTester [http://rextester.com/l/java_online_compiler](http://rextester.com/l/java_online_compiler)
 * Online GDB [https://www.onlinegdb.com/](https://www.onlinegdb.com/)
-* Browxy (http://www.browxy.com/)[http://www.browxy.com/]
-* IDEOne (https://ideone.com/)[https://ideone.com/]
+* Browxy [http://www.browxy.com/](http://www.browxy.com/)
+* IDEOne [https://ideone.com/](https://ideone.com/)
 
 
