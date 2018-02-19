@@ -33,8 +33,8 @@ JVM option Cheat Sheet
 [https://zeroturnaround.com/rebellabs/jvm-options-cheat-sheet/](https://zeroturnaround.com/rebellabs/jvm-options-cheat-sheet/)
 
 Do not forget to get your logs to check impact (take care, big changes with Java 9)
-[https://fr.slideshare.net/PoonamBajaj5/lets-learn-to-talk-to-gc-logs-in-java-9](https://fr.slideshare.net/PoonamBajaj5/lets-learn-to-talk-to-gc-logs-in-java-9)
-[https://blog.gceasy.io/2017/10/17/disruptive-changes-to-gc-logging-in-java-9-what-you-need-to-do/](https://blog.gceasy.io/2017/10/17/disruptive-changes-to-gc-logging-in-java-9-what-you-need-to-do/)
+* [https://fr.slideshare.net/PoonamBajaj5/lets-learn-to-talk-to-gc-logs-in-java-9](https://fr.slideshare.net/PoonamBajaj5/lets-learn-to-talk-to-gc-logs-in-java-9)
+* [https://blog.gceasy.io/2017/10/17/disruptive-changes-to-gc-logging-in-java-9-what-you-need-to-do/](https://blog.gceasy.io/2017/10/17/disruptive-changes-to-gc-logging-in-java-9-what-you-need-to-do/)
 
 ## New comers in town
 
@@ -45,24 +45,24 @@ Do not forget to get your logs to check impact (take care, big changes with Java
 * Epsilon GC (experimental)
 
 Redhat G1 presentation :
-[https://www.redhat.com/en/blog/part-1-introduction-g1-garbage-collector](https://www.redhat.com/en/blog/part-1-introduction-g1-garbage-collector)
-[https://www.redhat.com/en/blog/collecting-and-reading-g1-garbage-collector-logs-part-2](https://www.redhat.com/en/blog/collecting-and-reading-g1-garbage-collector-logs-part-2)
+* [https://www.redhat.com/en/blog/part-1-introduction-g1-garbage-collector](https://www.redhat.com/en/blog/part-1-introduction-g1-garbage-collector)
+* [https://www.redhat.com/en/blog/collecting-and-reading-g1-garbage-collector-logs-part-2](https://www.redhat.com/en/blog/collecting-and-reading-g1-garbage-collector-logs-part-2)
 
 Zing JVM with C4 (Continuous Concurrent Compacting Collector) GC by AzulSystem
 [https://www.azul.com/resources/azul-technology/azul-c4-garbage-collector/](https://www.azul.com/resources/azul-technology/azul-c4-garbage-collector/)
 
 Shenandoah GC (JEP 189) by RedHat
-[https://wiki.openjdk.java.net/display/shenandoah/Main](https://wiki.openjdk.java.net/display/shenandoah/Main)
-[https://fr.slideshare.net/RedHatDevelopers/shenandoah-gc-java-without-the-garbage-collection-hiccups-christine-flood](https://fr.slideshare.net/RedHatDevelopers/shenandoah-gc-java-without-the-garbage-collection-hiccups-christine-flood)
-[http://openjdk.java.net/jeps/189](http://openjdk.java.net/jeps/189)
+* [https://wiki.openjdk.java.net/display/shenandoah/Main](https://wiki.openjdk.java.net/display/shenandoah/Main)
+* [https://fr.slideshare.net/RedHatDevelopers/shenandoah-gc-java-without-the-garbage-collection-hiccups-christine-flood](https://fr.slideshare.net/RedHatDevelopers/shenandoah-gc-java-without-the-garbage-collection-hiccups-christine-flood)
+* [http://openjdk.java.net/jeps/189](http://openjdk.java.net/jeps/189)
 
 ZGC by Oracle : A Scalable Low Latency Garbage Collector
-[http://mail.openjdk.java.net/pipermail/announce/2017-October/000237.html](http://mail.openjdk.java.net/pipermail/announce/2017-October/000237.html)
-[https://fosdem.org/2018/schedule/event/zgc/attachments/slides/2211/export/events/attachments/zgc/slides/2211/ZGC_FOSDEM_2018.pdf](https://fosdem.org/2018/schedule/event/zgc/attachments/slides/2211/export/events/attachments/zgc/slides/2211/ZGC_FOSDEM_2018.pdf)
-[https://www.infoworld.com/article/3235391/java/zgc-large-heap-java-garbage-collector-may-go-open-source.html](https://www.infoworld.com/article/3235391/java/zgc-large-heap-java-garbage-collector-may-go-open-source.html)
+* [http://mail.openjdk.java.net/pipermail/announce/2017-October/000237.html](http://mail.openjdk.java.net/pipermail/announce/2017-October/000237.html)
+* [https://fosdem.org/2018/schedule/event/zgc/attachments/slides/2211/export/events/attachments/zgc/slides/2211/ZGC_FOSDEM_2018.pdf](https://fosdem.org/2018/schedule/event/zgc/attachments/slides/2211/export/events/attachments/zgc/slides/2211/ZGC_FOSDEM_2018.pdf)
+* [https://www.infoworld.com/article/3235391/java/zgc-large-heap-java-garbage-collector-may-go-open-source.html](https://www.infoworld.com/article/3235391/java/zgc-large-heap-java-garbage-collector-may-go-open-source.html)
 
 Epsilon GC : completely passive GC implementation with a bounded allocation limit and the lowest latency overhead possible
-[http://openjdk.java.net/jeps/318](http://openjdk.java.net/jeps/318)
-[https://www.infoq.com/news/2017/03/java-epsilon-gc](https://www.infoq.com/news/2017/03/java-epsilon-gc)
+* [http://openjdk.java.net/jeps/318](http://openjdk.java.net/jeps/318)
+* [https://www.infoq.com/news/2017/03/java-epsilon-gc](https://www.infoq.com/news/2017/03/java-epsilon-gc)
 
 
