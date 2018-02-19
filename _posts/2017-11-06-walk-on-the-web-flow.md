@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Walk on the web flow 20171106"
