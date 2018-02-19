@@ -22,15 +22,15 @@ A book : "The Garbage Collection Handbook: The Art of Automatic Memory Managemen
 * Slides [https://fr.slideshare.net/MonicaBeckwith/gc-confessions](https://fr.slideshare.net/MonicaBeckwith/gc-confessions)
 
 Java 8 GC Tuning
-[https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/
+[https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/)
 
 Java 9 GC Tuning
-[https://docs.oracle.com/javase/9/gctuning/toc.htm
+[https://docs.oracle.com/javase/9/gctuning/toc.htm](https://docs.oracle.com/javase/9/gctuning/toc.htm)
 
 JVM GC Options
-[http://blog.ragozin.info/2016/10/hotspot-jvm-garbage-collection-options.html
+[http://blog.ragozin.info/2016/10/hotspot-jvm-garbage-collection-options.html](http://blog.ragozin.info/2016/10/hotspot-jvm-garbage-collection-options.html)
 JVM option Cheat Sheet
-[https://zeroturnaround.com/rebellabs/jvm-options-cheat-sheet/
+[https://zeroturnaround.com/rebellabs/jvm-options-cheat-sheet/](https://zeroturnaround.com/rebellabs/jvm-options-cheat-sheet/)
 
 Do not forget to get your logs to check impact (take care, big changes with Java 9)
 [https://fr.slideshare.net/PoonamBajaj5/lets-learn-to-talk-to-gc-logs-in-java-9](https://fr.slideshare.net/PoonamBajaj5/lets-learn-to-talk-to-gc-logs-in-java-9)
