@@ -2,7 +2,7 @@
 layout: post
 title: "Zoom on coding platform"
 date: 2018-01-30
-tags : Code Learn Coding Platform
+tags : Code Learn Coding Platform Online Eclipse Che Game Compiler Ide
 ---
 
 ## coding platform
@@ -34,4 +34,5 @@ Online Java compiler (https://jaxenter.com/top-6-java-compilers-students-141549.
 * Browxy [http://www.browxy.com/](http://www.browxy.com/)
 * IDEOne [https://ideone.com/](https://ideone.com/)
 
+In coding platform trend [Eclipse Che](https://www.eclipse.org/che/)
 
