@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20180129"
 date: 2018-01-29
-tags : Emulator Nes Oreilly Tool Angular Jest Java Speedment Graphql NetFlix Cassandra Timesseries Distributedsystem Paxos React Cloud Spring Faas Webflowwalk Meson MachineLearning
+tags : Emulator Nes Oreilly Tool Angular Jest Java Speedment Graphql NetFlix Cassandra Timesseries Distributedsystem Paxos React Cloud Spring Faas Webflowwalk Meson Machinelearning
 ---
 
 ## Architecture
