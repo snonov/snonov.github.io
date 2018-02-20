@@ -27,32 +27,32 @@ Par le menu
 
 ## Le coeur : API java.util.concurrent 
 (curieux de savoir si quelqu'un utilise le Phaser sur son projet [http://www.baeldung.com/java-phaser](http://www.baeldung.com/java-phaser)
-[https://docs.oracle.com/javase/8/docs/api/?java/util/concurrent/package-summary.html](https://docs.oracle.com/javase/8/docs/api/?java/util/concurrent/package-summary.html)
-[http://www.baeldung.com/java-util-concurrent](http://www.baeldung.com/java-util-concurrent)
-[http://tutorials.jenkov.com/java-concurrency/index.html](http://tutorials.jenkov.com/java-concurrency/index.html)
+* [https://docs.oracle.com/javase/8/docs/api/?java/util/concurrent/package-summary.html](https://docs.oracle.com/javase/8/docs/api/?java/util/concurrent/package-summary.html)
+* [http://www.baeldung.com/java-util-concurrent](http://www.baeldung.com/java-util-concurrent)
+* [http://tutorials.jenkov.com/java-concurrency/index.html](http://tutorials.jenkov.com/java-concurrency/index.html)
 
 ## Le Java Memory Model
-[http://www.cs.umd.edu/~pugh/java/memoryModel/](http://www.cs.umd.edu/~pugh/java/memoryModel/)
-[https://gpetri.github.io/publis/jmm-vamp07.pdf](https://gpetri.github.io/publis/jmm-vamp07.pdf)
+* [http://www.cs.umd.edu/~pugh/java/memoryModel/](http://www.cs.umd.edu/~pugh/java/memoryModel/)
+* [https://gpetri.github.io/publis/jmm-vamp07.pdf](https://gpetri.github.io/publis/jmm-vamp07.pdf)
 
 ## Introduction memory barrier
 [https://www.infoq.com/articles/memory_barriers_jvm_concurrency](https://www.infoq.com/articles/memory_barriers_jvm_concurrency)
 
 Un classique la spec de la JVM (the hard way)
-[https://docs.oracle.com/javase/specs/jvms/se7/html/index.html](https://docs.oracle.com/javase/specs/jvms/se7/html/index.html)
-[https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf](https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf)
+* [https://docs.oracle.com/javase/specs/jvms/se7/html/index.html](https://docs.oracle.com/javase/specs/jvms/se7/html/index.html)
+* [https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf](https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf)
 
 ## Dans les manière de faire, la programmation lock free pour une introduction
-[https://fr.slideshare.net/JeanPhilippeBEMPEL/programmation-lock-free-les-techniques-des-pros-1ere-partie](https://fr.slideshare.net/JeanPhilippeBEMPEL/programmation-lock-free-les-techniques-des-pros-1ere-partie)
-[https://fr.slideshare.net/JeanPhilippeBEMPEL/programmation-lock-free-les-techniques-des-pros-2eme-partie](https://fr.slideshare.net/JeanPhilippeBEMPEL/programmation-lock-free-les-techniques-des-pros-2eme-partie)
+* [https://fr.slideshare.net/JeanPhilippeBEMPEL/programmation-lock-free-les-techniques-des-pros-1ere-partie](https://fr.slideshare.net/JeanPhilippeBEMPEL/programmation-lock-free-les-techniques-des-pros-1ere-partie)
+* [https://fr.slideshare.net/JeanPhilippeBEMPEL/programmation-lock-free-les-techniques-des-pros-2eme-partie](https://fr.slideshare.net/JeanPhilippeBEMPEL/programmation-lock-free-les-techniques-des-pros-2eme-partie)
 
 ## Non blocking IO
-[http://crunchify.com/java-nio-non-blocking-io-with-server-client-example-java-nio-bytebuffer-and-channels-selector-java-nio-vs-io/](http://crunchify.com/java-nio-non-blocking-io-with-server-client-example-java-nio-bytebuffer-and-channels-selector-java-nio-vs-io/)
-[https://medium.com/coderscorner/tale-of-client-server-and-socket-a6ef54a74763](https://medium.com/coderscorner/tale-of-client-server-and-socket-a6ef54a74763)
+* [http://crunchify.com/java-nio-non-blocking-io-with-server-client-example-java-nio-bytebuffer-and-channels-selector-java-nio-vs-io/](http://crunchify.com/java-nio-non-blocking-io-with-server-client-example-java-nio-bytebuffer-and-channels-selector-java-nio-vs-io/)
+* [https://medium.com/coderscorner/tale-of-client-server-and-socket-a6ef54a74763](https://medium.com/coderscorner/tale-of-client-server-and-socket-a6ef54a74763)
 
 ## programmation réactive
-[https://blog.zenika.com/2016/06/16/programmation-reactive-une-entree-en-matiere/](https://blog.zenika.com/2016/06/16/programmation-reactive-une-entree-en-matiere/)
-[https://github.com/ReactiveX/RxJava](https://github.com/ReactiveX/RxJava)
+* [https://blog.zenika.com/2016/06/16/programmation-reactive-une-entree-en-matiere/](https://blog.zenika.com/2016/06/16/programmation-reactive-une-entree-en-matiere/)
+* [https://github.com/ReactiveX/RxJava](https://github.com/ReactiveX/RxJava)
 
 ## Bonus, les changements en Java 9 (slides 10, 11, 18, 21 sur contend locking JEP143, 24, 27)
 [https://fr.slideshare.net/SimonRitter/55-new-features-in-jdk-9](https://fr.slideshare.net/SimonRitter/55-new-features-in-jdk-9)
