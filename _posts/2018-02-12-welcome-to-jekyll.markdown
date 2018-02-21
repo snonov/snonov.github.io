@@ -32,3 +32,4 @@ The very beginnng of this Githubpages Jekyll follow up Walk on the web flow
 * [Tag manipulation](http://longqian.me/2017/02/09/github-jekyll-tag/)
 * [Google Analytics](https://michaelsoolee.com/google-analytics-jekyll/)
 * [Google Analytics2](https://desiredpersona.com/google-analytics-jekyll/)
+* [Google analytics Checker](http://www.gachecker.com/)
