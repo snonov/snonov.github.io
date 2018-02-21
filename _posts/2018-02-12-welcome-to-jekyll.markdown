@@ -23,6 +23,7 @@ The very beginnng of this Githubpages Jekyll follow up Walk on the web flow
 * Tags and meta tags : [http://jovandeginste.github.io/2016/05/18/add-metadata-tags-to-jekyll-blog-posts.html](http://jovandeginste.github.io/2016/05/18/add-metadata-tags-to-jekyll-blog-posts.html)
 * [Sample](https://github.com/Velko/XTest/tree/8b8aa9430ee31ba21de7b6e24946022ba992483c/docs)
 * another sample from [Akka blog](https://github.com/akka/old-blog)
+* [Jekyll cheatsheet](https://devhints.io/jekyll)
 
 **Adding futur features**
 * [Choose your markdown](https://ilovesymposia.com/2015/01/04/some-things-i-learned-while-building-a-site-on-github-pages/)
