@@ -29,3 +29,5 @@ The very beginnng of this Githubpages Jekyll follow up Walk on the web flow
 * [Add google search](https://digitaldrummerj.me/blogging-on-github-part-7-adding-a-custom-google-search/)
 * [Add tag search](https://alexpearce.me/2012/04/simple-jekyll-searching/)
 * [Tag manipulation](http://longqian.me/2017/02/09/github-jekyll-tag/)
+* [Google Analytics](https://michaelsoolee.com/google-analytics-jekyll/)
+* [Google Analytics2](https://desiredpersona.com/google-analytics-jekyll/)
