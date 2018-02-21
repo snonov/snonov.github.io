@@ -7,3 +7,6 @@ show_downloads: false
 
 #baseurl: "https://snonov.github.io/"
 url: "https://snonov.github.io/"
+
+# Google Analytics
+google_analytics: UA-114519646-1
