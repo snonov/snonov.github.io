@@ -14,6 +14,9 @@ The very beginnng of this Githubpages Jekyll follow up Walk on the web flow
 * [Jekyll doc configuration](https://jekyllrb.com/docs/configuration/)
 * [Jekyll doc structure](https://jekyllrb.com/docs/structure/)
 
+** Around ** :
+* Un peu de [context markdown](https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/)
+
 **Going deeper** :
 * tutorial [https://coderwall.com/p/njjb7a/checkout-simple-clean-jekyll-theme-for-hackers](https://coderwall.com/p/njjb7a/checkout-simple-clean-jekyll-theme-for-hackers)
 * tutorial [https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages#on-windows-](https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages#on-windows-)
