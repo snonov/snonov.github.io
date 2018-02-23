@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1>Tag Cloud</h1>  
+  <p>    
+    {% for tag in site.tags %}
+        {% if tag[0] != "Webflowwalk" %}
+            <!-- Here's a hack to generate a "tag cloud" where the size of
+            the word is directly proportional to the number of posts with
+            that tag. -->
+            <a href="/tags/{{ tag[0] }}.html" 
+            style="font-size: {{ tag[1] | size | times: 2 | plus: 10 }}px;text-decoration: none">
+                {{ tag[0] }}  
+            </a>
+        {% endif %}
+    {% endfor %}
+  </p>
+
+</div>
