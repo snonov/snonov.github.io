@@ -20,6 +20,8 @@ The very beginnng of this Githubpages Jekyll follow up Walk on the web flow
 * another sample from [Akka blog](https://github.com/akka/old-blog)
 * another [Sample](https://github.com/Velko/XTest/tree/8b8aa9430ee31ba21de7b6e24946022ba992483c/docs)
 * [Some hints](https://ines.io/blog/the-ultimate-guide-static-websites-jekyll)
+* [Show case with sites](https://jekyllrb.com/docs/sites/)
+* [another Show case with sites](http://planetjekyll.github.io/showcase/)
 
 **Going deeper** :
 * tutorial [https://coderwall.com/p/njjb7a/checkout-simple-clean-jekyll-theme-for-hackers](https://coderwall.com/p/njjb7a/checkout-simple-clean-jekyll-theme-for-hackers)
@@ -29,6 +31,7 @@ The very beginnng of this Githubpages Jekyll follow up Walk on the web flow
 * Tags usages : [http://longqian.me/2017/02/09/github-jekyll-tag/](http://longqian.me/2017/02/09/github-jekyll-tag/)
 * Tags and meta tags : [http://jovandeginste.github.io/2016/05/18/add-metadata-tags-to-jekyll-blog-posts.html](http://jovandeginste.github.io/2016/05/18/add-metadata-tags-to-jekyll-blog-posts.html)
 * [Jekyll cheatsheet](https://devhints.io/jekyll)
+* [Including image sample](http://dev-notes.eu/2016/01/images-in-kramdown-jekyll/)
 
 **Adding futur features**
 * [Choose your markdown](https://ilovesymposia.com/2015/01/04/some-things-i-learned-while-building-a-site-on-github-pages/)
@@ -38,3 +41,10 @@ The very beginnng of this Githubpages Jekyll follow up Walk on the web flow
 * [Google Analytics](https://michaelsoolee.com/google-analytics-jekyll/)
 * [Google Analytics2](https://desiredpersona.com/google-analytics-jekyll/)
 * [Google analytics Checker](http://www.gachecker.com/)
+* Improve tag cloud
+** [https://gist.github.com/yeban/2290195](https://gist.github.com/yeban/2290195)
+** [http://tomnorian.com/a-liquid-tag-cloud-for-jekyll-blogs.html](http://tomnorian.com/a-liquid-tag-cloud-for-jekyll-blogs.html)
+* [work on width](https://github.com/johnotander/pixyll/issues/101)
+* [work on width2](http://talk.jekyllrb.com/t/overriding-css-file-in-a-layout/294/4)
+
+
