@@ -4,6 +4,7 @@ theme: jekyll-theme-hacker
 title: Walk on the web flow
 description: the goal is to leave some links that seem interesting to me (but also to share them)
 show_downloads: false
+author: snonov
 
 #baseurl: "https://snonov.github.io/"
 url: "https://snonov.github.io/"
