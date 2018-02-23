@@ -23,8 +23,8 @@ layout: default
             the word is directly proportional to the number of posts with
             that tag. -->
             <a href="/tags/{{ tag[0] }}.html" 
-            style="font-size: {{ tag[1] | size | times: 2 | plus: 10 }}px">
-                {{ tag[0] }} | 
+            style="font-size: {{ tag[1] | size | times: 2 | plus: 10 }}px;text-decoration: none">
+                {{ tag[0] }}  
             </a>
         {% endif %}
     {% endfor %}
