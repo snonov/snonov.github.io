@@ -29,13 +29,13 @@ Spoon : to analyze, rewrite, transform, transpile Java source code
 * [https://github.com/INRIA/spoon](https://github.com/INRIA/spoon)
 
 Teiid is a data virtualization system  
-[http://teiid.jboss.org/sourcecode/](http://teiid.jboss.org/sourcecode/)
-[https://github.com/teiid/teiid-embedded-examples](https://github.com/teiid/teiid-embedded-examples)
+* [http://teiid.jboss.org/sourcecode/](http://teiid.jboss.org/sourcecode/)
+* [https://github.com/teiid/teiid-embedded-examples](https://github.com/teiid/teiid-embedded-examples)
 
 Debezium : Stream changes from your databases  
-[http://debezium.io/](http://debezium.io/)
-[https://www.slideshare.net/ConfluentInc/capture-the-streams-of-database-changes](https://www.slideshare.net/ConfluentInc/capture-the-streams-of-database-changes)
-[https://www.youtube.com/watch?v=IOZ2Um6e430](https://www.youtube.com/watch?v=IOZ2Um6e430)
+* [http://debezium.io/](http://debezium.io/)
+* [https://www.slideshare.net/ConfluentInc/capture-the-streams-of-database-changes](https://www.slideshare.net/ConfluentInc/capture-the-streams-of-database-changes)
+* [https://www.youtube.com/watch?v=IOZ2Um6e430](https://www.youtube.com/watch?v=IOZ2Um6e430)
 
 Squash to debug your distributed system  
 * [https://github.com/solo-io/squash](https://github.com/solo-io/squash)
