@@ -46,5 +46,5 @@ The very beginnng of this Githubpages Jekyll follow up Walk on the web flow
 ** [http://tomnorian.com/a-liquid-tag-cloud-for-jekyll-blogs.html](http://tomnorian.com/a-liquid-tag-cloud-for-jekyll-blogs.html)
 * [work on width](https://github.com/johnotander/pixyll/issues/101)
 * [work on width2](http://talk.jekyllrb.com/t/overriding-css-file-in-a-layout/294/4)
-
+* [Add search feature](https://learn.cloudcannon.com/jekyll/jekyll-search-using-lunr-js/)
 
