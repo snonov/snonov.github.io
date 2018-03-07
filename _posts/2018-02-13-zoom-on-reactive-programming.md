@@ -26,7 +26,7 @@ Notes on Reactive Programming :
 
 [Reactive landscape from RedHat](https://static.rainfocus.com/oracle/oow17/sess/1492515839907001F0ry/PF/The%20reactive%20landscape_1507191401874001RJgz.pdf)
 
-[ReactiveStream Java introduction](https://springframework.guru/reactive-streams-in-java/)
+[ReactiveStream Java introduction](https://springframework.guru/reactive-streams-in-java/)   
 [Compare Reactor and RxJava](http://blog.xebia.fr/2018/03/06/introduction-aux-flux-reactifs-en-java/)
 
 [Reactive programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
