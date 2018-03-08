@@ -25,10 +25,17 @@ Collection of developer tools (and beyond)
 Root  
 * [Git](https://git-scm.com/)
 * [Git for windows](https://git-scm.com/download/win)   
+   
 Around  
 * [SourceTree](https://www.sourcetreeapp.com/)
 * [GitKraken](https://www.gitkraken.com/)
 * [Gerrit Code Review](https://www.gerritcodereview.com/)
+
+### Java Specific
+* [Tomcat server](http://tomcat.apache.org/)
+* [VisualVM](https://visualvm.github.io/)
+* [JProfiler, Java Profiler](https://www.ej-technologies.com/products/jprofiler/overview.html)
+* [Yourkit, Java Profiler](https://www.yourkit.com/)
 
 ### Terminal
 * [iTerm MacOS](https://www.iterm2.com/)
@@ -47,6 +54,7 @@ Around
 ### Investigation, test tools
 * [WireShark network protocol analyzer](https://www.wireshark.org/)
 * [SoapUI testing tool for SOAP and REST APIs](https://www.soapui.org/)
+* [Apache JMeter](http://jmeter.apache.org/)
 
 ### VM
 * [Oracle VM VirtualBox](https://www.virtualbox.org/)
