@@ -68,6 +68,7 @@ Around
 * [Azure](https://azure.microsoft.com/fr-fr/)
 
 ### Windows desktop
+* [KeePass, password manager](https://keepass.info/)
 * [Package manager](https://chocolatey.org/)
 * [ProcessExplorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
 * [ScreenShot](http://getgreenshot.org/)
