@@ -21,10 +21,10 @@ Collection of developer tools (and beyond)
 * [VisualStudio Code](https://code.visualstudio.com/)
 * [Jetbrain WebStorm](https://www.jetbrains.com/webstorm/)
 
-### Version control system
+### Version control system   
 Root  
 * [Git](https://git-scm.com/)
-* [Git for windows](https://git-scm.com/download/win)
+* [Git for windows](https://git-scm.com/download/win)   
 Around  
 * [SourceTree](https://www.sourcetreeapp.com/)
 * [GitKraken](https://www.gitkraken.com/)
