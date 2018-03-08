@@ -22,10 +22,10 @@ Collection of developer tools (and beyond)
 * [Jetbrain WebStorm](https://www.jetbrains.com/webstorm/)
 
 ### Version control system
-Root
+Root  
 * [Git](https://git-scm.com/)
 * [Git for windows](https://git-scm.com/download/win)
-Around
+Around  
 * [SourceTree](https://www.sourcetreeapp.com/)
 * [GitKraken](https://www.gitkraken.com/)
 * [Gerrit Code Review](https://www.gerritcodereview.com/)
@@ -40,9 +40,9 @@ Around
 
 ### SSh
 * [OpenSsh](https://www.openssh.com/)   
- * [Ssh Help test connection](https://help.github.com/articles/testing-your-ssh-connection/)   
- * [Ssh help check existing keys](https://help.github.com/articles/checking-for-existing-ssh-keys/)   
- * [Set your git ssh](http://guides.beanstalkapp.com/version-control/git-on-windows.html)   
+ ** [Ssh Help test connection](https://help.github.com/articles/testing-your-ssh-connection/)   
+ ** [Ssh help check existing keys](https://help.github.com/articles/checking-for-existing-ssh-keys/)   
+ ** [Set your git ssh](http://guides.beanstalkapp.com/version-control/git-on-windows.html)   
 
 ### Investigation, test tools
 * [WireShark network protocol analyzer](https://www.wireshark.org/)
