@@ -44,6 +44,8 @@ Around
 * [mRemoteNg](https://mremoteng.org/)
 * [zsh](https://github.com/robbyrussell/oh-my-zsh)
 * [Cygwin](https://www.cygwin.com/)
+* [Terminator, multiple terminal synchronized - Linux, MacOS](https://gnometerminator.blogspot.fr/p/introduction.html)
+* [ClusterSSh, multiple terminal](https://github.com/duncs/clusterssh)
 
 ### SSh
 * [OpenSsh](https://www.openssh.com/)   
