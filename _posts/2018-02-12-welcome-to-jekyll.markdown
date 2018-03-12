@@ -47,4 +47,4 @@ The very beginnng of this Githubpages Jekyll follow up Walk on the web flow
 * [work on width](https://github.com/johnotander/pixyll/issues/101)
 * [work on width2](http://talk.jekyllrb.com/t/overriding-css-file-in-a-layout/294/4)
 * [Add search feature](https://learn.cloudcannon.com/jekyll/jekyll-search-using-lunr-js/)
-
+* [Add google search](https://digitaldrummerj.me/blogging-on-github-part-7-adding-a-custom-google-search/)
