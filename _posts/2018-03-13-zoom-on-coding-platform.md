@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Zoom on Vagrant"
-date: 2018-01-30
+date: 2018-03-13
 tags : Zoomon Vagrant
 ---
 
