@@ -41,7 +41,8 @@ Three important notions :
 * **Provisioner:** A provisioner is a tool to set up the virtual environment, and can be as simple as a shell script, but alternatively a more advanced tool like Chef, Puppet, or Ansible can be used.
 
 
-Everything is beginning with the Vagrant file (Ruby syntax [https://www.ruby-lang.org/fr/](https://www.ruby-lang.org/fr/))
+Everything is beginning with the Vagrant file (Ruby syntax [https://www.ruby-lang.org/fr/](https://www.ruby-lang.org/fr/))   
+
 vagrantfile cheatsheet
 * [https://gist.github.com/carlessanagustin/69d65ca1110c146598a9](https://gist.github.com/carlessanagustin/69d65ca1110c146598a9)
 * [https://devhints.io/vagrantfile](https://devhints.io/vagrantfile)
