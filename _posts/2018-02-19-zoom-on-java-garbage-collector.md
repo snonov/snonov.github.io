@@ -2,7 +2,7 @@
 layout: post
 title: "Zoom on java Garbage collector"
 date: 2018-02-19
-tags : Java GC GarbageCollector G1 C4 Zing Shenandoah RedHat ZGC EpsilonGC Monica Beckwith JVM Zoomon
+tags : Java Gc Garbagecollector G1 C4 Zing Shenandoah RedHat Zgc Epsilongc Monica Beckwith Jvm Zoomon
 ---
 
 Zoom on Java Garbage policy and collectors (in fact just an introduction zoom, lot more to explore around)

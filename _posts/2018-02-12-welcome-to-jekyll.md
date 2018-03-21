@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to Jekyll!"
 date:   2018-02-12
-tags : jekyll githubpages
+tags : Jekyll Githubpages
 ---
 
 The very beginnng of this Githubpages Jekyll follow up Walk on the web flow
