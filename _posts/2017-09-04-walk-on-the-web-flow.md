@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170904"
 date: 2017-09-04
-tags : Cryptocurrency License React Facebook Ai Docker Javaheap Java Usl4j Neo4j Google JSON Gson Typing Cassandra Distributedsystem Graph Rdf Webflowwalk
+tags : Cryptocurrency License React Facebook Ai Docker Javaheap Java Usl4j Neo4j Google Json Gson Typing Cassandra Distributedsystem Graph Rdf Webflowwalk
 ---
 
 ## Architecture
