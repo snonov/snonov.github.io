@@ -2,7 +2,7 @@
 layout: post
 title: "Zoom on reactive programming"
 date: 2018-02-13
-tags : Zoomon Reactive RxJava Java Stream Mongodb Reactor
+tags : Zoomon Reactive Rxjava Java Stream Mongodb Reactor
 ---
 
 ## The beginning ReactiveManifesto
