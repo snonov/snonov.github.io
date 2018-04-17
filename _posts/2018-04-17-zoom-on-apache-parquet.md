@@ -23,7 +23,7 @@ Inspired from Dremel google paper
 
 ## Main references urls     
 
-* Apache Parquet [https://parquet.apache.org/]https://parquet.apache.org/
+* Apache Parquet [https://parquet.apache.org/](https://parquet.apache.org/)
 * Source code parquet-compatibility (compatibility tests to make sur C and Java implementations can read each other) [https://github.com/Parquet/parquet-compatibility](https://github.com/Parquet/parquet-compatibility)
 * Source code Parquet-MR (java implementation of the Parquet format) [https://github.com/apache/parquet-mr](https://github.com/apache/parquet-mr)
 * Source code Parquet-format (contains all Thrift definitions) [https://github.com/apache/parquet-format](https://github.com/apache/parquet-format)
@@ -39,9 +39,9 @@ The Impala and Hive object models that are built into those components, not avai
 ## Ecosystem integration    
 
 Data serialization libraries   
-* Apache Avro [https://avro.apache.org/]https://avro.apache.org/
-* Protocol Buffer [https://developers.google.com/protocol-buffers/]https://developers.google.com/protocol-buffers/
-* Apache Thrift [https://thrift.apache.org/]https://thrift.apache.org/
+* Apache Avro [https://avro.apache.org/](https://avro.apache.org/)
+* Protocol Buffer [https://developers.google.com/protocol-buffers/](https://developers.google.com/protocol-buffers/)
+* Apache Thrift [https://thrift.apache.org/](https://thrift.apache.org/)
 
 But also integrate with Hadoop ecosystem (MapReduce, Pig, Hive and Impala)
 
