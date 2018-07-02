@@ -47,11 +47,13 @@ Around
 * [Terminator, multiple terminal synchronized - Linux, MacOS](https://gnometerminator.blogspot.fr/p/introduction.html)
 * [ClusterSSh, multiple terminal](https://github.com/duncs/clusterssh)
 
-### SSh
+### SSh, Security
 * [OpenSsh](https://www.openssh.com/)   
  ** [Ssh Help test connection](https://help.github.com/articles/testing-your-ssh-connection/)   
  ** [Ssh help check existing keys](https://help.github.com/articles/checking-for-existing-ssh-keys/)   
  ** [Set your git ssh](http://guides.beanstalkapp.com/version-control/git-on-windows.html)   
+* [Let's Encrypt](https://letsencrypt.org/)   
+
 
 ### Investigation, test tools
 * [WireShark network protocol analyzer](https://www.wireshark.org/)
