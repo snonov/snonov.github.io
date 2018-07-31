@@ -52,7 +52,9 @@ Around
  ** [Ssh Help test connection](https://help.github.com/articles/testing-your-ssh-connection/)   
  ** [Ssh help check existing keys](https://help.github.com/articles/checking-for-existing-ssh-keys/)   
  ** [Set your git ssh](http://guides.beanstalkapp.com/version-control/git-on-windows.html)   
-* [Let's Encrypt](https://letsencrypt.org/)   
+* [Let's Encrypt](https://letsencrypt.org/)
+* [https://www.putty.org/](https://www.putty.org/) with PuTTY tools : puttygen, pagent, plink   
+ ** [Ssh, GiT and PuTTY tuto](https://vladmihalcea.com/tutorials/git/windows-git-ssh-authentication-to-github/)   
 
 
 ### Investigation, test tools
