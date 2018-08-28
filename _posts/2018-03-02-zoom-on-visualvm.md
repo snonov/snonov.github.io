@@ -20,6 +20,9 @@ Get plugin offline :
 Develop your plugin :  
 [https://visualvm.github.io/extending.html](https://visualvm.github.io/extending.html)
 
+Interesting plugins :   
+Thread dump analyzer [https://github.com/irockel/tda](https://github.com/irockel/tda), get plugin (nbm files) from release pages. Once 3 files installed on your VisualVM think to restart it.   
+
 ## Some history points
 
 ### No more VisualVM inside JDK 9
