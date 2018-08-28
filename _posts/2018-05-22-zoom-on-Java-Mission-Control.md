@@ -14,6 +14,18 @@ Twitter :
 * [https://twitter.com/javamissionctrl](https://twitter.com/javamissionctrl)
 * [https://twitter.com/hirt](https://twitter.com/hirt)
 
+## Java Mission Control open sourced
+
+Open source announcement : [http://hirt.se/blog/?p=944](http://hirt.se/blog/?p=944)
+
+Repositories :    
+GitHub repository : [https://github.com/JDKMissionControl/jmc](https://github.com/JDKMissionControl/jmc)    
+OpenJDK mercurial repository : [http://hg.openjdk.java.net/jmc](http://hg.openjdk.java.net/jmc)
+
+JMC openJDK Wiki : [https://wiki.openjdk.java.net/display/jmc/Main](https://wiki.openjdk.java.net/display/jmc/Main)
+
+Oracle decision following open sourcind : [https://www.infoq.com/news/2018/06/open-source-jmc](https://www.infoq.com/news/2018/06/open-source-jmc)   
+
 ## Resources    
 
 Blog Marcus Hirt : [http://hirt.se/blog/](http://hirt.se/blog/)
