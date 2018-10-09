@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Zoom on Distributed Systems"
-date: 2018-09-18
+date: 2018-10-09
 tags : Zoomon Distributed Systems Paxos Raft Pattern
 ---
 
