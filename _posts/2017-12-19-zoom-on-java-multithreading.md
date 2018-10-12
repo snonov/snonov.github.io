@@ -19,6 +19,9 @@ Par le menu
 ## Une introduction rapide :
 [https://www.guru99.com/multithreading-java.html](https://www.guru99.com/multithreading-java.html)
 
+Threads in JVM: managing, observing and diagnosing     
+[https://vimeo.com/291453280](https://vimeo.com/291453280)
+
 ## 2 personnes à suivre sur le sujet :
 * Brian Goetz
 --> Le livre : [https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601/](https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601/)
