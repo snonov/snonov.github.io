@@ -20,7 +20,13 @@ tags : Tool Handrail Notepad++
 
 ### Replace all http(s) urls with Markdown decoration
 
-* Find : http[s]?\:\/\/.[a-zA-Z0-9\.\/\_?=%&#\-\+!]+
-* Replace with : [$&]\($&\)
+* Find : 
+```
+http[s]?\:\/\/.[a-zA-Z0-9\.\/\_?=%&#\-\+!]+
+```
+* Replace with : 
+```
+[$&]\($&\)
+```
 
 Register it as a macro using replace all
