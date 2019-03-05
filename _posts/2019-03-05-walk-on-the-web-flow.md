@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20190305"
 date: 2019-03-05
-tags : Cloud Spring Amazon Tlab Jcov Coverage Docker Robotframework Java Stream State
+tags : Cloud Spring Amazon Tlab Jcov Coverage Docker Robotframework Java Stream State Cognitive Biases
 ---
 
 ## Architecture   
@@ -40,3 +40,7 @@ Operatorhub.io
 
 How is software developed at Amazon    
 * [http://highscalability.com/blog/2019/3/4/how-is-software-developed-at-amazon.html](http://highscalability.com/blog/2019/3/4/how-is-software-developed-at-amazon.html)
+
+List of cognitive biases
+* [https://uxinlux.github.io/cognitive-biases/](https://uxinlux.github.io/cognitive-biases/)
+
