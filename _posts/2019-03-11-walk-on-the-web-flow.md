@@ -24,6 +24,9 @@ CALM (Consistency as Logical Monotonicity)
 
 ## Dev    
 
+Profiling sampling bias   
+* [http://blog.ragozin.info/2019/03/lies-darn-lies-and-sampling-bias.html](http://blog.ragozin.info/2019/03/lies-darn-lies-and-sampling-bias.html)
+
 JVM memory footprint   
 * [https://spring.io/blog/2019/03/11/memory-footprint-of-the-jvm](https://spring.io/blog/2019/03/11/memory-footprint-of-the-jvm)
 
