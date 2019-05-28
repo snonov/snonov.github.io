@@ -50,8 +50,8 @@ Some more ...
 ### Tools and initiatives to the rescue
 * SDKMan tool for managing parallel versions of multiple Software Development Kits on most Unix based systems [https://sdkman.io/](https://sdkman.io/)   
 * AdoptOpen JDK   
- * [https://adoptopenjdk.net/](https://adoptopenjdk.net/) pre built distributions   
- * [https://github.com/AdoptOpenJDK](https://github.com/AdoptOpenJDK)  
+ [https://adoptopenjdk.net/](https://adoptopenjdk.net/) pre built distributions   
+ [https://github.com/AdoptOpenJDK](https://github.com/AdoptOpenJDK)  
 * Java is still Free [https://docs.google.com/document/d/1nFGazvrCvHMZJgFstlbzoHjpAVwv5DEdnaBr_5pKuHo/edit#heading=h.p3qt2oh5eczi](https://docs.google.com/document/d/1nFGazvrCvHMZJgFstlbzoHjpAVwv5DEdnaBr_5pKuHo/edit#heading=h.p3qt2oh5eczi) Java champion explanations    
 
 ### Open JDK
@@ -69,6 +69,10 @@ Some more ...
 
 ### Redhat IcedTea
 * [https://icedtea.classpath.org/wiki/Main_Page](https://icedtea.classpath.org/wiki/Main_Page)
+
+### SAP Machine
+* [https://sap.github.io/SapMachine/](https://sap.github.io/SapMachine/)    
+* [https://github.com/SAP/SapMachine](https://github.com/SAP/SapMachine)    
 
 ### Amazon JDK Corretto
 * [https://aws.amazon.com/fr/corretto/](https://aws.amazon.com/fr/corretto/)
