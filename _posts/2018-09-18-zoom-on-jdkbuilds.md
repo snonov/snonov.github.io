@@ -52,6 +52,7 @@ Some more ...
 * AdoptOpen JDK   
  * [https://adoptopenjdk.net/](https://adoptopenjdk.net/) pre built distributions   
  * [https://github.com/AdoptOpenJDK](https://github.com/AdoptOpenJDK)  
+* Java is still Free [https://docs.google.com/document/d/1nFGazvrCvHMZJgFstlbzoHjpAVwv5DEdnaBr_5pKuHo/edit#heading=h.p3qt2oh5eczi](https://docs.google.com/document/d/1nFGazvrCvHMZJgFstlbzoHjpAVwv5DEdnaBr_5pKuHo/edit#heading=h.p3qt2oh5eczi) Java champion explanations    
 
 ### Open JDK
 
