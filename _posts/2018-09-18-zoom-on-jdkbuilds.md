@@ -23,9 +23,16 @@ Java Champions to the rescue
 * [https://medium.com/](https://medium.com/)@javachampions/java-is-still-free-c02aef8c9e04
 * [https://docs.google.com/document/d/1nFGazvrCvHMZJgFstlbzoHjpAVwv5DEdnaBr_5pKuHo/edit](https://docs.google.com/document/d/1nFGazvrCvHMZJgFstlbzoHjpAVwv5DEdnaBr_5pKuHo/edit)
 * [https://www.javaspecialists.eu/archive/Issue260.html](https://www.javaspecialists.eu/archive/Issue260.html)
+* [https://developer.okta.com/blog/2019/01/16/which-java-sdk](https://developer.okta.com/blog/2019/01/16/which-java-sdk)
 
 Resume regarding public and inner Jdk classes   
 * [https://www.azul.com/javas-magic-sauce/](https://www.azul.com/javas-magic-sauce/)
+
+Think from Simon Ritter
+* [https://www.azul.com/dont-fear-the-java/](https://www.azul.com/dont-fear-the-java/)
+
+Some more ...
+* [https://www.baeldung.com/oracle-jdk-vs-openjdk](https://www.baeldung.com/oracle-jdk-vs-openjdk)    
 
 ## Jdk Support   
 
@@ -37,3 +44,35 @@ Resume regarding public and inner Jdk classes
 * [https://jaxenter.com/mercurial-git-scm-java-12-part-3-148112.html](https://jaxenter.com/mercurial-git-scm-java-12-part-3-148112.html)
 * [http://mail.openjdk.java.net/pipermail/discuss/2018-July/004801.html](http://mail.openjdk.java.net/pipermail/discuss/2018-July/004801.html)
 * Open Jdk Git mirroring [https://github.com/openjdk/jdk](https://github.com/openjdk/jdk)
+
+## Various Jdk Sources
+
+### Tools and initiatives to the rescue
+* SDKMan tool for managing parallel versions of multiple Software Development Kits on most Unix based systems [https://sdkman.io/](https://sdkman.io/)   
+* AdoptOpen JDK   
+ * [https://adoptopenjdk.net/](https://adoptopenjdk.net/) pre built distributions   
+ * [https://github.com/AdoptOpenJDK](https://github.com/AdoptOpenJDK)  
+
+### Open JDK
+
+[https://openjdk.java.net/](https://openjdk.java.net/)
+
+### Oracle JDK
+
+* [https://www.oracle.com/technetwork/java/javase/downloads/index.html](https://www.oracle.com/technetwork/java/javase/downloads/index.html)   
+* Open one [http://jdk.java.net/](http://jdk.java.net/)   
+
+### Eclipse Open J9 (from previously IBM J9)
+* [https://www.eclipse.org/openj9/](https://www.eclipse.org/openj9/)    
+* [https://github.com/eclipse/openj9](https://github.com/eclipse/openj9)
+
+### Redhat IcedTea
+* [https://icedtea.classpath.org/wiki/Main_Page](https://icedtea.classpath.org/wiki/Main_Page)
+
+### Amazon JDK Corretto
+* [https://aws.amazon.com/fr/corretto/](https://aws.amazon.com/fr/corretto/)
+* [https://github.com/corretto](https://github.com/corretto)
+
+### Alibaba JDK Corretto
+* [https://www.alibabacloud.com/blog/alibaba-makes-dragonwell-openjdk-open-source_594624](https://www.alibabacloud.com/blog/alibaba-makes-dragonwell-openjdk-open-source_594624)    
+* [https://github.com/alibaba/dragonwell8](https://github.com/alibaba/dragonwell8)
