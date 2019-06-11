@@ -75,7 +75,8 @@ Some more ...
 * [https://github.com/SAP/SapMachine](https://github.com/SAP/SapMachine)    
 
 ### Amazon JDK Corretto
-* [https://aws.amazon.com/fr/corretto/](https://aws.amazon.com/fr/corretto/)
+* [https://aws.amazon.com/fr/corretto/](https://aws.amazon.com/fr/corretto/)     
+* [https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/what-is-corretto-8.html](https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/what-is-corretto-8.html)    
 * [https://github.com/corretto](https://github.com/corretto)
 
 ### Alibaba JDK Corretto
