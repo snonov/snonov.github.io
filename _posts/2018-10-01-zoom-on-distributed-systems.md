@@ -33,6 +33,9 @@ Overview of different series on patterns in distributed systems
 A pattern language for microservices     
 [https://microservices.io/patterns/](https://microservices.io/patterns/)     
 
+A book : Pattern-Oriented Software Architecture Volume 2: Patterns for Concurrent and Networked Objects     
+[https://learning.oreilly.com/library/view/pattern-oriented-software-architecture](https://learning.oreilly.com/library/view/pattern-oriented-software-architecture)      
+
 ## Algo   
 
 * [https://highlyscalable.wordpress.com/2012/09/18/distributed-algorithms-in-nosql-databases/](https://highlyscalable.wordpress.com/2012/09/18/distributed-algorithms-in-nosql-databases/)
