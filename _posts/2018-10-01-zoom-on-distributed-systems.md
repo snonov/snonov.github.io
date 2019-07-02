@@ -8,7 +8,10 @@ tags : Zoomon Distributed Systems Paxos Raft Pattern
 
 ## Introduction  
 
-[https://medium.com/](https://medium.com/)@farcasiu.george/understanding-distributed-databases-5e7b30f154c5
+[https://medium.com/](https://medium.com/)@farcasiu.george/understanding-distributed-databases-5e7b30f154c5     
+
+[https://www.infoq.com/news/2019/06/patterns-distributed-systems](https://www.infoq.com/news/2019/06/patterns-distributed-systems)     
+
 
 ## Pattern 
 
@@ -24,6 +27,11 @@ Distributed Systems in One Lesson by Tim Berglund
 Design patterns for container-based distributed systems    
 [https://ai.google/research/pubs/pub45406](https://ai.google/research/pubs/pub45406)
 
+Overview of different series on patterns in distributed systems     
+[http://verraes.net/2019/05/ddd-msg-arch/](http://verraes.net/2019/05/ddd-msg-arch/)      
+
+A pattern language for microservices     
+[https://microservices.io/patterns/](https://microservices.io/patterns/)     
 
 ## Algo   
 
