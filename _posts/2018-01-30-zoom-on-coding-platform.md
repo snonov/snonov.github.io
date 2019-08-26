@@ -42,3 +42,8 @@ Online Java compiler (https://jaxenter.com/top-6-java-compilers-students-141549.
 
 In coding platform trend [Eclipse Che](https://www.eclipse.org/che/)
 
+## Some manual Kata references    
+
+* Emily Bache GitHub repository [https://github.com/emilybache](https://github.com/emilybache)    
+* Kata from CodingDojo site [http://codingdojo.org/kata/](http://codingdojo.org/kata/) to contribute see [https://github.com/codingdojo-org](https://github.com/codingdojo-org)    
+* Awesome Kata [https://github.com/gamontal/awesome-katas](https://github.com/gamontal/awesome-katas)    
