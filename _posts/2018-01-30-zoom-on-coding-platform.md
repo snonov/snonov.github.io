@@ -2,7 +2,7 @@
 layout: post
 title: "Zoom on coding platform"
 date: 2018-01-30
-tags : Zoomon Code Learn Coding Platform Online Eclipse Che Game Compiler Ide
+tags : Zoomon Code Learn Coding Platform Online Eclipse Che Game Compiler Ide Kata
 ---
 
 ## coding platform
