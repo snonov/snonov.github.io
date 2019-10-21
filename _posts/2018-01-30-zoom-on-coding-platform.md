@@ -47,3 +47,5 @@ In coding platform trend [Eclipse Che](https://www.eclipse.org/che/)
 * Emily Bache GitHub repository [https://github.com/emilybache](https://github.com/emilybache)    
 * Kata from CodingDojo site [http://codingdojo.org/kata/](http://codingdojo.org/kata/) to contribute see [https://github.com/codingdojo-org](https://github.com/codingdojo-org)    
 * Awesome Kata [https://github.com/gamontal/awesome-katas](https://github.com/gamontal/awesome-katas)    
+* Java Kata [https://github.com/c-guntur/java-katas](https://github.com/c-guntur/java-katas)    
+
