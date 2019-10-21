@@ -21,4 +21,5 @@ Collection on links, tools that help investigation, analysis, setting on JVM
 * [MemoryPoolView, a VisualVM plugin](https://github.com/kcpeppe/memorypoolview) by Kirk Pepperdine    
 * [JMC git repository](https://github.com/JDKMissionControl/jmc)    
 * [Visualize G1GC Region allocation data](https://github.com/kcpeppe/regions) by Kirk Pepperdine
+* [JCoz, a causal Java profiler](http://decave.github.io/JCoz/)     
 
