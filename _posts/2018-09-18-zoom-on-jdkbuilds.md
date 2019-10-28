@@ -31,6 +31,9 @@ Resume regarding public and inner Jdk classes
 Think from Simon Ritter
 * [https://www.azul.com/dont-fear-the-java/](https://www.azul.com/dont-fear-the-java/)
 
+Rafael Winterhalter Twitter Thread
+* [https://twitter.com/rafaelcodes/status/1188480567010086912](https://twitter.com/rafaelcodes/status/1188480567010086912)    
+
 Some more ...
 * [https://www.baeldung.com/oracle-jdk-vs-openjdk](https://www.baeldung.com/oracle-jdk-vs-openjdk)    
 
@@ -47,7 +50,8 @@ Some more ...
 
 ## Various Jdk Sources
 
-### Tools and initiatives to the rescue
+### Tools and initiatives to the rescue    
+
 * SDKMan tool for managing parallel versions of multiple Software Development Kits on most Unix based systems [https://sdkman.io/](https://sdkman.io/)   
 * AdoptOpen JDK   
  [https://adoptopenjdk.net/](https://adoptopenjdk.net/) pre built distributions   
@@ -63,22 +67,38 @@ Some more ...
 * [https://www.oracle.com/technetwork/java/javase/downloads/index.html](https://www.oracle.com/technetwork/java/javase/downloads/index.html)   
 * Open one [http://jdk.java.net/](http://jdk.java.net/)   
 
-### Eclipse Open J9 (from previously IBM J9)
+### Eclipse Open J9 (from previously IBM J9)   
+
 * [https://www.eclipse.org/openj9/](https://www.eclipse.org/openj9/)    
 * [https://github.com/eclipse/openj9](https://github.com/eclipse/openj9)
 
-### Redhat IcedTea
+### Redhat IcedTea   
+
 * [https://icedtea.classpath.org/wiki/Main_Page](https://icedtea.classpath.org/wiki/Main_Page)
 
-### SAP Machine
+### SAP Machine    
+
 * [https://sap.github.io/SapMachine/](https://sap.github.io/SapMachine/)    
 * [https://github.com/SAP/SapMachine](https://github.com/SAP/SapMachine)    
 
-### Amazon JDK Corretto
-* [https://aws.amazon.com/fr/corretto/](https://aws.amazon.com/fr/corretto/)     
-* [https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/what-is-corretto-8.html](https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/what-is-corretto-8.html)    
-* [https://github.com/corretto](https://github.com/corretto)
+### Amazon JDK Corretto    
 
-### Alibaba JDK Corretto
-* [https://www.alibabacloud.com/blog/alibaba-makes-dragonwell-openjdk-open-source_594624](https://www.alibabacloud.com/blog/alibaba-makes-dragonwell-openjdk-open-source_594624)    
-* [https://github.com/alibaba/dragonwell8](https://github.com/alibaba/dragonwell8)
+* [https://aws.amazon.com/fr/corretto/](https://aws.amazon.com/fr/corretto/)     
+* [https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/what-is-corretto-8.html](https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/what-is-corretto-8.html)      
+* [https://github.com/corretto](https://github.com/corretto)    
+
+### Alibaba JDK Corretto   
+
+* [https://www.alibabacloud.com/blog/alibaba-makes-dragonwell-openjdk-open-source_594624](https://www.alibabacloud.com/blog/alibaba-makes-dragonwell-openjdk-open-source_594624)     
+* [https://github.com/alibaba/dragonwell8](https://github.com/alibaba/dragonwell8)    
+
+### Pivotal Spring Runtime 
+
+* [https://pivotal.io/de/pivotal-spring-runtime](https://pivotal.io/de/pivotal-spring-runtime)     
+* [https://content.pivotal.io/blog/introducing-pivotal-spring-runtime-full-support-for-openjdk-spring-framework-and-apache-tomcat](https://content.pivotal.io/blog/introducing-pivotal-spring-runtime-full-support-for-openjdk-spring-framework-and-apache-tomcat)   
+
+### Liberica JDK    
+
+* [https://bell-sw.com/pages/java-13.0.1/](https://bell-sw.com/pages/java-13.0.1/)    
+* [https://github.com/bell-sw/Liberica](https://github.com/bell-sw/Liberica)    
+
