@@ -12,6 +12,10 @@ Collection on links, tools that help investigation, analysis, setting on JVM
 * [GC Tuning & Troubleshooting Crash Course presentation](https://blog.gceasy.io/2019/10/10/jax-london-conference-2019/) and [slides](https://www.slideshare.net/MaliniV3/gc-tuning-troubleshooting-crash-course)    
 * [Troubleshooting Real Production Problems](https://blog.gceasy.io/2019/10/10/troubleshooting-real-production-problems-at-jax-london-2019/) and [slides](https://www.slideshare.net/MaliniV3/troubleshooting-real-production-problems)    
 
+## JMM (Java Memory Model)
+
+* [Aleksey Shipilev (RedHat) slides](https://shipilev.net/talks/geecon-May2018-jmm.pdf)   
+
 ## Tuning JVM args
 
 * [JVM args](https://www.java67.com/2016/08/10-jvm-options-for-java-production-application.html)     
