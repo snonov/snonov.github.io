@@ -26,6 +26,8 @@ non-exhaustive list of coding platform, coding contest and so on
 * CodeGym [https://codegym.cc/](https://codegym.cc/)     
 * CodeAcademy [https://www.codecademy.com/](https://www.codecademy.com/)     
 * CodeWar [https://www.codewars.com/?language=java](https://www.codewars.com/?language=java)     
+* Kaggle (datascientist, machine learning) [https://www.kaggle.com/](https://www.kaggle.com/)    
+
 
 ## One step beyond
 
