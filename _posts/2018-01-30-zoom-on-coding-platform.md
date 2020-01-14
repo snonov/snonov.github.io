@@ -52,3 +52,11 @@ In coding platform trend [Eclipse Che](https://www.eclipse.org/che/)
 * Awesome Kata [https://github.com/gamontal/awesome-katas](https://github.com/gamontal/awesome-katas)    
 * Java Kata [https://github.com/c-guntur/java-katas](https://github.com/c-guntur/java-katas)    
 
+
+## Prepare interview
+
+Over that sample of Google resources reco to prepare their interview :   
+[https://levelup.gitconnected.com/i-got-rejected-by-google-1ab8f7a4908e](https://levelup.gitconnected.com/i-got-rejected-by-google-1ab8f7a4908e)
+
+
+
