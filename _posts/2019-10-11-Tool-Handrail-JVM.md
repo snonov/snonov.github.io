@@ -20,6 +20,9 @@ Collection on links, tools that help investigation, analysis, setting on JVM
 
 * [JVM args](https://www.java67.com/2016/08/10-jvm-options-for-java-production-application.html)     
 * [CheatSheet JVM options](http://blog.ragozin.info/2016/10/hotspot-jvm-garbage-collection-options.html)    
+* Tool, JVM args explorer
+   * [VM options explorer](https://chriswhocodes.com/vm-options-explorer.html)   
+   * [VM options explorer source code](https://github.com/chriswhocodes/VMOptionsExplorer)    
 
 ## Tools
 
