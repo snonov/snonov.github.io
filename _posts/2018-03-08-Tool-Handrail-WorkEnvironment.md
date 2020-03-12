@@ -16,6 +16,10 @@ Collection of developer tools (and beyond)
 * [IntelliJ](https://www.jetbrains.com/idea/)
 * [Apache NetBean](https://netbeans.apache.org/)
 
+#### Python
+* [Anaconda](https://www.anaconda.com/)
+* [PyCharm](https://www.jetbrains.com/pycharm/)
+
 #### JavaScript
 * [Sublime Text](https://www.sublimetext.com/)
 * [VisualStudio Code](https://code.visualstudio.com/)
