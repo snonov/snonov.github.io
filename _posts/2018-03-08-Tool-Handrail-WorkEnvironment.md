@@ -70,10 +70,15 @@ Around
 * [Oracle VM VirtualBox](https://www.virtualbox.org/)
 * [Vagrant](https://www.vagrantup.com/)
 
+### Container
+* [Docker for windows](https://docs.docker.com/docker-for-windows/install/)
+* [KubeCtl](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
+
 ### Cloud
 * [AWS](https://aws.amazon.com/fr/)
 * [Digital Ocean](https://www.digitalocean.com/)
 * [Azure](https://azure.microsoft.com/fr-fr/)
+   * [Azure Cli](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
 
 ### Windows desktop
 * [KeePass, password manager](https://keepass.info/)
