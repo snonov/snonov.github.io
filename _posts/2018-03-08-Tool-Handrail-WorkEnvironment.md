@@ -95,5 +95,6 @@ Around
 * [Xmind mind mapping](http://www.xmind.net/fr/)
 * [FileZilla](https://filezilla-project.org/)
 * [YeD Graph editor](https://www.yworks.com/products/yed)
+* [GraphViz editor](https://www.graphviz.org/) ands [Gitlab sources](https://gitlab.com/graphviz/graphviz/) to read .dot graph file descriptions    
 * [JD Java Decompiler](http://jd.benow.ca/)
 * [Jar Explorer](https://github.com/javalite/jar-explorer)
