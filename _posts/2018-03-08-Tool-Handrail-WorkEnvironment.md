@@ -85,6 +85,7 @@ Around
 * [Package manager](https://chocolatey.org/)
 * [ProcessExplorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
 * [ScreenShot](http://getgreenshot.org/)
+* [Another Screenshot](https://flameshot.org/)
 * [JDiskReport](http://www.jgoodies.com/freeware/jdiskreport/)
 * [Cmder](https://cmder.net/)
 
