@@ -67,6 +67,11 @@ Some more ...
 * [https://www.oracle.com/technetwork/java/javase/downloads/index.html](https://www.oracle.com/technetwork/java/javase/downloads/index.html)   
 * Open one [http://jdk.java.net/](http://jdk.java.net/)   
 
+### Microsoft JDK
+
+* [https://github.com/microsoft/openjdk](https://github.com/microsoft/openjdk)
+* [https://www.microsoft.com/openjdk](https://www.microsoft.com/openjdk)
+
 ### Eclipse Open J9 (from previously IBM J9)   
 
 * [https://www.eclipse.org/openj9/](https://www.eclipse.org/openj9/)    
