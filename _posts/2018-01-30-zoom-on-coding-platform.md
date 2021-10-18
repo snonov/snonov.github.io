@@ -33,9 +33,8 @@ non-exhaustive list of coding platform, coding contest and so on
 ## One step beyond
 
 Online tools and services for executing and grading untrusted source code
-* Judge0 [https://judge0.com/](https://judge0.com/) and [Judge0 Github](https://github.com/judge0)
-
-Online Java compiler (https://jaxenter.com/top-6-java-compilers-students-141549.html)[https://jaxenter.com/top-6-java-compilers-students-141549.html]
+* Judge0 [https://judge0.com/](https://judge0.com/) and [Judge0 Github](https://github.com/judge0)   
+* Online Java compiler [https://jaxenter.com/top-6-java-compilers-students-141549.html](https://jaxenter.com/top-6-java-compilers-students-141549.html)
 * Codiva [https://www.codiva.io/](https://www.codiva.io/)
 * JDoodle [https://www.jdoodle.com/](https://www.jdoodle.com/)
 * RexTester [http://rextester.com/l/java_online_compiler](http://rextester.com/l/java_online_compiler)
