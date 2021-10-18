@@ -99,3 +99,12 @@ Around
 * [GraphViz editor](https://www.graphviz.org/) ands [Gitlab sources](https://gitlab.com/graphviz/graphviz/) to read .dot graph file descriptions    
 * [JD Java Decompiler](http://jd.benow.ca/)
 * [Jar Explorer](https://github.com/javalite/jar-explorer)
+* [Minimal markdown editor](https://github.com/amitmerchant1990/electron-markdownify)
+
+### Online services
+* Beautifull code to doc [https://carbon.now.sh/](https://carbon.now.sh/)    
+* Diagram [https://app.diagrams.net/](https://app.diagrams.net/)
+* Share code [https://codeshare.io](https://codeshare.io)
+* Share archi draw [https://excalidraw.com ](https://excalidraw.com )    
+
+
