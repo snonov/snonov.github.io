@@ -15,6 +15,7 @@ Collection of developer tools (and beyond)
 * [Eclipse](https://www.eclipse.org/)
 * [IntelliJ](https://www.jetbrains.com/idea/)
 * [Apache NetBean](https://netbeans.apache.org/)
+* [VSCode](https://code.visualstudio.com/)
 
 #### Python
 * [Anaconda](https://www.anaconda.com/)
@@ -40,6 +41,7 @@ Around
 * [VisualVM](https://visualvm.github.io/)
 * [JProfiler, Java Profiler](https://www.ej-technologies.com/products/jprofiler/overview.html)
 * [Yourkit, Java Profiler](https://www.yourkit.com/)
+* [Java Mission Control JMC](https://github.com/openjdk/jmc)
 
 ### Terminal
 * [iTerm MacOS](https://www.iterm2.com/)
@@ -89,6 +91,23 @@ Around
 * [JDiskReport](http://www.jgoodies.com/freeware/jdiskreport/)
 * [Cmder](https://cmder.net/)
 
+Collection of windows tool : [Scott Hanselman list](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows)
+
+### API
+* [Postman](https://www.postman.com/)
+* [Insomnia](https://insomnia.rest/)
+
+### Code sharing
+
+## online
+* [CodeShare](https://codeshare.io/)
+* [CodeSandbox](https://codesandbox.io/)
+* [Stackblitz](https://developer.stackblitz.com/)
+* [Codepile](https://www.codepile.net)
+
+## share IDE
+* [Jetbrain codewithme](https://www.jetbrains.com/code-with-me/)
+* [VS liveShare](https://visualstudio.microsoft.com/fr/services/live-share/)
 
 ### Other
 * [Notepad++](https://notepad-plus-plus.org/fr/)
@@ -105,6 +124,8 @@ Around
 * Beautifull code to doc [https://carbon.now.sh/](https://carbon.now.sh/)    
 * Diagram [https://app.diagrams.net/](https://app.diagrams.net/)
 * Share code [https://codeshare.io](https://codeshare.io)
-* Share archi draw [https://excalidraw.com ](https://excalidraw.com )    
+* Share archi draw [https://excalidraw.com ](https://excalidraw.com )  
+* Remote share draw [Mural](https://mural.co/)   
+* Online Pomodoro [Pomodoro](https://pomofocus.io/)   
 
 
