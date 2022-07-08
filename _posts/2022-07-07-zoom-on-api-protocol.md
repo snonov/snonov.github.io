@@ -31,6 +31,7 @@ Web service - W3C definition : software system designed to support interoperable
 [Review of various API protocols](https://iq.opengenus.org/different-types-of-api-protocols/)    
 [RedHat Architecture guide to APIs](https://www.redhat.com/architect/apis-soap-rest-graphql-grpc)    
 [Roy T Fielding : Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)    
+Perspective in Microservice world : [SOA vs Microservice](https://www.jrebel.com/blog/microservices-vs-soa)
 
 ## SOAP (Simple Object Access Protocol)
 
