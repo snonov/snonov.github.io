@@ -20,7 +20,8 @@ API (Application Programming Interface) enable commuication between services. Re
 Exchange based on transport (and protocol) would be view as :   
 * Request/Response format   
 * Request structure   
-* Response Structure   
+* Response Structure  
+* Transport layer 
 * Endpoint   
 
 Web service - W3C definition : software system designed to support interoperable machine-to-machine interaction over a network.
@@ -36,6 +37,12 @@ Perspective in Microservice world : [SOA vs Microservice](https://www.jrebel.com
 ## SOAP (Simple Object Access Protocol)
 
 [SOAP on W3 org](https://www.w3.org/TR/soap/)
+
+* Format : SOAP XML Request and Response (with envelope, optional Header and Body)
+* Transport
+   * SOAP over MQ
+   * SOAP over HTTP
+* Service definition : WSDL
 
 ## REST (Representational State Transfert)
 
