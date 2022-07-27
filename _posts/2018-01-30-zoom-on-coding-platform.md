@@ -48,9 +48,16 @@ In coding platform trend [Eclipse Che](https://www.eclipse.org/che/)
 
 * Emily Bache GitHub repository [https://github.com/emilybache](https://github.com/emilybache)    
 * Kata from CodingDojo site [http://codingdojo.org/kata/](http://codingdojo.org/kata/) to contribute see [https://github.com/codingdojo-org](https://github.com/codingdojo-org)    
-* Awesome Kata [https://github.com/gamontal/awesome-katas](https://github.com/gamontal/awesome-katas)    
-* Java Kata [https://github.com/c-guntur/java-katas](https://github.com/c-guntur/java-katas)    
+* Awesome Kata [https://github.com/gamontal/awesome-katas](https://github.com/gamontal/awesome-katas)
+* [https://kata-log.rocks/](https://kata-log.rocks/)
+* [https://blog.ippon.fr/2021/04/12/mon-catalogue-de-katas/](https://blog.ippon.fr/2021/04/12/mon-catalogue-de-katas/)    
+* Java Kata 
+   * [https://github.com/c-guntur/java-katas](https://github.com/c-guntur/java-katas)    
+   * [https://github.com/c-guntur/java-katas](https://github.com/forax/kata-java17)   
+   * [https://github.com/forax/kata-restrospective-11](https://github.com/forax/kata-restrospective-11)   
 
+## Other practises exercices
+* Refactoring legacy code [https://github.com/jbrains/trivia](https://github.com/jbrains/trivia), see Devoxx Video [https://www.youtube.com/watch?v=xXvuBX1bVh8](https://www.youtube.com/watch?v=xXvuBX1bVh8)   
 
 ## Prepare interview
 
