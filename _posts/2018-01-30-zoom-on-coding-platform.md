@@ -64,5 +64,22 @@ In coding platform trend [Eclipse Che](https://www.eclipse.org/che/)
 Over that sample of Google resources reco to prepare their interview :   
 [https://levelup.gitconnected.com/i-got-rejected-by-google-1ab8f7a4908e](https://levelup.gitconnected.com/i-got-rejected-by-google-1ab8f7a4908e)
 
+Questions samples in interview design :
+* [https://medium.com/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0](https://medium.com/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0)
+* [https://www.java67.com/2016/07/top-5-object-oriented-design-interview-questions.html](https://www.java67.com/2016/07/top-5-object-oriented-design-interview-questions.html)
+* [https://javarevisited.blogspot.com/2022/03/how-to-design-trade-position-calculator.html](https://javarevisited.blogspot.com/2022/03/how-to-design-trade-position-calculator.html)
+* [Threading Questions in Job Interviews](https://www.javaspecialists.eu/archive/Issue265.html)    
+* [Java Interview Questions for Programmers](https://dzone.com/articles/50-java-interview-questions-for-programmers)    
+* [Microservices Interview Questions and Answers](https://www.javacodegeeks.com/2019/04/microservices-interview-questions-and-answers.html)    
+* [Top 20 System Design Interview Questions for Java Programmers](https://dzone.com/articles/top-20-system-design-interview-questions-for-java)     
+* [Top 100 Data Structure and Algorithm Interview Questions for Java Programmers](http://www.java67.com/2018/06/data-structure-and-algorithm-interview-questions-programmers.html)    
+* [20 Design Patterns and Software Design Interview Questions for Programmers](https://javarevisited.blogspot.com/2012/06/20-design-pattern-and-software-design.html)    
+* [130+ Java Interview Questions Answers for 2 to 7 Year Experienced Programmers](https://javarevisited.blogspot.com/2015/10/133-java-interview-questions-answers-from-last-5-years.html)    
+* [Top 50 Java Thread Interview Questions Answers for Experienced](https://javarevisited.blogspot.com/2014/07/top-50-java-multithreading-interview-questions-answers.html)   
+* [Java Programming Mock Tests](https://www.geeksforgeeks.org/quiz-corner-gq/#Java%20Programming%20Mock%20Tests)   
+* [Some Kata](http://codekata.com/)     
+* [Data Structure and Algorithms Interview Questions for Programmers](https://medium.com/hackernoon/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
+
+
 
 
