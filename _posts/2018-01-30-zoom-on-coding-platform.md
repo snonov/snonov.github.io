@@ -64,6 +64,9 @@ In coding platform trend [Eclipse Che](https://www.eclipse.org/che/)
 Over that sample of Google resources reco to prepare their interview :   
 [https://levelup.gitconnected.com/i-got-rejected-by-google-1ab8f7a4908e](https://levelup.gitconnected.com/i-got-rejected-by-google-1ab8f7a4908e)
 
+Online material to prepare FAANG (Facebook aka Meta, Amazon, Apple, Netflix, Google) interviews :     
+[https://medium.com/@SunnyB/resources-for-prepping-for-interviews-dc9f23bb41fb](https://medium.com/@SunnyB/resources-for-prepping-for-interviews-dc9f23bb41fb)
+
 Questions samples in interview design :
 * [https://medium.com/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0](https://medium.com/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0)
 * [https://www.java67.com/2016/07/top-5-object-oriented-design-interview-questions.html](https://www.java67.com/2016/07/top-5-object-oriented-design-interview-questions.html)
