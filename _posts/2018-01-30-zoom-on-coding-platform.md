@@ -67,6 +67,13 @@ Over that sample of Google resources reco to prepare their interview :
 Online material to prepare FAANG (Facebook aka Meta, Amazon, Apple, Netflix, Google) interviews :     
 [https://medium.com/@SunnyB/resources-for-prepping-for-interviews-dc9f23bb41fb](https://medium.com/@SunnyB/resources-for-prepping-for-interviews-dc9f23bb41fb)
 
+Some Github repositories to help in preparation :  
+* Coding interview guide [https://github.com/jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)    
+* Another one [https://github.com/yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)   
+* Another other one [https://github.com/Olshansk/interview](https://github.com/Olshansk/interview)   
+* Leetcode Java answer [https://github.com/gouthampradhan/leetcode](https://github.com/gouthampradhan/leetcode)   
+* Web guide on how it works [https://github.com/vasanthk/how-web-works](https://github.com/vasanthk/how-web-works)   
+
 Questions samples in interview design :
 * [https://medium.com/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0](https://medium.com/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0)
 * [https://www.java67.com/2016/07/top-5-object-oriented-design-interview-questions.html](https://www.java67.com/2016/07/top-5-object-oriented-design-interview-questions.html)
