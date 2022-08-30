@@ -29,6 +29,10 @@ non-exhaustive list of coding platform, coding contest and so on
 * CodeWar [https://www.codewars.com/?language=java](https://www.codewars.com/?language=java)     
 * Kaggle (datascientist, machine learning) [https://www.kaggle.com/](https://www.kaggle.com/)    
 
+## online courses with practical projetcs
+
+* Jetbrain academy https://hyperskill.org/tracks    
+
 
 ## One step beyond
 
