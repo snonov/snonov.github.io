@@ -57,12 +57,13 @@ In coding platform trend [Eclipse Che](https://www.eclipse.org/che/)
 * [https://kata-log.rocks/](https://kata-log.rocks/)
 * [https://blog.ippon.fr/2021/04/12/mon-catalogue-de-katas/](https://blog.ippon.fr/2021/04/12/mon-catalogue-de-katas/)    
 * Java Kata 
-   * [https://github.com/cluePrints/java-threading-kata](https://github.com/cluePrints/java-threading-kata)    
-   * [https://github.com/philou/concurrency-kata](https://github.com/philou/concurrency-kata)   
+   * [https://github.com/BNYMellon/CodeKatas](https://github.com/BNYMellon/CodeKatas)    
    * [https://github.com/c-guntur/java-katas](https://github.com/c-guntur/java-katas)    
    * [https://github.com/forax/kata-java17](https://github.com/forax/kata-java17)   
    * [https://github.com/forax/kata-restrospective-11](https://github.com/forax/kata-restrospective-11)   
-   * [https://github.com/c-guntur/java-katas](https://github.com/c-guntur/java-katas)    
+   * [https://github.com/cluePrints/java-threading-kata](https://github.com/cluePrints/java-threading-kata)    
+   * [https://github.com/philou/concurrency-kata](https://github.com/philou/concurrency-kata) 
+   * [https://github.com/WildCodeSchool/java-katas](https://github.com/WildCodeSchool/java-katas)   
 
 ## Other practises exercices
 * Refactoring legacy code [https://github.com/jbrains/trivia](https://github.com/jbrains/trivia), see Devoxx Video [https://www.youtube.com/watch?v=xXvuBX1bVh8](https://www.youtube.com/watch?v=xXvuBX1bVh8)   
