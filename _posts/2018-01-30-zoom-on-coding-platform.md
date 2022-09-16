@@ -26,7 +26,8 @@ non-exhaustive list of coding platform, coding contest and so on
 * Cyber Dojo [https://cyber-dojo.org/dojo/index/](https://cyber-dojo.org/dojo/index/)     
 * CodeGym [https://codegym.cc/](https://codegym.cc/)     
 * CodeAcademy [https://www.codecademy.com/](https://www.codecademy.com/)     
-* CodeWar [https://www.codewars.com/?language=java](https://www.codewars.com/?language=java)     
+* CodeWar [https://www.codewars.com/?language=java](https://www.codewars.com/?language=java) 
+* CodeForce [https://codeforces.com/problemset](https://codeforces.com/problemset)    
 * Kaggle (datascientist, machine learning) [https://www.kaggle.com/](https://www.kaggle.com/)    
 
 ## online courses with practical projetcs
