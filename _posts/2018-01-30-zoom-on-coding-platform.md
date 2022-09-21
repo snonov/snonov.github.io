@@ -69,6 +69,7 @@ In coding platform trend [Eclipse Che](https://www.eclipse.org/che/)
    * [https://github.com/codecop/Book-Discounts-Refactoring-Kata](https://github.com/codecop/Book-Discounts-Refactoring-Kata)   
    * [https://github.com/HouariZegai/clean-code/tree/master/katas](https://github.com/HouariZegai/clean-code/tree/master/katas)   
    * [https://github.com/emilybache/DiamondKata](https://github.com/emilybache/DiamondKata)     
+   * [https://github.com/novoda/dojos](https://github.com/novoda/dojos)     
 
 ## Other practises exercices
 * Refactoring legacy code [https://github.com/jbrains/trivia](https://github.com/jbrains/trivia), see Devoxx Video [https://www.youtube.com/watch?v=xXvuBX1bVh8](https://www.youtube.com/watch?v=xXvuBX1bVh8)   
