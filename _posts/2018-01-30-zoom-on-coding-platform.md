@@ -63,7 +63,11 @@ In coding platform trend [Eclipse Che](https://www.eclipse.org/che/)
    * [https://github.com/forax/kata-restrospective-11](https://github.com/forax/kata-restrospective-11)   
    * [https://github.com/cluePrints/java-threading-kata](https://github.com/cluePrints/java-threading-kata)    
    * [https://github.com/philou/concurrency-kata](https://github.com/philou/concurrency-kata) 
-   * [https://github.com/WildCodeSchool/java-katas](https://github.com/WildCodeSchool/java-katas)   
+   * [https://github.com/WildCodeSchool/java-katas](https://github.com/WildCodeSchool/java-katas)  
+   * [https://github.com/codecop/golfed-game-of-tron](https://github.com/codecop/golfed-game-of-tron)    
+   * [https://github.com/aatwi/MarsRover-Refactoring-Kata](https://github.com/aatwi/MarsRover-Refactoring-Kata)   
+   * [https://github.com/codecop/Book-Discounts-Refactoring-Kata](https://github.com/codecop/Book-Discounts-Refactoring-Kata)   
+   * [https://github.com/HouariZegai/clean-code/tree/master/katas](https://github.com/HouariZegai/clean-code/tree/master/katas)   
 
 ## Other practises exercices
 * Refactoring legacy code [https://github.com/jbrains/trivia](https://github.com/jbrains/trivia), see Devoxx Video [https://www.youtube.com/watch?v=xXvuBX1bVh8](https://www.youtube.com/watch?v=xXvuBX1bVh8)   
