@@ -107,6 +107,13 @@ Questions samples in interview design :
 * [Some Kata](http://codekata.com/)     
 * [Data Structure and Algorithms Interview Questions for Programmers](https://medium.com/hackernoon/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 
+Spring interview quesitons sample :     
+* [https://www.java67.com/2012/08/spring-interview-questions-answers.html](https://www.java67.com/2012/08/spring-interview-questions-answers.html)     
+* [https://javarevisited.blogspot.com/2020/05/top-20-spring-boot-interview-questions-answers.html](https://javarevisited.blogspot.com/2020/05/top-20-spring-boot-interview-questions-answers.html)     
+
+
+
+
 
 
 
