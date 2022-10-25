@@ -28,6 +28,7 @@ non-exhaustive list of coding platform, coding contest and so on
 * CodeAcademy [https://www.codecademy.com/](https://www.codecademy.com/)     
 * CodeWar [https://www.codewars.com/?language=java](https://www.codewars.com/?language=java) 
 * CodeForce [https://codeforces.com/problemset](https://codeforces.com/problemset)    
+* HackAttic [https://hackattic.com/](https://hackattic.com/)    
 * Kaggle (datascientist, machine learning) [https://www.kaggle.com/](https://www.kaggle.com/)    
 
 ## online courses with practical projetcs
