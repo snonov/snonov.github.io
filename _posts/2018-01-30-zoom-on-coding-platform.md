@@ -73,7 +73,9 @@ In coding platform trend [Eclipse Che](https://www.eclipse.org/che/)
    * [https://github.com/novoda/dojos](https://github.com/novoda/dojos)   
    * [https://github.com/emilybache/Email-Sender-Refactoring-Kata](https://github.com/emilybache/Email-Sender-Refactoring-Kata)  
    * [Stream, Java 17 kata](https://www.youtube.com/watch?v=wW7uzc61tZ8)
-   * [Java OOP Kata](https://github.com/pawelpluta/oop-kata)
+   * [Java OOP Kata](https://github.com/pawelpluta/oop-kata)    
+   * [https://github.com/sandromancuso/testing_legacy_code](https://github.com/sandromancuso/testing_legacy_code) and more from Sandro Mancuso [https://github.com/sandromancuso?tab=repositories](https://github.com/sandromancuso?tab=repositories)     
+
 
 ## Other practises exercices
 * Refactoring legacy code [https://github.com/jbrains/trivia](https://github.com/jbrains/trivia), see Devoxx Video [https://www.youtube.com/watch?v=xXvuBX1bVh8](https://www.youtube.com/watch?v=xXvuBX1bVh8)   
