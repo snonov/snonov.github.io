@@ -131,5 +131,7 @@ Collection of windows tool : [Scott Hanselman list](https://www.hanselman.com/bl
 * Remote share draw [Mural](https://mural.co/)   
 * Online Pomodoro [Pomodoro](https://pomofocus.io/)   
 * Online Timer [VClock](https://vclock.com/)
+* MindMap [https://framindmap.org/c/login](https://framindmap.org/c/login)   
+
 
 
