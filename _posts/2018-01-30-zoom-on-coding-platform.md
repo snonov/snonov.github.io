@@ -30,6 +30,7 @@ non-exhaustive list of coding platform, coding contest and so on
 * CodeForce [https://codeforces.com/problemset](https://codeforces.com/problemset)    
 * HackAttic [https://hackattic.com/](https://hackattic.com/)    
 * Kaggle (datascientist, machine learning) [https://www.kaggle.com/](https://www.kaggle.com/)    
+* Greps A fresh way to analyze and measure Java skills [https://www.greps.com/](https://www.greps.com/)    
 
 ## online courses with practical projetcs
 
