@@ -48,6 +48,7 @@ Online tools and services for executing and grading untrusted source code
 * Online GDB [https://www.onlinegdb.com/](https://www.onlinegdb.com/)
 * Browxy [http://www.browxy.com/](http://www.browxy.com/)
 * IDEOne [https://ideone.com/](https://ideone.com/)
+* Godbolt [https://godbolt.org/](https://godbolt.org/)
 
 In coding platform trend [Eclipse Che](https://www.eclipse.org/che/)
 
