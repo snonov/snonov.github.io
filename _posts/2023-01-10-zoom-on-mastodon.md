@@ -26,6 +26,9 @@ Some developer dedicated instances
 [https://foojay.social/about](https://foojay.social/about)   
 [https://hachyderm.io/about](https://hachyderm.io/about)   
 
+
+[Hachyderm REX](https://medium.com/@kris-nova/experimenting-with-federation-and-migrating-accounts-eae61a688c3c)    
+
 ## Mastodon people to follow
 
 Java people to follow (twitter, mastodon, github, reddit accounts)   
