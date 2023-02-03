@@ -28,6 +28,7 @@ non-exhaustive list of coding platform, coding contest and so on
 * CodeAcademy [https://www.codecademy.com/](https://www.codecademy.com/)     
 * CodeWar [https://www.codewars.com/?language=java](https://www.codewars.com/?language=java) 
 * CodeForce [https://codeforces.com/problemset](https://codeforces.com/problemset)    
+* HackerEarth [https://www.hackerearth.com/](https://www.hackerearth.com/)
 * HackAttic [https://hackattic.com/](https://hackattic.com/)    
 * Kaggle (datascientist, machine learning) [https://www.kaggle.com/](https://www.kaggle.com/)    
 * Greps A fresh way to analyze and measure Java skills [https://www.greps.com/](https://www.greps.com/)    
