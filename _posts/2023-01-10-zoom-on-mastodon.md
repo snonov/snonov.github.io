@@ -50,6 +50,9 @@ Tim Bray opinion about Mastodon
 Opinion about Mastodon and moderation "What I missed about Mastodon was its very different culture."   
 [https://escapingtech.com/tech/opinions/i-was-wrong-about-mastodon-moderation.html](https://escapingtech.com/tech/opinions/i-was-wrong-about-mastodon-moderation.html)   
 
+View of Fediverse, difference between centralized, decentralized, distributed
+[https://tidbits.com/2023/01/27/is-your-future-distributed-welcome-to-the-fediverse/](https://tidbits.com/2023/01/27/is-your-future-distributed-welcome-to-the-fediverse/)    
+
 ## Tech part of Mastodon   
 
 ActivityPub protocol   
