@@ -79,5 +79,8 @@ Java wrapper for the Mastodon API
 Pyton wrapper for the Mastodon API   
 [https://github.com/halcy/Mastodon.py](https://github.com/halcy/Mastodon.py)   
 
+Tuto, build a Mastodon bot (using Python)    
+[https://shkspr.mobi/blog/2018/08/easy-guide-to-building-mastodon-bots/](https://shkspr.mobi/blog/2018/08/easy-guide-to-building-mastodon-bots/)     
+
 Projects around :   
 RSS to Twitter and Mastodon : [https://github.com/tonytw1/rsstotwitter](https://github.com/tonytw1/rsstotwitter)   
