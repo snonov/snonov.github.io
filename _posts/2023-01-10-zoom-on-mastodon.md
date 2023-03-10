@@ -55,6 +55,8 @@ Opinion about Mastodon and moderation "What I missed about Mastodon was its very
 
 View of Fediverse, difference between centralized, decentralized, distributed
 [https://tidbits.com/2023/01/27/is-your-future-distributed-welcome-to-the-fediverse/](https://tidbits.com/2023/01/27/is-your-future-distributed-welcome-to-the-fediverse/)    
+Consequences and implicaiton using ActivityPub    
+[https://macwright.com/2022/12/09/activitypub.html](https://macwright.com/2022/12/09/activitypub.html)   
 
 ## Tech part of Mastodon   
 
