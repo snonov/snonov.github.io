@@ -41,6 +41,9 @@ Tool to help find people from your Twitter contact
 
 ## Some tech opinions about Mastodon
 
+Eugen Rochko interview, the man behind Mastodon   
+[https://www.wired.com/story/the-man-behind-mastodon-eugen-rochko-built-it-for-this-moment/](https://www.wired.com/story/the-man-behind-mastodon-eugen-rochko-built-it-for-this-moment/)   
+
 Martin Fowler on Mastodon   
 [https://martinfowler.com/articles/exploring-mastodon.html#twitter-feed-to-mastodon-is-now-working](https://martinfowler.com/articles/exploring-mastodon.html#twitter-feed-to-mastodon-is-now-working)   
 
