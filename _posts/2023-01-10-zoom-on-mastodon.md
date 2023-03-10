@@ -79,6 +79,9 @@ Java wrapper for the Mastodon API
 Pyton wrapper for the Mastodon API   
 [https://github.com/halcy/Mastodon.py](https://github.com/halcy/Mastodon.py)   
 
+Mastodon desktop client    
+[https://github.com/NicolasConstant/sengi](https://github.com/NicolasConstant/sengi)    
+
 Tuto, build a Mastodon bot (using Python)    
 [https://shkspr.mobi/blog/2018/08/easy-guide-to-building-mastodon-bots/](https://shkspr.mobi/blog/2018/08/easy-guide-to-building-mastodon-bots/)     
 
