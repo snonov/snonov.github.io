@@ -14,6 +14,8 @@ To begin
 * JCP (Java Community process) [https://jcp.org/en/home/index](https://jcp.org/en/home/index) and its executive committee [https://jcp.org/en/participation/committee](https://jcp.org/en/participation/committee)       
 * Choose your JDK : [https://whichjdk.com/](https://whichjdk.com/)    
 
+Basics item community to understand [https://www.helenjoscott.com/2020/10/18/the-java-ecosystem/](https://www.helenjoscott.com/2020/10/18/the-java-ecosystem/)    
+
 Certifications
 
 * Certifications Oracle Java [https://education.oracle.com/oracle-certification-path/pFamily_48](https://education.oracle.com/oracle-certification-path/pFamily_48) 
