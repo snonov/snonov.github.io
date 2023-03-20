@@ -2,7 +2,7 @@
 layout: post
 title: "Zoom on java"
 date: 2023-03-20
-tags : Java Versions Jep Ec Jdk Jeps Jsr Josépaumard
+tags : Java Versions Jep Ec Jdk Jeps Jsr Josepaumard
 ---
 
 May it's a zoom not so zoom ... Target is to keep main links to entry on Java/jdk versions
