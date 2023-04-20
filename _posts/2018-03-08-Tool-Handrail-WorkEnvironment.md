@@ -99,7 +99,7 @@ Collection of windows tool : [Scott Hanselman list](https://www.hanselman.com/bl
 
 ### Code sharing
 
-## online
+#### online
 * [OneCompiler](https://onecompiler.com)
 * [CodeShare](https://codeshare.io/)
 * [CodeSandbox](https://codesandbox.io/)
@@ -107,7 +107,7 @@ Collection of windows tool : [Scott Hanselman list](https://www.hanselman.com/bl
 * [Codepile](https://www.codepile.net)
 * [Intervue](https://www.intervue.io/)
 
-## share IDE
+#### share IDE
 * [Jetbrain codewithme](https://www.jetbrains.com/code-with-me/)
 * [VS liveShare](https://visualstudio.microsoft.com/fr/services/live-share/)
 * [CodeTogether](https://www.codetogether.com/)
@@ -133,5 +133,14 @@ Collection of windows tool : [Scott Hanselman list](https://www.hanselman.com/bl
 * Online Timer [VClock](https://vclock.com/)
 * MindMap [https://framindmap.org/c/login](https://framindmap.org/c/login)   
 
+## Presentations
+
+Out of development stuff to prepare slides for talk, worksho and so on   
+
+* [Marp](https://marp.app/)
+* [Reveal.js](https://revealjs.com/)
+* [Markdeep slides](https://github.com/doersino/markdeep-slides)
+* [Slidev](https://sli.dev/)
+* And for LateX fan [Beamer](https://fr.overleaf.com/learn/latex/Beamer)
 
 
