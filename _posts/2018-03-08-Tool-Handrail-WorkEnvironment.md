@@ -142,5 +142,7 @@ Out of development stuff to prepare slides for talk, worksho and so on
 * [Markdeep slides](https://github.com/doersino/markdeep-slides)
 * [Slidev](https://sli.dev/)
 * And for LateX fan [Beamer](https://fr.overleaf.com/learn/latex/Beamer)
+* reveal principle but let live coding : [demoit](https://github.com/dgageot/demoit)    
+
 
 
