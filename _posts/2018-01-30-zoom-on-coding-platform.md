@@ -80,7 +80,8 @@ In coding platform trend [Eclipse Che](https://www.eclipse.org/che/)
    * [https://github.com/sandromancuso/testing_legacy_code](https://github.com/sandromancuso/testing_legacy_code) and more from Sandro Mancuso [https://github.com/sandromancuso?tab=repositories](https://github.com/sandromancuso?tab=repositories) 
    * [https://github.com/JosePaumard/JosePaumard.github.io/tree/master/katas](https://github.com/JosePaumard/JosePaumard.github.io/tree/master/katas)  
    * [https://github.com/YDanot?tab=repositories&q=&type=&language=java&sort=](https://github.com/YDanot?tab=repositories&q=&type=&language=java&sort=)    
- 
+ * C# Kata 
+   * [https://github.com/ardalis/kata-catalog](https://github.com/ardalis/kata-catalog)
  
 
 
