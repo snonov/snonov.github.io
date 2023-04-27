@@ -5,6 +5,15 @@ date: 2023-01-10
 tags : Zoomon Mastodon Tech Java Social
 ---
 
+# Table des matières
+
+   * [First links to have a look at](#first-links-to-have-a-look-at)
+   * [Mastodon server and instances](#mastodon-server-and-instances)
+   * [Mastodon people to follow](#mastodon-people-to-follow)
+   * [Some tech opinions about Mastodon](#some-tech-opinions-about-mastodon)
+   * [Tech part of Mastodon](#tech-part-of-mastodon)
+
+
 ## First links to have a look at
 
 Mastodon website [https://joinmastodon.org/fr](https://joinmastodon.org/fr)   
@@ -12,6 +21,7 @@ Mastodon documentation : [https://docs.joinmastodon.org/](https://docs.joinmasto
 Mastodon Github repository [https://github.com/mastodon/mastodon](https://github.com/mastodon/mastodon)   
 Eugen Rochko, Mastodon core developer [https://github.com/Gargron](https://github.com/Gargron)   
 Le github Awesome Mastodon links [https://github.com/tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon)   
+A guide to Mastodon (for Twitter users) [moving from twitter to mastodon](https://www.forceflow.be/2022/11/11/moving-from-twitter-to-mastodon/)     
 
 ## Mastodon server and instances
 
@@ -26,8 +36,11 @@ Some developer dedicated instances
 [https://foojay.social/about](https://foojay.social/about)   
 [https://hachyderm.io/about](https://hachyderm.io/about)   
 
-
 [Hachyderm REX](https://medium.com/@kris-nova/experimenting-with-federation-and-migrating-accounts-eae61a688c3c)    
+
+Statistic usage 
+* Account publishing stats [https://mastodon.social/@mastodonusercount](https://mastodon.social/@mastodonusercount)    
+* Github repository https://github.com/gallizoltan/usercount    
 
 ## Mastodon people to follow
 
@@ -57,6 +70,11 @@ View of Fediverse, difference between centralized, decentralized, distributed
 [https://tidbits.com/2023/01/27/is-your-future-distributed-welcome-to-the-fediverse/](https://tidbits.com/2023/01/27/is-your-future-distributed-welcome-to-the-fediverse/)    
 Consequences and implicaiton using ActivityPub    
 [https://macwright.com/2022/12/09/activitypub.html](https://macwright.com/2022/12/09/activitypub.html)   
+
+Guillaume Laforge (French google tech advocate)   
+[Article](https://glaforge.dev/posts/2023/01/06/calculating-your-potential-reach-on-mastodon-with-google-cloud-workflows-orchestrating-the-mastodon-apis/)    
+[Devoxx talk video](https://www.youtube.com/watch?v=_BaK9BNlUHg)  
+
 
 ## Tech part of Mastodon   
 
