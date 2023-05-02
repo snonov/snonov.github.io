@@ -79,7 +79,11 @@ In coding platform trend [Eclipse Che](https://www.eclipse.org/che/)
    * [Java OOP Kata](https://github.com/pawelpluta/oop-kata)    
    * [https://github.com/sandromancuso/testing_legacy_code](https://github.com/sandromancuso/testing_legacy_code) and more from Sandro Mancuso [https://github.com/sandromancuso?tab=repositories](https://github.com/sandromancuso?tab=repositories) 
    * [https://github.com/JosePaumard/JosePaumard.github.io/tree/master/katas](https://github.com/JosePaumard/JosePaumard.github.io/tree/master/katas)  
-   * [https://github.com/YDanot?tab=repositories&q=&type=&language=java&sort=](https://github.com/YDanot?tab=repositories&q=&type=&language=java&sort=)    
+   * [https://github.com/YDanot?tab=repositories&q=&type=&language=java&sort=](https://github.com/YDanot?tab=repositories&q=&type=&language=java&sort=)   
+   * [https://github.com/Egga-zz/katas/tree/master/modules](https://github.com/Egga-zz/katas/tree/master/modules)     
+   * [https://github.com/klaube/kata](https://github.com/klaube/kata)
+   * [https://github.com/AnnaWeakclaw/refactoringGolf](https://github.com/AnnaWeakclaw/refactoringGolf)   
+   * [https://github.com/victorrentea/kata-trivia-java](https://github.com/victorrentea/kata-trivia-java)    
  * C# Kata 
    * [https://github.com/ardalis/kata-catalog](https://github.com/ardalis/kata-catalog)
  
