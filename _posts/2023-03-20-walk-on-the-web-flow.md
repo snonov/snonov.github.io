@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20230320"
 date: 2023-03-20 
-tags : Mainfold Compiler Markdown Mindmap Api JoshuaBloch Docker Zookeeper Java20 Garbagecollector Intellij Trishagee Curl Optaplanner Planning JParse Parsing Record Hibernate Webhook Quality Tls Ssl Plateform
+tags : Mainfold Compiler Markdown Mindmap Api JoshuaBloch Docker Zookeeper Java20 Garbagecollector Intellij Trishagee Curl Optaplanner Planning JParse Parsing Record Hibernate Webhook Quality Tls Ssl Plateform Manifold
 ---
 
 ## Architecture  
@@ -37,7 +37,8 @@ Code quality pyramid
 ## Tool   
 
 Manifold is a Java compiler plugin to enrich and play meta level     
-* [http://manifold.systems/](http://manifold.systems/)    
+* [http://manifold.systems/](http://manifold.systems/)   
+* Extension system sample [https://debugagent.com/extending-java-apis-add-missing-features-without-the-hassle](https://debugagent.com/extending-java-apis-add-missing-features-without-the-hassle)     
 
 Online tool to generate mindmap with markdown    
 * [https://markmap.js.org/repl](https://markmap.js.org/repl)   
