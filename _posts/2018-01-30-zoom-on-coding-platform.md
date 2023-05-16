@@ -56,6 +56,7 @@ In coding platform trend [Eclipse Che](https://www.eclipse.org/che/)
 ## Some manual Kata references    
 
 * Emily Bache GitHub repository [https://github.com/emilybache](https://github.com/emilybache)    
+* Some training Kata list [https://sammancoaching.org/kata_descriptions/index.html](https://sammancoaching.org/kata_descriptions/index.html)     
 * Kata from CodingDojo site [http://codingdojo.org/kata/](http://codingdojo.org/kata/) to contribute see [https://github.com/codingdojo-org](https://github.com/codingdojo-org)    
 * Awesome Kata [https://github.com/gamontal/awesome-katas](https://github.com/gamontal/awesome-katas)
 * [https://kata-log.rocks/](https://kata-log.rocks/)
