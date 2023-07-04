@@ -75,6 +75,8 @@ Guillaume Laforge (French google tech advocate)
 [Article](https://glaforge.dev/posts/2023/01/06/calculating-your-potential-reach-on-mastodon-with-google-cloud-workflows-orchestrating-the-mastodon-apis/)    
 [Devoxx talk video](https://www.youtube.com/watch?v=_BaK9BNlUHg)  
 
+Tim Bray about Fediverse governance    
+[https://www.tbray.org/ongoing/When/202x/2023/06/24/Fediverse-Governance](https://www.tbray.org/ongoing/When/202x/2023/06/24/Fediverse-Governance)
 
 ## Tech part of Mastodon   
 
