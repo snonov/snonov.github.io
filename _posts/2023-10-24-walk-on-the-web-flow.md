@@ -39,7 +39,7 @@ Java 21
 * Reducing P99 Latencies with Generational ZGC [https://inside.java/2023/10/21/reducing-p99-latencies-with-genzgc/](https://inside.java/2023/10/21/reducing-p99-latencies-with-genzgc/)     
 
 Nice JMX knowledge, to use with container     
-* [http://blog.ragozin.info/2023/09/jmx-stands-for-java-management.html](http://blog.ragozin.info/2023/09/jmx-stands-for-java-management.html)     
+* [http://blog.ragozin.info/2023/09/curse-of-jmx.html](http://blog.ragozin.info/2023/09/curse-of-jmx.html)
 
 What is good code (out of clean code)      
 * [https://training.xceptance.com/java/201-good-code.html](https://training.xceptance.com/java/201-good-code.html)     
