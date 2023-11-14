@@ -32,10 +32,12 @@ non-exhaustive list of coding platform, coding contest and so on
 * HackAttic [https://hackattic.com/](https://hackattic.com/)    
 * Kaggle (datascientist, machine learning) [https://www.kaggle.com/](https://www.kaggle.com/)    
 * Greps A fresh way to analyze and measure Java skills [https://www.greps.com/](https://www.greps.com/)    
+* SadServer, train your debug skills with practical use cases [https://sadservers.com](https://sadservers.com)    
 
 ## online courses with practical projetcs
 
-* Jetbrain academy https://hyperskill.org/tracks    
+* Jetbrain academy https://hyperskill.org/tracks
+* Spring academy https://spring.academy/       
 
 
 ## One step beyond
