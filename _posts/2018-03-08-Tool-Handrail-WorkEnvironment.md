@@ -124,8 +124,12 @@ Collection of windows tool : [Scott Hanselman list](https://www.hanselman.com/bl
 * [Minimal markdown editor](https://github.com/amitmerchant1990/electron-markdownify)
 
 ### Online services
-* Beautifull code to doc [https://carbon.now.sh/](https://carbon.now.sh/)    
+* Beautifull code to doc [https://carbon.now.sh/](https://carbon.now.sh/)
 * Diagram [https://app.diagrams.net/](https://app.diagrams.net/)
+   * https://www.moderndata.ai/2020/08/working-with-azure-icons-in-draw-io-diagrams-net/
+   * https://github.com/DaveRuijter/diagrams.net/tree/master
+   * https://www.drawio.com/blog/azure-diagrams
+* Diagram [https://online.visual-paradigm.com/](https://online.visual-paradigm.com/)
 * Share code [https://codeshare.io](https://codeshare.io)   
 * Share archi draw [https://excalidraw.com ](https://excalidraw.com )     
 * Draw from markdown [https://mermaid.js.org/](https://mermaid.js.org/)     
