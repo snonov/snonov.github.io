@@ -81,7 +81,10 @@ Tim Bray about Fediverse governance
 ## Tech part of Mastodon   
 
 ActivityPub protocol   
-[https://www.w3.org/TR/activitypub/](https://www.w3.org/TR/activitypub/)   
+[https://www.w3.org/TR/activitypub/](https://www.w3.org/TR/activitypub/)      
+[https://www.w3.org/wiki/ActivityPub](https://www.w3.org/wiki/ActivityPub)      
+[https://activitypub.rocks/implementation-report/](https://activitypub.rocks/implementation-report/)     
+[https://fediverse.party/en/tools/](https://fediverse.party/en/tools/)     
 
 Federation of social media using ActivityPub   
 [https://fediverse.party/](https://fediverse.party/)    
