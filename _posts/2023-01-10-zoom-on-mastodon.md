@@ -78,6 +78,12 @@ Guillaume Laforge (French google tech advocate)
 Tim Bray about Fediverse governance    
 [https://www.tbray.org/ongoing/When/202x/2023/06/24/Fediverse-Governance](https://www.tbray.org/ongoing/When/202x/2023/06/24/Fediverse-Governance)
 
+
+## Tech news about usage of ActivityPub
+
+* Blue print Gitlab et ActivityPub : [https://docs.gitlab.com/ee/architecture/blueprints/activity_pub/](https://docs.gitlab.com/ee/architecture/blueprints/activity_pub/)     
+* Meta et ActivityPub : [https://engineering.fb.com/2024/03/21/networking-traffic/threads-has-entered-the-fediverse/](https://engineering.fb.com/2024/03/21/networking-traffic/threads-has-entered-the-fediverse/)     
+
 ## Tech part of Mastodon   
 
 ActivityPub protocol   
