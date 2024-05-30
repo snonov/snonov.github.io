@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Zoom on Kata"
-date: 2024-05-28
+date: 2024-05-29
 tags : Kata Dojo Practises Zoomon Code Davethomas
 ---
 
@@ -64,7 +64,7 @@ Playing with adding one or more constraint to execute the kata :
 * Immutable
 * Primitive Obsession
 * Blind navigator
-* TCR (means Test && Commit || Revert) you can have a look at this feedback [https://itortv.medium.com/i-implemented-the-mars-rover-kata-through-tcr-test-commit-revert-and-these-are-my-7e11c40983a6](https://itortv.medium.com/i-implemented-the-mars-rover-kata-through-tcr-test-commit-revert-and-these-are-my-7e11c40983a6)
+* TCR (means Test AND Commit OR Revert) you can have a look at this feedback [https://itortv.medium.com/i-implemented-the-mars-rover-kata-through-tcr-test-commit-revert-and-these-are-my-7e11c40983a6](https://itortv.medium.com/i-implemented-the-mars-rover-kata-through-tcr-test-commit-revert-and-these-are-my-7e11c40983a6)
 * Make test list that are must have
 * Keyboard only
 * Use plain text editor
