@@ -111,7 +111,8 @@ List of Katas :
 * [https://github.com/forax/kata-java17](https://github.com/forax/kata-java17)
 * [https://github.com/sandromancuso/testing_legacy_code](https://github.com/sandromancuso/testing_legacy_code)
 * [https://github.com/sandromancuso/trip-service-kata](https://github.com/sandromancuso/trip-service-kata)
-* [https://github.com/sandromancuso/testing_legacy_code](https://github.com/sandromancuso/testing_legacy_code)    
+* [https://github.com/sandromancuso/testing_legacy_code](https://github.com/sandromancuso/testing_legacy_code)
+* [https://github.com/emilybache/Parrot-Refactoring-Kata/tree/main](https://github.com/emilybache/Parrot-Refactoring-Kata/tree/main) Code smell, polymorphism and refactoring   
 * [https://github.com/emilybache/Email-Sender-Refactoring-Kata](https://github.com/emilybache/Email-Sender-Refactoring-Kata)
 * [https://github.com/emilybache/GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 * [https://github.com/emilybache/SafeCalculator-TestDesign-Kata](https://github.com/emilybache/SafeCalculator-TestDesign-Kata) nice one
