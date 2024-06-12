@@ -39,6 +39,10 @@ non-exhaustive list of coding platform, coding contest and so on
 * Jetbrain academy https://hyperskill.org/tracks
 * Spring academy https://spring.academy/       
 
+## Build complete projects     
+
+* Coding Challenge [https://codingchallenges.fyi/](https://codingchallenges.fyi/)     
+* CodeCrafters [https://app.codecrafters.io/catalog](https://app.codecrafters.io/catalog)     
 
 ## One step beyond
 
