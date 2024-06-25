@@ -40,7 +40,7 @@ Onnx (Open Neural Network Exchange)
 	• [https://github.com/microsoft/onnxruntime-genai](https://github.com/microsoft/onnxruntime-genai)     
 
 Webcrawler system design    
-	• [https://medium.com/](https://medium.com/)@anandanand1986/web-crawler-system-design-411d4155d865      
+	• [https://medium.com/@anandanand1986/web-crawler-system-design-411d4155d865](https://medium.com/@anandanand1986/web-crawler-system-design-411d4155d865)      
 
 ## Dev   
 
