@@ -78,6 +78,8 @@ Guillaume Laforge (French google tech advocate)
 Tim Bray about Fediverse governance    
 [https://www.tbray.org/ongoing/When/202x/2023/06/24/Fediverse-Governance](https://www.tbray.org/ongoing/When/202x/2023/06/24/Fediverse-Governance)
 
+Tim Bray about hater on Mastodon    
+[https://www.tbray.org/ongoing/When/202x/2024/07/30/Invisible-Attackers](https://www.tbray.org/ongoing/When/202x/2024/07/30/Invisible-Attackers)      
 
 ## Tech news about usage of ActivityPub
 
