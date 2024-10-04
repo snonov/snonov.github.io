@@ -21,7 +21,8 @@ Mastodon documentation : [https://docs.joinmastodon.org/](https://docs.joinmasto
 Mastodon Github repository [https://github.com/mastodon/mastodon](https://github.com/mastodon/mastodon)   
 Eugen Rochko, Mastodon core developer [https://github.com/Gargron](https://github.com/Gargron)   
 Le github Awesome Mastodon links [https://github.com/tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon)   
-A guide to Mastodon (for Twitter users) [moving from twitter to mastodon](https://www.forceflow.be/2022/11/11/moving-from-twitter-to-mastodon/)     
+A guide to Mastodon (for Twitter users) [moving from twitter to mastodon](https://www.forceflow.be/2022/11/11/moving-from-twitter-to-mastodon/)         
+Article [https://2ality.com/2022/10/mastodon-getting-started.html](https://2ality.com/2022/10/mastodon-getting-started.html)           
 
 ## Mastodon server and instances
 
