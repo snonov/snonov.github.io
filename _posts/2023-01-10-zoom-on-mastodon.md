@@ -2,7 +2,7 @@
 layout: post
 title: "Zoom on mastodon"
 date: 2023-01-10
-tags : Zoomon Mastodon Tech Java Social
+tags : Zoomon Mastodon Tech Java Social Swf
 ---
 
 # Table des matières
@@ -22,7 +22,9 @@ Mastodon Github repository [https://github.com/mastodon/mastodon](https://github
 Eugen Rochko, Mastodon core developer [https://github.com/Gargron](https://github.com/Gargron)   
 Le github Awesome Mastodon links [https://github.com/tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon)   
 A guide to Mastodon (for Twitter users) [moving from twitter to mastodon](https://www.forceflow.be/2022/11/11/moving-from-twitter-to-mastodon/)         
-Article [https://2ality.com/2022/10/mastodon-getting-started.html](https://2ality.com/2022/10/mastodon-getting-started.html)           
+Article [https://2ality.com/2022/10/mastodon-getting-started.html](https://2ality.com/2022/10/mastodon-getting-started.html)             
+Foundation and Fediverse [https://thenewstack.io/social-web-foundation-launched-how-in-is-w3c-on-fediverse/](https://thenewstack.io/social-web-foundation-launched-how-in-is-w3c-on-fediverse/)        
+
 
 ## Mastodon server and instances
 
