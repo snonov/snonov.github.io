@@ -40,10 +40,12 @@ non-exhaustive list of coding platform, coding contest and so on
 * Jetbrain academy https://hyperskill.org/tracks
 * Spring academy https://spring.academy/       
 
-## Build complete projects     
+## Build complete projects, practical learnings     
 
 * Coding Challenge [https://codingchallenges.fyi/](https://codingchallenges.fyi/)     
-* CodeCrafters [https://app.codecrafters.io/catalog](https://app.codecrafters.io/catalog)     
+* CodeCrafters [https://app.codecrafters.io/catalog](https://app.codecrafters.io/catalog) and [https://codecrafters.io/](https://codecrafters.io/)       
+* KillerCoda [https://killercoda.com/](https://killercoda.com/)     
+* KillerShell [https://killer.sh/](https://killer.sh/)        
 
 ## One step beyond
 
