@@ -55,7 +55,7 @@ Tool to help find people from your Twitter contact
 [https://github.com/pruvisto/debirdify](https://github.com/pruvisto/debirdify)   
 
 
-## Some tech opinions about Mastodon
+## Some news and tech opinions about Mastodon
 
 Eugen Rochko interview, the man behind Mastodon   
 [https://www.wired.com/story/the-man-behind-mastodon-eugen-rochko-built-it-for-this-moment/](https://www.wired.com/story/the-man-behind-mastodon-eugen-rochko-built-it-for-this-moment/)   
@@ -83,6 +83,9 @@ Tim Bray about Fediverse governance
 
 Tim Bray about hater on Mastodon    
 [https://www.tbray.org/ongoing/When/202x/2024/07/30/Invisible-Attackers](https://www.tbray.org/ongoing/When/202x/2024/07/30/Invisible-Attackers)      
+
+News in finance model and protocol for Mastodon and Bluesky       
+[https://www.tbray.org/ongoing/When/202x/2025/01/14/Protocol-Churn](https://www.tbray.org/ongoing/When/202x/2025/01/14/Protocol-Churn)        
 
 ## Tech news about usage of ActivityPub
 
