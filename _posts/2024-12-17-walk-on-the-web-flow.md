@@ -78,14 +78,14 @@ Review observability tools
 	• [https://blog.ippon.fr/2024/11/18/observabilite-informatique-comprendre-les-bases-2eme-partie/](https://blog.ippon.fr/2024/11/18/observabilite-informatique-comprendre-les-bases-2eme-partie/)       
 
 
-Dev, Ai tooling
-	• [front end] Devin : [https://devin.ai/](https://devin.ai/) and [https://www.builder.io/blog/devin-vs-cursor](https://www.builder.io/blog/devin-vs-cursor)
-	• [front end] Builder.io : [https://www.builder.io/](https://www.builder.io/)
-	• [front end] Lovable : [https://lovable.dev/](https://lovable.dev/)
-	• [front end] Bolt new : [https://bolt.new/](https://bolt.new/)
-	• [IDE] Cursor : [https://www.cursor.com/](https://www.cursor.com/)
-	• [IDE] Zed Ai : [https://zed.dev/ai](https://zed.dev/ai)
-	• [IDE] Solvere [https://solverai.com/](https://solverai.com/)
+Dev, Ai tooling       
+	• [front end] Devin : [https://devin.ai/](https://devin.ai/) and [https://www.builder.io/blog/devin-vs-cursor](https://www.builder.io/blog/devin-vs-cursor)      
+	• [front end] Builder.io : [https://www.builder.io/](https://www.builder.io/)        
+	• [front end] Lovable : [https://lovable.dev/](https://lovable.dev/)       
+	• [front end] Bolt new : [https://bolt.new/](https://bolt.new/)       
+	• [IDE] Cursor : [https://www.cursor.com/](https://www.cursor.com/)         
+	• [IDE] Zed Ai : [https://zed.dev/ai](https://zed.dev/ai)      
+	• [IDE] Solvere [https://solverai.com/](https://solverai.com/)       
 
 
 ## Ai and Llm
