@@ -1,0 +1,55 @@
+---
+layout: post
+title: "Zoom on Ai tools for developers"
+date: 2024-05-29
+tags : Ai Developers Tools Zoomon Code Cursor Github Graphite Gitlab Openrouter Deepinfra Model 
+---
+
+This page to give and not forget some references concerning coding kata.
+
+# Global
+
+Landscape : [https://landscape.ainativedev.io/](https://landscape.ainativedev.io/)        
+
+# Quick list
+
+## Majors
+
+Windsurf : [https://windsurf.com/editor](https://windsurf.com/editor)       
+Cursor : [https://www.cursor.com/](https://www.cursor.com/)        
+Github Copilot : [https://docs.github.com/en/copilot](https://docs.github.com/en/copilot)       
+Gitlab Duo : [https://about.gitlab.com/gitlab-duo/](https://about.gitlab.com/gitlab-duo/)         
+
+CodeRabbit [https://www.coderabbit.ai/](https://www.coderabbit.ai/)        
+Raycast [https://www.raycast.com/core-features/ai](https://www.raycast.com/core-features/ai)        
+
+[front end] Devin : [https://devin.ai/](https://devin.ai/) and [https://www.builder.io/blog/devin-vs-cursor](https://www.builder.io/blog/devin-vs-cursor)      
+[front end] Builder.io : [https://www.builder.io/](https://www.builder.io/)        
+[front end] Lovable : [https://lovable.dev/](https://lovable.dev/)       
+[front end] Bolt new : [https://bolt.new/](https://bolt.new/)       
+
+[IDE] Zed Ai : [https://zed.dev/ai](https://zed.dev/ai)      
+[IDE] Solvere [https://solverai.com/](https://solverai.com/)  
+
+## Around coding
+
+Graphite : [https://graphite.dev/](https://graphite.dev/)         
+Dust : [https://dust.tt/](https://dust.tt/)         
+
+## More tool part
+
+Maizai : [https://github.com/appclacks/maizai](https://github.com/appclacks/maizai)            
+Cline : [https://github.com/cline/cline](https://github.com/cline/cline)       
+
+## Unique api access
+
+OpenRouter : [https://openrouter.ai/](https://openrouter.ai/)         
+DeepInfra : [https://deepinfra.com/](https://deepinfra.com/)        
+
+# Conferences
+
+LLM4Code : [https://llm4code.github.io/](https://llm4code.github.io/)        
+
+# Interesting readings
+
+Choosing the right model : [https://docs.github.com/en/copilot/using-github-copilot/ai-models/choosing-the-right-ai-model-for-your-task](https://docs.github.com/en/copilot/using-github-copilot/ai-models/choosing-the-right-ai-model-for-your-task)        
