@@ -23,13 +23,14 @@ Gitlab Duo : [https://about.gitlab.com/gitlab-duo/](https://about.gitlab.com/git
 CodeRabbit [https://www.coderabbit.ai/](https://www.coderabbit.ai/)        
 Raycast [https://www.raycast.com/core-features/ai](https://www.raycast.com/core-features/ai)        
 
-[front end] Devin : [https://devin.ai/](https://devin.ai/) and [https://www.builder.io/blog/devin-vs-cursor](https://www.builder.io/blog/devin-vs-cursor)      
-[front end] Builder.io : [https://www.builder.io/](https://www.builder.io/)        
-[front end] Lovable : [https://lovable.dev/](https://lovable.dev/)       
-[front end] Bolt new : [https://bolt.new/](https://bolt.new/)       
+[Front End] Devin : [https://devin.ai/](https://devin.ai/) and [https://www.builder.io/blog/devin-vs-cursor](https://www.builder.io/blog/devin-vs-cursor)      
+[Front End] Builder.io : [https://www.builder.io/](https://www.builder.io/)        
+[Front End] Lovable : [https://lovable.dev/](https://lovable.dev/)       
+[Front End] Bolt new : [https://bolt.new/](https://bolt.new/)       
 
 [IDE] Zed Ai : [https://zed.dev/ai](https://zed.dev/ai)      
 [IDE] Solvere [https://solverai.com/](https://solverai.com/)  
+[IDE] Void Editor, Cursor opensource alternative [https://solverai.com/](https://voideditor.com/) and its Github [https://github.com/voideditor/void](https://github.com/voideditor/void)        
 
 ## Around coding
 
