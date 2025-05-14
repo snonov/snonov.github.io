@@ -2,7 +2,7 @@
 layout: post
 title: "Zoom on Ai tools for developers"
 date: 2025-05-07
-tags : Ai Developers Tools Zoomon Code Cursor Github Graphite Gitlab Openrouter Deepinfra Model Daytona
+tags : Ai Developers Tools Zoomon Code Cursor Github Graphite Gitlab Openrouter Deepinfra Model Daytona Theia 
 ---
 
 This page to give and not forget some references concerning coding kata.
@@ -31,6 +31,9 @@ Raycast [https://www.raycast.com/core-features/ai](https://www.raycast.com/core-
 [IDE] Zed Ai : [https://zed.dev/ai](https://zed.dev/ai)      
 [IDE] Solvere [https://solverai.com/](https://solverai.com/)  
 [IDE] Void Editor, Cursor opensource alternative [https://solverai.com/](https://voideditor.com/) and its Github [https://github.com/voideditor/void](https://github.com/voideditor/void)        
+[IDE] Eclipse Theia : 
+* [https://theia-ide.org/](https://theia-ide.org/)     
+* [https://github.com/eclipse-theia/theia](https://github.com/eclipse-theia/theia)     
 
 ## Around coding
 
