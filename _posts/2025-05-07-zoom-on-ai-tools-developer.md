@@ -5,7 +5,7 @@ date: 2025-05-07
 tags : Ai Developers Tools Zoomon Code Cursor Github Graphite Gitlab Openrouter Deepinfra Model Daytona Theia 
 ---
 
-This page to give and not forget some references concerning coding kata.
+This page to give and not forget some references concerning Ai tools that would be use in development environnement
 
 # Global
 
