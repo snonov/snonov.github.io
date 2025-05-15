@@ -2,7 +2,7 @@
 layout: post
 title: "Zoom on Research papers source"
 date: 2025-05-15
-tags : Research Papers Arxiv Paperswithcode Googlescholar Springer Acm Hal Researchgate Daedalus Vldb Conferences
+tags : Research Papers Zoomon Arxiv Paperswithcode Googlescholar Springer Acm Hal Researchgate Daedalus Vldb Conferences
 ---
 
 ## Research papers plateform
