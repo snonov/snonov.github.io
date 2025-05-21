@@ -26,7 +26,9 @@ Raycast [https://www.raycast.com/core-features/ai](https://www.raycast.com/core-
 [Front End] Devin : [https://devin.ai/](https://devin.ai/) and [https://www.builder.io/blog/devin-vs-cursor](https://www.builder.io/blog/devin-vs-cursor)      
 [Front End] Builder.io : [https://www.builder.io/](https://www.builder.io/)        
 [Front End] Lovable : [https://lovable.dev/](https://lovable.dev/)       
-[Front End] Bolt new : [https://bolt.new/](https://bolt.new/)       
+[Front End] Bolt new : [https://bolt.new/](https://bolt.new/)         
+
+[Infra] Anyshift [https://www.anyshift.io/](https://www.anyshift.io/)          
 
 [IDE] Zed Ai : [https://zed.dev/ai](https://zed.dev/ai)      
 [IDE] Solvere [https://solverai.com/](https://solverai.com/)  
