@@ -16,7 +16,10 @@ Documentation : [https://docs.github.com/en/copilot](https://docs.github.com/en/
 Github certification handbook : [https://examregistration.github.com/handbook](https://examregistration.github.com/handbook)       
 Github Blog : [https://github.blog/](https://github.blog/)      
 
-Github copilot plans : [https://docs.github.com/en/copilot/about-github-copilot/plans-for-github-copilot](https://docs.github.com/en/copilot/about-github-copilot/plans-for-github-copilot)         
+Github copilot plans : 
+* Plans [https://docs.github.com/en/copilot/about-github-copilot/plans-for-github-copilot](https://docs.github.com/en/copilot/about-github-copilot/plans-for-github-copilot)
+* Another Plans [https://github.com/features/copilot/plans](https://github.com/features/copilot/plans)         
+* Features [https://docs.github.com/en/copilot/about-github-copilot/github-copilot-features](https://docs.github.com/en/copilot/about-github-copilot/github-copilot-features)          
 
 
 ## Prepare
