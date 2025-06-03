@@ -54,6 +54,7 @@ Raycast [https://www.raycast.com/core-features/ai](https://www.raycast.com/core-
 [Front End] Builder.io : [https://www.builder.io/](https://www.builder.io/)        
 [Front End] Lovable : [https://lovable.dev/](https://lovable.dev/)       
 [Front End] Bolt new : [https://bolt.new/](https://bolt.new/)         
+[Front End] Google Stitch : [https://stitch.withgoogle.com/](https://stitch.withgoogle.com/)     
 
 [Infra] Anyshift [https://www.anyshift.io/](https://www.anyshift.io/)          
 
@@ -64,9 +65,15 @@ Raycast [https://www.raycast.com/core-features/ai](https://www.raycast.com/core-
 [IDE] Eclipse Theia :      
 * [https://theia-ide.org/](https://theia-ide.org/)     
 * [https://github.com/eclipse-theia/theia](https://github.com/eclipse-theia/theia)        
+[IDE] Zed is a next-generation code editor designed for high-performance collaboration with humans and AI [https://zed.dev/](https://zed.dev/)       
 
+[code Platform] For large code base, Brokk [https://brokk.ai/](https://brokk.ai/)
 
-[Platform] For large code base, Brokk [https://brokk.ai/](https://brokk.ai/)
+[Build agent platform] Langchain open agent platform [https://github.com/langchain-ai/open-agent-platform](https://github.com/langchain-ai/open-agent-platform)        
+[Build agent platform] Microsoft Autogen [https://github.com/microsoft/autogen](https://github.com/microsoft/autogen)       
+
+[Documentation] Github repositories auto documentation with Deepwiki [https://deepwiki.com/](https://deepwiki.com/)      
+
 
 ## Around coding
 
