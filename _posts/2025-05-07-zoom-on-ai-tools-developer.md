@@ -2,7 +2,7 @@
 layout: post
 title: "Zoom on Ai tools for developers"
 date: 2025-05-07
-tags : Ai Developers Tools Zoomon Code Cursor Github Graphite Gitlab Openrouter Deepinfra Model Daytona Theia Trae Brokk
+tags : Ai Developers Tools Zoomon Code Cursor Github Graphite Gitlab Openrouter Deepinfra Model Daytona Theia Trae Brokk Models Benchmark 
 ---
 
 This page to give and not forget some references concerning Ai tools that would be use in development environnement
@@ -10,6 +10,33 @@ This page to give and not forget some references concerning Ai tools that would 
 # Global
 
 Landscape : [https://landscape.ainativedev.io/](https://landscape.ainativedev.io/)        
+
+# Beyond tool, choose your model
+
+## Recommandation     
+
+Github recommandation : [https://docs.github.com/en/copilot/using-github-copilot/ai-models/choosing-the-right-ai-model-for-your-task](https://docs.github.com/en/copilot/using-github-copilot/ai-models/choosing-the-right-ai-model-for-your-task)     
+OpenAi recommandation : [https://help.openai.com/en/articles/11165333-chatgpt-enterprise-models-limits](https://help.openai.com/en/articles/11165333-chatgpt-enterprise-models-limits)       
+Brokk choice : [https://blog.brokk.ai/the-best-llm-for-code/](https://blog.brokk.ai/the-best-llm-for-code/)          
+
+## Code tasks benchmarks       
+
+Overview : [https://huggingface.co/spaces/UlrickBL/benchmark_overview](https://huggingface.co/spaces/UlrickBL/benchmark_overview)       
+
+Web development [https://web.lmarena.ai/leaderboard](https://web.lmarena.ai/leaderboard)      
+[https://livecodebench.github.io/](https://livecodebench.github.io/)     
+[https://www.swebench.com/](https://www.swebench.com/)    
+Java dedicated :   
+* [https://github.com/ProsusAI/stack-eval](https://github.com/ProsusAI/stack-eval)      
+* [https://github.com/java-bench/JavaBench](https://github.com/java-bench/JavaBench)       
+
+MBPP : Python [https://github.com/google-research/google-research/tree/master/mbpp](https://github.com/google-research/google-research/tree/master/mbpp)     
+MBPP+ : Python, extended test [https://huggingface.co/datasets/evalplus/mbppplus](https://huggingface.co/datasets/evalplus/mbppplus)        
+HUMAN EVAL : Python [https://github.com/openai/human-eval](https://github.com/openai/human-eval)       
+HUMAN EVAL + : Python, extended test      
+HUMAN EVAL X : Python, java, javascript, C++     
+CRUX EVAL : Python [https://crux-eval.github.io/](https://crux-eval.github.io/)     
+BigcodeBench : Function calling in python [https://bigcode-bench.github.io/](https://bigcode-bench.github.io/)      
 
 # Quick list
 
