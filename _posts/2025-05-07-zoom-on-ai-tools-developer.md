@@ -61,13 +61,14 @@ Raycast [https://www.raycast.com/core-features/ai](https://www.raycast.com/core-
 [IDE] Zed Ai : [https://zed.dev/ai](https://zed.dev/ai)      
 [IDE] Solvere [https://solverai.com/](https://solverai.com/)  
 [IDE] Void Editor, Cursor opensource alternative [https://solverai.com/](https://voideditor.com/) and its Github [https://github.com/voideditor/void](https://github.com/voideditor/void)             
-[IDE] Trae [https://www.trae.ai/](https://www.trae.ai/)       
+[IDE] Trae [https://www.trae.ai/](https://www.trae.ai/)          
 [IDE] Eclipse Theia :      
 * [https://theia-ide.org/](https://theia-ide.org/)     
-* [https://github.com/eclipse-theia/theia](https://github.com/eclipse-theia/theia)        
-[IDE] Zed is a next-generation code editor designed for high-performance collaboration with humans and AI [https://zed.dev/](https://zed.dev/)       
+* [https://github.com/eclipse-theia/theia](https://github.com/eclipse-theia/theia)              
+[IDE] Zed is a next-generation code editor designed for high-performance collaboration with humans and AI [https://zed.dev/](https://zed.dev/)          
 
-[code Platform] For large code base, Brokk [https://brokk.ai/](https://brokk.ai/)
+[code Platform] For large code base, Brokk [https://brokk.ai/](https://brokk.ai/)      
+[code platform] Tabnine [https://www.tabnine.com/](https://www.tabnine.com/)       
 
 [Build agent platform] Langchain open agent platform [https://github.com/langchain-ai/open-agent-platform](https://github.com/langchain-ai/open-agent-platform)        
 [Build agent platform] Microsoft Autogen [https://github.com/microsoft/autogen](https://github.com/microsoft/autogen)       
