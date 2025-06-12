@@ -87,6 +87,8 @@ Daytona : infra for Ai agent [https://www.daytona.io/](https://www.daytona.io/)
 Graphite : [https://graphite.dev/](https://graphite.dev/)         
 Dust : [https://dust.tt/](https://dust.tt/)         
 
+Blackbox Ai : [https://www.blackbox.ai/](https://www.blackbox.ai/)        
+
 ## More tool part
 
 Maizai : [https://github.com/appclacks/maizai](https://github.com/appclacks/maizai)            
