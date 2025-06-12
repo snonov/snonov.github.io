@@ -2,7 +2,7 @@
 layout: post
 title: "Skill handrail Github Copilot"
 date: 2025-05-21
-tags : Skills Handrail Github Copilot Ai Certification Kimadelinemiguel
+tags : Skills Handrail Github Copilot Ai Certification Kimadelinemiguel instructionfile
 ---
 
 Links and data around Github Copilot
@@ -58,6 +58,12 @@ Choose the right underlying model : [https://docs.github.com/en/copilot/using-gi
 Github Copilot Features [https://docs.github.com/en/copilot/about-github-copilot/github-copilot-features](https://docs.github.com/en/copilot/about-github-copilot/github-copilot-features)       
 Measuring impact : [https://resources.github.com/learn/pathways/copilot/essentials/measuring-the-impact-of-github-copilot/](https://resources.github.com/learn/pathways/copilot/essentials/measuring-the-impact-of-github-copilot/)      
 Video : use your repo as RAG [https://www.youtube.com/watch?app=desktop&v=MqBBEgpYh0Y](https://www.youtube.com/watch?app=desktop&v=MqBBEgpYh0Y)       
+
+Github copilot instruction file (aka copilot-instructions.md) :       
+* [https://medium.com/@anil.goyal0057/mastering-github-copilot-custom-instructions-with-github-copilot-instructions-md-f353e5abf2b1](https://medium.com/@anil.goyal0057/mastering-github-copilot-custom-instructions-with-github-copilot-instructions-md-f353e5abf2b1)         
+* [https://github.com/Code-and-Sorts/awesome-copilot-instructions](https://github.com/Code-and-Sorts/awesome-copilot-instructions)       
+* [https://github.com/SebastienDegodez/copilot-instructions](https://github.com/SebastienDegodez/copilot-instructions)        
+
 
 ## Github copilot people     
 
