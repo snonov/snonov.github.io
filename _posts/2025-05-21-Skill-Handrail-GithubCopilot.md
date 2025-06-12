@@ -41,6 +41,11 @@ Oreilly
    * [https://github.com/timothywarner/copilot-cert-prep/tree/main/tests](https://github.com/timothywarner/copilot-cert-prep/tree/main/tests)          
 * Mock Exam : [https://learning.oreilly.com/certifications/9780135426777/](https://learning.oreilly.com/certifications/9780135426777/) 
 
+School repo and projects        
+* [https://github.com/orsharon7/github-copilot-masterclass/tree/main](https://github.com/orsharon7/github-copilot-masterclass/tree/main)       
+* [https://github.com/dc24aicrew/copilot-demo-spring-taskmanager/tree/main](https://github.com/dc24aicrew/copilot-demo-spring-taskmanager/tree/main)         
+
+
 External tutorial    
 * Community material : [https://github.com/orgs/community/discussions/144443](https://github.com/orgs/community/discussions/144443)           
 * [https://moaw.dev/workshop/gh:Philess/GHCopilotHoL/main/docs/?step=0](https://moaw.dev/workshop/gh:Philess/GHCopilotHoL/main/docs/?step=0) and [https://github.com/Philess/gh-copilot-demo](https://github.com/Philess/gh-copilot-demo)  
