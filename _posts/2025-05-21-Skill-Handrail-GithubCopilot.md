@@ -15,6 +15,7 @@ Documentation : [https://docs.github.com/en/copilot](https://docs.github.com/en/
 
 Github certification handbook : [https://examregistration.github.com/handbook](https://examregistration.github.com/handbook)       
 Github Blog : [https://github.blog/](https://github.blog/)      
+Github Copilot Essential : [https://resources.github.com/learn/pathways/copilot/essentials/essentials-of-github-copilot/](https://resources.github.com/learn/pathways/copilot/essentials/essentials-of-github-copilot/)       
 
 Github copilot plans : 
 * Plans [https://docs.github.com/en/copilot/about-github-copilot/plans-for-github-copilot](https://docs.github.com/en/copilot/about-github-copilot/plans-for-github-copilot)
