@@ -64,11 +64,15 @@ Github Copilot Features [https://docs.github.com/en/copilot/about-github-copilot
 Measuring impact : [https://resources.github.com/learn/pathways/copilot/essentials/measuring-the-impact-of-github-copilot/](https://resources.github.com/learn/pathways/copilot/essentials/measuring-the-impact-of-github-copilot/)      
 Video : use your repo as RAG [https://www.youtube.com/watch?app=desktop&v=MqBBEgpYh0Y](https://www.youtube.com/watch?app=desktop&v=MqBBEgpYh0Y)       
 
+### Github copilot instruction file
+
 Github copilot instruction file (aka copilot-instructions.md) :       
 * [https://medium.com/@anil.goyal0057/mastering-github-copilot-custom-instructions-with-github-copilot-instructions-md-f353e5abf2b1](https://medium.com/@anil.goyal0057/mastering-github-copilot-custom-instructions-with-github-copilot-instructions-md-f353e5abf2b1)         
 * [https://github.com/Code-and-Sorts/awesome-copilot-instructions](https://github.com/Code-and-Sorts/awesome-copilot-instructions)       
 * [https://github.com/SebastienDegodez/copilot-instructions](https://github.com/SebastienDegodez/copilot-instructions)        
 
+Sample :        
+* [https://github.com/dc24aicrew/copilot-demo-spring-taskmanager/tree/main](https://github.com/dc24aicrew/copilot-demo-spring-taskmanager/tree/main)        
 
 ## Github copilot people     
 
