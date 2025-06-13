@@ -79,8 +79,8 @@ Sample :
 Kim-Adeline Miguel : [https://github.com/kimadeline](https://github.com/kimadeline) (and Devoxx 2025 talks [https://www.devoxx.fr/agenda-2025/speaker/kim-adeline-miguel/](https://www.devoxx.fr/agenda-2025/speaker/kim-adeline-miguel/))    
 
 Her Devoxx Paris 2025 talks 
-* [Dans les coulisses de Copilot : Contexte + LLM + perf + sécurité]([https://www.youtube.com/watch?v=-oyZsPCpK-Q&list=PLTbQvx84FrAQLPD28KiNKGJrDo5MeKxfI&index=46](https://www.youtube.com/watch?v=-oyZsPCpK-Q&list=PLTbQvx84FrAQLPD28KiNKGJrDo5MeKxfI&index=46))
-* [GitHub Copilot : Aller encore plus loin que la completion de code]([https://www.youtube.com/watch?v=9kE9JWW2Y1k&list=PLTbQvx84FrAQLPD28KiNKGJrDo5MeKxfI&index=109](https://www.youtube.com/watch?v=9kE9JWW2Y1k&list=PLTbQvx84FrAQLPD28KiNKGJrDo5MeKxfI&index=109))
+* [Dans les coulisses de Copilot : Contexte + LLM + perf + sécurité](https://www.youtube.com/watch?v=-oyZsPCpK-Q&list=PLTbQvx84FrAQLPD28KiNKGJrDo5MeKxfI&index=46)       
+* [GitHub Copilot : Aller encore plus loin que la completion de code](https://www.youtube.com/watch?v=9kE9JWW2Y1k&list=PLTbQvx84FrAQLPD28KiNKGJrDo5MeKxfI&index=109)         
 
 
 
