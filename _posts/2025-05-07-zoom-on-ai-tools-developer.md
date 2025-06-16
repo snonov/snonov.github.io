@@ -2,7 +2,7 @@
 layout: post
 title: "Zoom on Ai tools for developers"
 date: 2025-05-07
-tags : Ai Developers Tools Zoomon Code Cursor Github Graphite Gitlab Openrouter Deepinfra Model Daytona Theia Trae Brokk Models Benchmark Augment 
+tags : Ai Developers Tools Zoomon Code Cursor Github Graphite Gitlab Openrouter Deepinfra Model Daytona Theia Trae Brokk Models Benchmark Augment Codex Openai Claude
 ---
 
 This page to give and not forget some references concerning Ai tools that would be use in development environnement
@@ -68,8 +68,11 @@ Raycast [https://www.raycast.com/core-features/ai](https://www.raycast.com/core-
 * [https://github.com/eclipse-theia/theia](https://github.com/eclipse-theia/theia)              
 
 
+[LLm provider code space] OpenAi Codex [https://openai.com/codex/](https://openai.com/codex/)           
+[LLm provider code space] Anthropic Claude Code [https://www.anthropic.com/claude-code](https://www.anthropic.com/claude-code)          
+
 [code Platform] For large code base, Brokk [https://brokk.ai/](https://brokk.ai/)      
-[cide platform] Augment Code [https://www.augmentcode.com/](https://www.augmentcode.com/)       
+[code platform] Augment Code [https://www.augmentcode.com/](https://www.augmentcode.com/)       
 [code platform] Tabnine [https://www.tabnine.com/](https://www.tabnine.com/)       
 
 [Build agent platform] Langchain open agent platform [https://github.com/langchain-ai/open-agent-platform](https://github.com/langchain-ai/open-agent-platform)        
