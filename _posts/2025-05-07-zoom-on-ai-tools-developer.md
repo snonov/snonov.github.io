@@ -77,6 +77,10 @@ Raycast [https://www.raycast.com/core-features/ai](https://www.raycast.com/core-
 
 [Framework Agent] [https://github.com/embabel/embabel-agent](https://github.com/embabel/embabel-agent)       
 
+[Agent SDK]  Google ADK (Agent Development Kit)        
+* [https://google.github.io/adk-docs/](https://google.github.io/adk-docs/)         
+* [https://glaforge.dev/posts/2025/05/20/writing-java-ai-agents-with-adk-for-java-getting-started/](https://glaforge.dev/posts/2025/05/20/writing-java-ai-agents-with-adk-for-java-getting-started/)       
+
 [Documentation] Github repositories auto documentation with Deepwiki [https://deepwiki.com/](https://deepwiki.com/)      
 
 
