@@ -40,6 +40,14 @@ Researchgate ([https://fr.wikipedia.org/wiki/ResearchGate](https://fr.wikipedia.
 Daedalus, an open access publication of the American Academy of Arts & Sciences        
 [https://www.amacad.org/daedalus](https://www.amacad.org/daedalus)      
 
+## Services to browse research papers
+
+[Research Rabbit](https://www.researchrabbit.ai/)      
+[Consensus](https://consensus.app/)          
+[Iris Ai](https://iris.ai/)        
+[SciSpace](https://scispace.com/fr)     
+[Scite](https://scite.ai/)      
+
 ## High level engineering conferences      
 
 FSE (Foundations of Software Engineering) : [https://conf.researchr.org/series/fse](https://conf.researchr.org/series/fse)      
