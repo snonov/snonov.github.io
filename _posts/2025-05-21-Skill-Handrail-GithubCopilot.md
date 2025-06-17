@@ -22,6 +22,7 @@ Github copilot plans :
 * Another Plans [https://github.com/features/copilot/plans](https://github.com/features/copilot/plans)         
 * Features [https://docs.github.com/en/copilot/about-github-copilot/github-copilot-features](https://docs.github.com/en/copilot/about-github-copilot/github-copilot-features)          
 
+Some Github Copilot LLM History : [https://github.blog/ai-and-ml/github-copilot/inside-github-working-with-the-llms-behind-github-copilot/](https://github.blog/ai-and-ml/github-copilot/inside-github-working-with-the-llms-behind-github-copilot/)    
 
 ## Prepare
 
