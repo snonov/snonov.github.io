@@ -2,7 +2,7 @@
 layout: post
 title: "Zoom on Ai tools for developers"
 date: 2025-05-07
-tags : Ai Developers Tools Zoomon Code Cursor Github Graphite Gitlab Openrouter Deepinfra Model Daytona Theia Trae Brokk Models Benchmark Augment Codex Openai Claude
+tags : Ai Developers Tools Zoomon Code Cursor Github Graphite Gitlab Openrouter Deepinfra Model Daytona Theia Trae Brokk Models Benchmark Augment Codex Openai Claude Deeplearning
 ---
 
 This page to give and not forget some references concerning Ai tools that would be use in development environnement
@@ -77,6 +77,7 @@ Raycast [https://www.raycast.com/core-features/ai](https://www.raycast.com/core-
 
 [Build agent platform] Langchain open agent platform [https://github.com/langchain-ai/open-agent-platform](https://github.com/langchain-ai/open-agent-platform)        
 [Build agent platform] Microsoft Autogen [https://github.com/microsoft/autogen](https://github.com/microsoft/autogen)       
+[Build agent platform] CrewAi [https://www.crewai.com/](https://www.crewai.com/)        
 
 [Framework Agent] [https://github.com/embabel/embabel-agent](https://github.com/embabel/embabel-agent)       
 
@@ -109,6 +110,10 @@ DeepInfra : [https://deepinfra.com/](https://deepinfra.com/)
 # Conferences
 
 LLM4Code : [https://llm4code.github.io/](https://llm4code.github.io/)        
+
+# Courses
+
+[DeepLearning short courses](https://www.deeplearning.ai/courses/?courses_date_desc%5BrefinementList%5D%5Bcourse_type%5D%5B0%5D=Short%20Courses&courses_date_desc%5BrefinementList%5D%5Btopic%5D%5B0%5D=AI%20in%20Software%20Development)      
 
 # Interesting readings
 
