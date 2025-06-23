@@ -2,7 +2,7 @@
 layout: post
 title: "Zoom on Ai tools for developers"
 date: 2025-05-07
-tags : Ai Developers Tools Zoomon Code Cursor Github Graphite Gitlab Openrouter Deepinfra Model Daytona Theia Trae Brokk Models Benchmark Augment Codex Openai Claude Deeplearning
+tags : Ai Developers Tools Zoomon Code Cursor Github Graphite Gitlab Openrouter Deepinfra Model Daytona Theia Trae Brokk Models Benchmark Augment Codex Openai Claude Deeplearning Diamond Graphite
 ---
 
 This page to give and not forget some references concerning Ai tools that would be use in development environnement
@@ -92,7 +92,7 @@ Raycast [https://www.raycast.com/core-features/ai](https://www.raycast.com/core-
 
 Daytona : infra for Ai agent [https://www.daytona.io/](https://www.daytona.io/)        
 
-Graphite : [https://graphite.dev/](https://graphite.dev/)         
+Graphite : [https://graphite.dev/](https://graphite.dev/) and Diamond Ai Agent [https://diamond.graphite.dev/](https://diamond.graphite.dev/)        
 Dust : [https://dust.tt/](https://dust.tt/)         
 
 Blackbox Ai : [https://www.blackbox.ai/](https://www.blackbox.ai/)        
