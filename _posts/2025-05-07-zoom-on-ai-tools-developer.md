@@ -18,6 +18,7 @@ Landscape : [https://landscape.ainativedev.io/](https://landscape.ainativedev.io
 Github recommandation : [https://docs.github.com/en/copilot/using-github-copilot/ai-models/choosing-the-right-ai-model-for-your-task](https://docs.github.com/en/copilot/using-github-copilot/ai-models/choosing-the-right-ai-model-for-your-task)     
 OpenAi recommandation : [https://help.openai.com/en/articles/11165333-chatgpt-enterprise-models-limits](https://help.openai.com/en/articles/11165333-chatgpt-enterprise-models-limits)       
 Brokk choice : [https://blog.brokk.ai/the-best-llm-for-code/](https://blog.brokk.ai/the-best-llm-for-code/)          
+Blog post : [https://www.oneusefulthing.org/p/using-ai-right-now-a-quick-guide](https://www.oneusefulthing.org/p/using-ai-right-now-a-quick-guide)         
 
 ## Code tasks benchmarks       
 
