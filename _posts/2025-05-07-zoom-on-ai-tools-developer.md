@@ -2,7 +2,7 @@
 layout: post
 title: "Zoom on Ai tools for developers"
 date: 2025-05-07
-tags : Ai Developers Tools Zoomon Code Cursor Github Graphite Gitlab Openrouter Deepinfra Model Daytona Theia Trae Brokk Models Benchmark Augment Codex Openai Claude Deeplearning Diamond Graphite
+tags : Ai Developers Tools Zoomon Code Cursor Github Graphite Gitlab Openrouter Deepinfra Model Daytona Theia Trae Brokk Models Benchmark Augment Codex Openai Claude Deeplearning Diamond Graphite Mcp A2a
 ---
 
 This page to give and not forget some references concerning Ai tools that would be use in development environnement
@@ -37,6 +37,14 @@ HUMAN EVAL + : Python, extended test
 HUMAN EVAL X : Python, java, javascript, C++     
 CRUX EVAL : Python [https://crux-eval.github.io/](https://crux-eval.github.io/)     
 BigcodeBench : Function calling in python [https://bigcode-bench.github.io/](https://bigcode-bench.github.io/)      
+
+# Protocols involved
+
+MCP protocol [https://modelcontextprotocol.io/introduction](https://modelcontextprotocol.io/introduction)         
+A2A 
+* [https://github.com/a2aproject/A2A](https://github.com/a2aproject/A2A)                
+* [https://a2aproject.github.io/A2A/latest/#unlock-collaborative-agent-scenarios](https://a2aproject.github.io/A2A/latest/#unlock-collaborative-agent-scenarios)                 
+* From Google to Linux Foundation [https://thenewstack.io/google-donates-the-agent2agent-protocol-to-the-linux-foundation/](https://thenewstack.io/google-donates-the-agent2agent-protocol-to-the-linux-foundation/)            
 
 # Quick list
 
