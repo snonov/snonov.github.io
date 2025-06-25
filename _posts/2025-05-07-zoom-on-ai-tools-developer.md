@@ -80,6 +80,8 @@ Raycast [https://www.raycast.com/core-features/ai](https://www.raycast.com/core-
 [LLm provider code space] OpenAi Codex [https://openai.com/codex/](https://openai.com/codex/)           
 [LLm provider code space] Anthropic Claude Code [https://www.anthropic.com/claude-code](https://www.anthropic.com/claude-code)          
 
+[Agent] Qodo, previously Codium [https://www.qodo.ai/](https://www.qodo.ai/)       
+
 [code Platform] For large code base, Brokk [https://brokk.ai/](https://brokk.ai/)      
 [code platform] Augment Code [https://www.augmentcode.com/](https://www.augmentcode.com/)       
 [code platform] Tabnine [https://www.tabnine.com/](https://www.tabnine.com/)       
