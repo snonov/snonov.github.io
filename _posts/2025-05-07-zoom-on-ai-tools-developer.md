@@ -83,6 +83,8 @@ Raycast [https://www.raycast.com/core-features/ai](https://www.raycast.com/core-
 [code Platform] For large code base, Brokk [https://brokk.ai/](https://brokk.ai/)      
 [code platform] Augment Code [https://www.augmentcode.com/](https://www.augmentcode.com/)       
 [code platform] Tabnine [https://www.tabnine.com/](https://www.tabnine.com/)       
+[code platform] Agent development environment Warp [https://www.warp.dev/](https://www.warp.dev/)       
+[code plateform] FactoryAi [https://www.factory.ai/](https://www.factory.ai/)              
 
 [Build agent platform] Langchain open agent platform [https://github.com/langchain-ai/open-agent-platform](https://github.com/langchain-ai/open-agent-platform)        
 [Build agent platform] Microsoft Autogen [https://github.com/microsoft/autogen](https://github.com/microsoft/autogen)       
