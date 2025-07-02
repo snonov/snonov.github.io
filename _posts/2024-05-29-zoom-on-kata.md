@@ -87,6 +87,13 @@ Some tools may help to organize group sessions :
 
 There is huge numbers of kata so it will not be exhaustive 
 
+### Github Awesome
+* [https://github.com/gamontal/awesome-katas#readme](https://github.com/gamontal/awesome-katas#readme)       
+
+
+### Ai dedicated Kata
+* [https://github.com/ai-driven-dev/katas-coding-with-ia](https://github.com/ai-driven-dev/katas-coding-with-ia)        
+
 ### Some Katalogs
 
 * [https://kata-log.rocks/](https://kata-log.rocks/)    
