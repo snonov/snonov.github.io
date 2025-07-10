@@ -22,6 +22,11 @@ Github copilot plans :
 * Another Plans [https://github.com/features/copilot/plans](https://github.com/features/copilot/plans)         
 * Features [https://docs.github.com/en/copilot/about-github-copilot/github-copilot-features](https://docs.github.com/en/copilot/about-github-copilot/github-copilot-features)          
 
+RoadMap    
+* [ChangeLog](https://github.blog/changelog/)         
+* [What's new](https://github.com/features/copilot/whats-new)        
+* [Jetbrain plugin](https://plugins.jetbrains.com/plugin/17718-github-copilot/versions/stable)        
+
 Some Github Copilot LLM History : [https://github.blog/ai-and-ml/github-copilot/inside-github-working-with-the-llms-behind-github-copilot/](https://github.blog/ai-and-ml/github-copilot/inside-github-working-with-the-llms-behind-github-copilot/)    
 
 ## Prepare
@@ -43,11 +48,17 @@ Oreilly
    * [https://github.com/timothywarner/copilot-cert-prep/tree/main/tests](https://github.com/timothywarner/copilot-cert-prep/tree/main/tests)          
 * Mock Exam : [https://learning.oreilly.com/certifications/9780135426777/](https://learning.oreilly.com/certifications/9780135426777/) 
 
-School repo and projects        
-* [https://github.com/orsharon7/github-copilot-masterclass/tree/main](https://github.com/orsharon7/github-copilot-masterclass/tree/main)       
-* [https://github.com/dc24aicrew/copilot-demo-spring-taskmanager/tree/main](https://github.com/dc24aicrew/copilot-demo-spring-taskmanager/tree/main)         
-
-
+School repo and projects      
+* Microsoft Github Copilot repositories
+    * [GitHub Copilot Global Bootcamp (entry point for various education repositories)](https://github.com/microsoft/GitHub-Copilot-Global-Bootcamp/tree/main)           
+    * [Mastering GitHub Copilot](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)        
+    * [GitHub Copilot Vibe Coding Workshop](https://github.com/microsoft/github-copilot-vibe-coding-workshop)         
+    * [Github Copilot Hackaton (sample of little dev)](https://github.com/microsoft/CopilotHackathon)            
+    * [Github copilot migrating language sample](https://github.com/microsoft/github-copilot-migrating-languages)                  
+    * [Github copilot workshop (Java)](https://github.com/microsoft/github-copilot-workshops-labs) and [full correction](https://github.com/microsoft/github-copilot-workshops-full)           
+* External       
+    * [https://github.com/orsharon7/github-copilot-masterclass/tree/main](https://github.com/orsharon7/github-copilot-masterclass/tree/main)       
+    * [https://github.com/dc24aicrew/copilot-demo-spring-taskmanager/tree/main](https://github.com/dc24aicrew/copilot-demo-spring-taskmanager/tree/main)           
 External tutorial    
 * Community material : [https://github.com/orgs/community/discussions/144443](https://github.com/orgs/community/discussions/144443)           
 * [https://moaw.dev/workshop/gh:Philess/GHCopilotHoL/main/docs/?step=0](https://moaw.dev/workshop/gh:Philess/GHCopilotHoL/main/docs/?step=0) and [https://github.com/Philess/gh-copilot-demo](https://github.com/Philess/gh-copilot-demo)  
@@ -65,6 +76,9 @@ Choose the right underlying model : [https://docs.github.com/en/copilot/using-gi
 Github Copilot Features [https://docs.github.com/en/copilot/about-github-copilot/github-copilot-features](https://docs.github.com/en/copilot/about-github-copilot/github-copilot-features)       
 Measuring impact : [https://resources.github.com/learn/pathways/copilot/essentials/measuring-the-impact-of-github-copilot/](https://resources.github.com/learn/pathways/copilot/essentials/measuring-the-impact-of-github-copilot/)      
 Video : use your repo as RAG [https://www.youtube.com/watch?app=desktop&v=MqBBEgpYh0Y](https://www.youtube.com/watch?app=desktop&v=MqBBEgpYh0Y)       
+Github copilot prompt path and track      
+* [https://devblogs.microsoft.com/all-things-azure/github-copilot-chat-explained-the-life-of-a-prompt/](https://devblogs.microsoft.com/all-things-azure/github-copilot-chat-explained-the-life-of-a-prompt/)      
+* [https://medium.com/@svdoever/unveiling-the-secrets-what-vscode-github-copilot-share-with-the-llm-23be5c6955b4](https://medium.com/@svdoever/unveiling-the-secrets-what-vscode-github-copilot-share-with-the-llm-23be5c6955b4) and tool [https://mitmproxy.org/#mitmweb](https://mitmproxy.org/#mitmweb)    
 
 ### Github copilot instruction file
 
@@ -73,6 +87,8 @@ Github copilot instruction file (aka copilot-instructions.md) :
 * [https://github.com/Code-and-Sorts/awesome-copilot-instructions](https://github.com/Code-and-Sorts/awesome-copilot-instructions)       
 * [https://github.com/SebastienDegodez/copilot-instructions](https://github.com/SebastienDegodez/copilot-instructions)        
 * [https://github.com/fielding/copilot-instructions](https://github.com/fielding/copilot-instructions)             
+
+How to use those files with Jetbrain : [https://devblogs.microsoft.com/java/customize-github-copilot-in-jetbrains-with-custom-instructions/](https://devblogs.microsoft.com/java/customize-github-copilot-in-jetbrains-with-custom-instructions/)         
 
 Sample :        
 * [https://github.com/dc24aicrew/copilot-demo-spring-taskmanager/tree/main](https://github.com/dc24aicrew/copilot-demo-spring-taskmanager/tree/main)        
