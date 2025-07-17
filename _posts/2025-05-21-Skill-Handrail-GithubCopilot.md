@@ -79,6 +79,8 @@ Video : use your repo as RAG [https://www.youtube.com/watch?app=desktop&v=MqBBEg
 Github copilot prompt path and track      
 * [https://devblogs.microsoft.com/all-things-azure/github-copilot-chat-explained-the-life-of-a-prompt/](https://devblogs.microsoft.com/all-things-azure/github-copilot-chat-explained-the-life-of-a-prompt/)      
 * [https://medium.com/@svdoever/unveiling-the-secrets-what-vscode-github-copilot-share-with-the-llm-23be5c6955b4](https://medium.com/@svdoever/unveiling-the-secrets-what-vscode-github-copilot-share-with-the-llm-23be5c6955b4) and tool [https://mitmproxy.org/#mitmweb](https://mitmproxy.org/#mitmweb)    
+Github Copilot Agent
+* [https://ghsioux.github.io/2025/07/15/getting-started-with-copilot-coding-agent](https://ghsioux.github.io/2025/07/15/getting-started-with-copilot-coding-agent)           
 
 ### Github copilot instruction file
 
