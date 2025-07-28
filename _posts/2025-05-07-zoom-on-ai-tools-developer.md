@@ -124,7 +124,8 @@ DeepInfra : [https://deepinfra.com/](https://deepinfra.com/)
 
 # Conferences
 
-LLM4Code : [https://llm4code.github.io/](https://llm4code.github.io/)        
+LLM4Code : [https://llm4code.github.io/](https://llm4code.github.io/)    
+ai4devs : [https://amsterdam.ai4devs.io/](https://amsterdam.ai4devs.io/)       
 
 # Courses
 
