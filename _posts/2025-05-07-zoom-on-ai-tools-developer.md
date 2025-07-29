@@ -41,7 +41,11 @@ BigcodeBench : Function calling in python [https://bigcode-bench.github.io/](htt
 
 # Protocols involved
 
-MCP protocol [https://modelcontextprotocol.io/introduction](https://modelcontextprotocol.io/introduction)         
+MCP protocol 
+* [Github repo entry point](https://github.com/modelcontextprotocol)     
+* [Documentation](https://modelcontextprotocol.io/introduction)
+* [MCP list of servers](https://github.com/modelcontextprotocol/servers/)
+* [Smithery, open marketplace of MCP servers](https://smithery.ai/)            
 A2A 
 * [https://github.com/a2aproject/A2A](https://github.com/a2aproject/A2A)                
 * [https://a2aproject.github.io/A2A/latest/#unlock-collaborative-agent-scenarios](https://a2aproject.github.io/A2A/latest/#unlock-collaborative-agent-scenarios)                 
