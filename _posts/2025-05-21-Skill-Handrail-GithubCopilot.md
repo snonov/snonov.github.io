@@ -53,19 +53,19 @@ School repo and projects
     * [GitHub Copilot Global Bootcamp (entry point for various education repositories)](https://github.com/microsoft/GitHub-Copilot-Global-Bootcamp/tree/main)           
     * [Mastering GitHub Copilot](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)        
     * [GitHub Copilot Vibe Coding Workshop](https://github.com/microsoft/github-copilot-vibe-coding-workshop)         
-    * [Github Copilot Hackaton (sample of little dev)](https://github.com/microsoft/CopilotHackathon)            
-    * [Github copilot migrating language sample](https://github.com/microsoft/github-copilot-migrating-languages)                  
-    * [Github copilot workshop (Java)](https://github.com/microsoft/github-copilot-workshops-labs) and [full correction](https://github.com/microsoft/github-copilot-workshops-full)           
-* External       
-    * [https://github.com/orsharon7/github-copilot-masterclass/tree/main](https://github.com/orsharon7/github-copilot-masterclass/tree/main)       
-    * [https://github.com/dc24aicrew/copilot-demo-spring-taskmanager/tree/main](https://github.com/dc24aicrew/copilot-demo-spring-taskmanager/tree/main)           
-External tutorial    
-* Community material : [https://github.com/orgs/community/discussions/144443](https://github.com/orgs/community/discussions/144443)           
-* [https://moaw.dev/workshop/gh:Philess/GHCopilotHoL/main/docs/?step=0](https://moaw.dev/workshop/gh:Philess/GHCopilotHoL/main/docs/?step=0) and [https://github.com/Philess/gh-copilot-demo](https://github.com/Philess/gh-copilot-demo)  
+    * [Github Copilot Hackaton (sample of little dev)](https://github.com/microsoft/CopilotHackathon)                
+    * [Github copilot migrating language sample](https://github.com/microsoft/github-copilot-migrating-languages)                       
+    * [Github copilot workshop (Java)](https://github.com/microsoft/github-copilot-workshops-labs) and [full correction](https://github.com/microsoft/github-copilot-workshops-full)               
+* External         
+    * [https://github.com/orsharon7/github-copilot-masterclass/tree/main](https://github.com/orsharon7/github-copilot-masterclass/tree/main)          
+    * [https://github.com/dc24aicrew/copilot-demo-spring-taskmanager/tree/main](https://github.com/dc24aicrew/copilot-demo-spring-taskmanager/tree/main)              
+External tutorial        
+* Community material : [https://github.com/orgs/community/discussions/144443](https://github.com/orgs/community/discussions/144443)            
+* [https://moaw.dev/workshop/gh:Philess/GHCopilotHoL/main/docs/?step=0](https://moaw.dev/workshop/gh:Philess/GHCopilotHoL/main/docs/?step=0) and [https://github.com/Philess/gh-copilot-demo](https://github.com/Philess/gh-copilot-demo)      
 * Tutorial [https://pretius.com/blog/github-copilot-tutorial/](https://pretius.com/blog/github-copilot-tutorial/)      
-* Article [https://alexmanrique.com/blog/development/2024/03/08/using-github-copilot-with-java-intellij.html](https://alexmanrique.com/blog/development/2024/03/08/using-github-copilot-with-java-intellij.html)
+* Article [https://alexmanrique.com/blog/development/2024/03/08/using-github-copilot-with-java-intellij.html](https://alexmanrique.com/blog/development/2024/03/08/using-github-copilot-with-java-intellij.html)        
 
-Rex on certification      
+Rex on certification        
 * [https://www.reddit.com/r/GithubCopilot/comments/1gktk9z/passed_the_github_copilot_certification/](https://www.reddit.com/r/GithubCopilot/comments/1gktk9z/passed_the_github_copilot_certification/)      
 * [https://medium.com@letsdothisnow/github-copilot-certification-87f29b6704d6/](https://medium.com/@letsdothisnow/github-copilot-certification-87f29b6704d6)   
 
@@ -88,7 +88,8 @@ Github copilot instruction file (aka copilot-instructions.md) :
 * [https://medium.com/@anil.goyal0057/mastering-github-copilot-custom-instructions-with-github-copilot-instructions-md-f353e5abf2b1](https://medium.com/@anil.goyal0057/mastering-github-copilot-custom-instructions-with-github-copilot-instructions-md-f353e5abf2b1)         
 * [https://github.com/Code-and-Sorts/awesome-copilot-instructions](https://github.com/Code-and-Sorts/awesome-copilot-instructions)       
 * [https://github.com/SebastienDegodez/copilot-instructions](https://github.com/SebastienDegodez/copilot-instructions)        
-* [https://github.com/fielding/copilot-instructions](https://github.com/fielding/copilot-instructions)             
+* [https://github.com/fielding/copilot-instructions](https://github.com/fielding/copilot-instructions)
+* [https://github.com/github/awesome-copilot](https://github.com/github/awesome-copilot)           
 
 How to use those files with Jetbrain : [https://devblogs.microsoft.com/java/customize-github-copilot-in-jetbrains-with-custom-instructions/](https://devblogs.microsoft.com/java/customize-github-copilot-in-jetbrains-with-custom-instructions/)         
 
