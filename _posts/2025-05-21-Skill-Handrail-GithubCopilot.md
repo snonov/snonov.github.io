@@ -84,7 +84,8 @@ Github Copilot Agent
 
 ### Github copilot instruction file
 
-Github copilot instruction file (aka copilot-instructions.md) :       
+Github copilot instruction file (aka copilot-instructions.md) :      
+* Tips to build your instruction file [https://github.blog/ai-and-ml/github-copilot/5-tips-for-writing-better-custom-instructions-for-copilot/](https://github.blog/ai-and-ml/github-copilot/5-tips-for-writing-better-custom-instructions-for-copilot/)                    
 * [https://medium.com/@anil.goyal0057/mastering-github-copilot-custom-instructions-with-github-copilot-instructions-md-f353e5abf2b1](https://medium.com/@anil.goyal0057/mastering-github-copilot-custom-instructions-with-github-copilot-instructions-md-f353e5abf2b1)         
 * [https://github.com/Code-and-Sorts/awesome-copilot-instructions](https://github.com/Code-and-Sorts/awesome-copilot-instructions)       
 * [https://github.com/SebastienDegodez/copilot-instructions](https://github.com/SebastienDegodez/copilot-instructions)        
