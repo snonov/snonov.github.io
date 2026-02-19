@@ -33,6 +33,7 @@ Some Github Copilot LLM History : [https://github.blog/ai-and-ml/github-copilot/
 
 Github Copilot tutorials    
 * [https://github.com/features/copilot/tutorials](https://github.com/features/copilot/tutorials)    
+* [Microsoft Github Copilot Office Hours](https://www.youtube.com/playlist?list=PLbl2SbVIi-WqoUE0LIuoigZGijKAOVKgy)        
 
 Microsoft learn :  
 * To prepare [https://learn.microsoft.com/en-us/training/paths/copilot/](https://learn.microsoft.com/en-us/training/paths/copilot/)    
