@@ -1,0 +1,48 @@
+# .gitignore pour snonov.github.io (Jekyll)
+
+# Build output
+_site/
+
+# Jekyll caches and metadata
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler / vendor
+.bundle/
+vendor/
+vendor/bundle/
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*~
+*.sublime-*
+
+# Node
+node_modules/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+
+# Ruby gems / coverage
+coverage/
+*.gem
+
+# Environment files
+.env
+
+# Working documents (local; also excluded via .git/info/exclude while in-progress)
+_work/
+ANALYSE_ET_EVOLUTION*.md
+DEV_LOCAL.md
+SUIVI_TRAVAUX.md
+
+# Misc
+.cache/
