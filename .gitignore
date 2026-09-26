@@ -38,11 +38,5 @@ coverage/
 # Environment files
 .env
 
-# Working documents (local; also excluded via .git/info/exclude while in-progress)
-_work/
-ANALYSE_ET_EVOLUTION*.md
-DEV_LOCAL.md
-SUIVI_TRAVAUX.md
-
 # Misc
 .cache/
