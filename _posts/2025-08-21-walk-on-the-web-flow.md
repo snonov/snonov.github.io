@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20250821"
 date: 2025-08-21
-tags : Tab Space Llm Embedding Agent Loopagent Adk Guillaumelaforge Maven Maven4 Java25 Java Stable Profiling Jfr Jmc Llm4swe Rex Softwareengineer Git Gitbranching Openprotocols Mcp Ai Startup Ideas Developeraugmented Opal Google Nocode Subtrace Network Codingstyle Claude Test Streamgathering Heinzkabutz A2a Embabel Rodjohnson Stackoverflow Developersurvey Llminterfaces Llm Api Apidiscovery Github Agentic Genai Mcp Brokk Benchmark Modelcompare N8n Workflow Reactive Virtualthread Aiaugmented Ai Business Aibusiness Gpt2 Gptoss Json Jsoneditor Jsoncrack Contextengineer Contextengineering Context 
+tags : Tab Space Llm Embedding Agent Loopagent Adk Guillaumelaforge Maven Maven4 Java25 Java Stable Profiling Jfr Jmc Llm4swe Rex Softwareengineer Git Gitbranching Openprotocols Mcp Ai Startup Ideas Developeraugmented Opal Google Nocode Subtrace Network Codingstyle Claude Test Streamgathering Heinzkabutz A2a Embabel Rodjohnson Stackoverflow Developersurvey Llminterfaces Api Apidiscovery Github Agentic Genai Brokk Benchmark Modelcompare N8n Workflow Reactive Virtualthread Aiaugmented Business Aibusiness Gpt2 Gptoss Json Jsoneditor Jsoncrack Contextengineer Contextengineering Context
 ---
 
 ## Architecture  

@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20171218"
 date: 2017-12-18
-tags : Cloud Nginx Paris AWS Java10 Java9 Java Protocoles Gradybooch Ted Ia Cqrs Cap Distributedsystem Finance Architecture Webflowwalk
+tags : Cloud Nginx Paris Aws Java10 Java9 Java Protocoles Gradybooch Ted Ia Cqrs Cap Distributedsystem Finance Architecture Webflowwalk
 ---
 
 ## Architecture

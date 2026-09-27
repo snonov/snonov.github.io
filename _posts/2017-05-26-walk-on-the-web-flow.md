@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170526"
 date: 2017-05-26
-tags : Webflowwalk Gosling Docker Lowlatency Lmax Flink Jit Kaggle Container Nomad Neo4j Graphql Jstat Cpu Azulsystem NetFlix AWS Java9 Java
+tags : Webflowwalk Gosling Docker Lowlatency Lmax Flink Jit Kaggle Container Nomad Neo4j Graphql Jstat Cpu Azulsystem Netflix Aws Java9 Java
 ---
 
 ## Various

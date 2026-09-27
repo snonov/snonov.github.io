@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20210304"
 date: 2021-03-04
-tags : Cto Java BenEvans Kata Architecture Go Rust Discord MarkDown Readme Cloudnative Blog Screenshot Gitpod Distributedsystem Thread Metaspace Volatile Opensource
+tags : Cto Java Benevans Kata Architecture Go Rust Discord Markdown Readme Cloudnative Blog Screenshot Gitpod Distributedsystem Thread Metaspace Volatile Opensource
 ---
 
 ## Architecture  

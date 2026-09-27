@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20230613"
 date: 2023-06-13
-tags : Refactoring Java Exception Nullpointer Nicolaiparlog Slidedeck Misinformation Cncf Jpmorgan Machinelearning Kafka Confluent Training Knative Dapr Pacelc Theorem Spring Testcontainer Docker Kubernetes Datascientist Redpanda Conduktor KafkaUi Skills Libraries Dependencies Iot Mqtt Aws Java Collections Opensearch Kibana Elasticsearch Performance Codespaces Copilot Java21 Java8 Java11 Migration Structuredconcurrency
+tags : Refactoring Java Exception Nullpointer Nicolaiparlog Slidedeck Misinformation Cncf Jpmorgan Machinelearning Kafka Confluent Training Knative Dapr Pacelc Theorem Spring Testcontainer Docker Kubernetes Datascientist Redpanda Conduktor Kafkaui Skills Libraries Dependencies Iot Mqtt Aws Collections Opensearch Kibana Elasticsearch Performance Codespaces Copilot Java21 Java8 Java11 Migration Structuredconcurrency
 ---
 
 ## Architecture  

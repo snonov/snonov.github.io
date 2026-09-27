@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20180212"
 date:   2018-02-12
-tags : API Javaparser Concourse Ketch Google Jgit Serverless Dotmesh Optimisation Bayesian Junit5 Jvm Stream Reactive Java9 Java Blockchain Consensus Ia Webflowwalk
+tags : Api Javaparser Concourse Ketch Google Jgit Serverless Dotmesh Optimisation Bayesian Junit5 Jvm Stream Reactive Java9 Java Blockchain Consensus Ia Webflowwalk
 ---
 
 ## Architecture

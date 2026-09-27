@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20210204"
 date: 2021-02-04
-tags : Architecture Lambda Distributedsystem Docker Cncf Github Sre Netflix Dgs GraphQL Spring Data Graalvm Compile Memory Patternmatching
+tags : Architecture Lambda Distributedsystem Docker Cncf Github Sre Netflix Dgs Graphql Spring Data Graalvm Compile Memory Patternmatching
 ---
 
 ## Architecture  

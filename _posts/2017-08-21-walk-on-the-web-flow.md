@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170821"
 date: 2017-08-21
-tags : Twitter Heron Java9 Java Graph Eclipsecollection Chatbot API Jee Kubernetes Github Awslambda AWS Webflowwalk
+tags : Twitter Heron Java9 Java Graph Eclipsecollection Chatbot Api Jee Kubernetes Github Awslambda Aws Webflowwalk
 ---
 
 ## Architecture

@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20180314"
 date: 2018-03-14
-tags : Ansible Apm Glowroot Docker Google Opencensus Openj9 Reactiveprogrammi… Spring Kafka Dcos Kubernetes Java Graph Neo4j Fluentapi Chaos Container Serverless Webflowwalk  Flink Spark Zipkin Sleuth Microservices AWS Maven Blog Slack
+tags : Ansible Apm Glowroot Docker Google Opencensus Openj9 Reactiveprogramming Spring Kafka Dcos Kubernetes Java Graph Neo4j Fluentapi Chaos Container Serverless Webflowwalk Flink Spark Zipkin Sleuth Microservices Aws Maven Blog Slack
 ---
 
 ## Architecture

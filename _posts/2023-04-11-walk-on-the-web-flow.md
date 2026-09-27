@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20230411"
 date: 2023-04-11 
-tags : Alibaba Java Maven Build Reproducible Reactive Reactor Protocol Record Mutable Serialization Chatgpt Kubernetes Generation Terraform Cloud 
+tags : Alibaba Java Maven Build Reproducible Reactive Reactor Protocol Record Mutable Serialization Chatgpt Kubernetes Generation Terraform Cloud
 ---
 
 ## Architecture  

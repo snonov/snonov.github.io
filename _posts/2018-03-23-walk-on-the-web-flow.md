@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20180323"
 date: 2018-03-23
-tags : Datalake Spark Cassandra Inoreader Neuralnetwork Modeling Bitemporal Serverless Java Jvm Webflowwalk  Java10 Jakartaee Recursionschemes Hylomorphism Patternmatching Remiforax Briangoetz Blockchain PeterLawrey Smartcontract Consensus Atomist API Git Jnosql BigData Distraction Ci Conference Lambdaday
+tags : Datalake Spark Cassandra Inoreader Neuralnetwork Modeling Bitemporal Serverless Java Jvm Webflowwalk Java10 Jakartaee Recursionschemes Hylomorphism Patternmatching Remiforax Briangoetz Blockchain Peterlawrey Smartcontract Consensus Atomist Api Git Jnosql Bigdata Distraction Ci Conference Lambdaday
 ---
 
 ## Architecture

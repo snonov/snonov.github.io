@@ -2,7 +2,7 @@
 layout: post
 title: "Zoom on Jdk Builds"
 date: 2018-09-18
-tags : Zoomon Jdk Build Java OpenJdk
+tags : Zoomon Jdk Build Java Openjdk
 ---
 
 Period of changes regarding Java and Jdk, impact on builds (open or not, free or not), release and support. Few blogs and articles entry points to keep an eye on those changes

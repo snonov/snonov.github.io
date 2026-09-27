@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20171128"
 date: 2017-11-28
-tags : Graph Debug Jvm Serverless Category Functionnal ContinuousIntegration Conitnuousdelivery Linkedin Asynchrone Java Completablefuture Unittests Analytics Realtime Quora Microservices Reddit Architecture Webflowwalk
+tags : Graph Debug Jvm Serverless Category Functionnal Continuousintegration Conitnuousdelivery Linkedin Asynchrone Java Completablefuture Unittests Analytics Realtime Quora Microservices Reddit Architecture Webflowwalk
 ---
 
 ## Architecture

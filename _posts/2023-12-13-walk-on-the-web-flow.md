@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20231213"
 date: 2023-12-13
-tags : Badsmell Performance Distributed Caching Jvm Profiling Ai Regulation Metaspace Memoryleak Leak Java Llm Jlama Penna Log Slf4j Json Kata Untangled Github Copilot Rex Opentelemetrie Interview Algorithm Jdconf Microsoft Conference Pentest Security Cybersecurity Mysql Codereview Google Cloud Pattern Backend Roadmap Interpreter Uber Eta Path Ossf Scorecard 
+tags : Badsmell Performance Distributed Caching Jvm Profiling Ai Regulation Metaspace Memoryleak Leak Java Llm Jlama Penna Log Slf4j Json Kata Untangled Github Copilot Rex Opentelemetrie Interview Algorithm Jdconf Microsoft Conference Pentest Security Cybersecurity Mysql Codereview Google Cloud Pattern Backend Roadmap Interpreter Uber Eta Path Ossf Scorecard
 ---
 
 ## Architecture  

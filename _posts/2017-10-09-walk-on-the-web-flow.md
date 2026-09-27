@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20171009"
 date: 2017-10-09
-tags : Serverless Fnproject Openjdk Cds Optimisation Microservices Machinelearning Java9 Java Jvm Aot Red USE TensorFlow H2o Streams Kafka Deeplearning Events Webflowwalk
+tags : Serverless Fnproject Openjdk Cds Optimisation Microservices Machinelearning Java9 Java Jvm Aot Red Use Tensorflow H2o Streams Kafka Deeplearning Events Webflowwalk
 ---
 
 ## Architecture

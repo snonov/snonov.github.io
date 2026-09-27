@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20171010"
 date: 2017-10-10
-tags : Yannlecun Quantum Ipfs Cern Digitalocean AWS Strangeloop Conference Rum Btree Io Spark Cassandra Kafka Monitoring Infrastructure API Microservices Apache Webflowwalk
+tags : Yannlecun Quantum Ipfs Cern Digitalocean Aws Strangeloop Conference Rum Btree Io Spark Cassandra Kafka Monitoring Infrastructure Api Microservices Apache Webflowwalk
 ---
 
 ## Architecture

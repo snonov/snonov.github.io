@@ -2,7 +2,7 @@
 layout: post
 title: "Tool handrail JVM"
 date: 2019-10-11
-tags : Tool Handrail JVM Troubleshooting Performance Gc
+tags : Tool Handrail Jvm Troubleshooting Performance Gc
 ---
 
 Collection on links, tools that help investigation, analysis, setting on JVM

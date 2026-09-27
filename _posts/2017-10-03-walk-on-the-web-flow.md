@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20171003"
 date: 2017-10-03
-tags : Certification Docker Yahoo Distributedtracin… Vespa Kubernetes Dcos Faas Kafka Spring5 Spring Analytics Io Eclipse Ee4j Database Serverless Nosql Sql Webflowwalk
+tags : Certification Docker Yahoo Distributedtracing Vespa Kubernetes Dcos Faas Kafka Spring5 Spring Analytics Io Eclipse Ee4j Database Serverless Nosql Sql Webflowwalk
 ---
 
 ## Architecture

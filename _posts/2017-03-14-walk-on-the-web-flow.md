@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170403"
 date: 2017-03-14
-tags : Learn Apache Cloud Eclipse Git Kaggle Neo4j Regexp Antlr API Kubernetes Dcos Terraform Architecture Iot Machinelearning Java Webflowwalk
+tags : Learn Apache Cloud Eclipse Git Kaggle Neo4j Regexp Antlr Api Kubernetes Dcos Terraform Architecture Iot Machinelearning Java Webflowwalk
 ---
 
 ## Architecture

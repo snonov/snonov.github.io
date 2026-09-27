@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170821"
 date: 2017-08-21
-tags : Graph Gremlin API Conference Linkedin AWS Webflowwalk
+tags : Graph Gremlin Api Conference Linkedin Aws Webflowwalk
 ---
 
 ## Architecture

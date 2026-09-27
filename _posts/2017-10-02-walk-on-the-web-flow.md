@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20171002"
 date: 2017-10-02
-tags : Grpc Spring5 Fiber Loom Quantum Nginx Certification Strata Time Outofmemory Java9 Java Briangoetz Patternmatching Machinelearning AWS Coursera Graphql API Webflowwalk
+tags : Grpc Spring5 Fiber Loom Quantum Nginx Certification Strata Time Outofmemory Java9 Java Briangoetz Patternmatching Machinelearning Aws Coursera Graphql Api Webflowwalk
 ---
 
 ## Architecture

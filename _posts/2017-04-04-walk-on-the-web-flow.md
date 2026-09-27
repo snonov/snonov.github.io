@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170404"
 date: 2017-04-04
-tags : Webflowwalk Jcp Java Frege Functionnal Pattern AWS
+tags : Webflowwalk Jcp Java Frege Functionnal Pattern Aws
 ---
 
 Amazon AWS continu à s'implanter en Europe. Region France devrait arriver cette année, annonce pour l'ouverture de la Suède :   

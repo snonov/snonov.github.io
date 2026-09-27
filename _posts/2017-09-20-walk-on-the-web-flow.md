@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170920"
 date: 2017-09-20
-tags : Javaone Join Kafka Mvcc AWS Mavibot Nosql Rxjava Geo Java9 Java Jvm Graal Johnrose Metropolis Uber IBM J9 Openj9 Webflowwalk
+tags : Javaone Join Kafka Mvcc Aws Mavibot Nosql Rxjava Geo Java9 Java Jvm Graal Johnrose Metropolis Uber Ibm J9 Openj9 Webflowwalk
 ---
 
 ## Architecture

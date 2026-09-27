@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20171113"
 date: 2017-11-13
-tags : Timeseries Paradisepaper Neo4j Deeplearning4j Performance Web Openjdk Jdk Java Valhalla Memory Spark Kafka Stream NetFlix Cern Microservices Latency Serverless Webflowwalk
+tags : Timeseries Paradisepaper Neo4j Deeplearning4j Performance Web Openjdk Jdk Java Valhalla Memory Spark Kafka Stream Netflix Cern Microservices Latency Serverless Webflowwalk
 ---
 
 ## Architecture

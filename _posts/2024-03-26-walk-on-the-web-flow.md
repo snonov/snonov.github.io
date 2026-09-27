@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20240326"
 date: 2024-03-26
-tags : Jit Remiforax Invoke Java Oop Dop Milvus Vectordatabase Java22 Meta Git Instagram Stream Gather Llm Debugger Invokedynamic Kata Refactoring Springai Codecomplexity Spring Ebay Generativeai Langchain LangChain4j Semantickernel Codecrafters Moaw Workshop Careerpath Dataframeec MethodHandle Google Timeseries Python Shell Xonsh Ocr Tess4j Ai Jmc Javamissioncontrol Ddd Pattern Bbf Backendforfrontend Decathlon Brendangregg Linux Plateformengineering Restclient 
+tags : Jit Remiforax Invoke Java Oop Dop Milvus Vectordatabase Java22 Meta Git Instagram Stream Gather Llm Debugger Invokedynamic Kata Refactoring Springai Codecomplexity Spring Ebay Generativeai Langchain Langchain4j Semantickernel Codecrafters Moaw Workshop Careerpath Dataframeec Methodhandle Google Timeseries Python Shell Xonsh Ocr Tess4j Ai Jmc Javamissioncontrol Ddd Pattern Bbf Backendforfrontend Decathlon Brendangregg Linux Plateformengineering Restclient
 ---
 
 ## Architecture  

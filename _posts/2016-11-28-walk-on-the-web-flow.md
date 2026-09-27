@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20161128"
 date: 2016-11-28
-tags : AWS Mongodb Java9 Regexp Microservices Webflowwalk
+tags : Aws Mongodb Java9 Regexp Microservices Webflowwalk
 ---
 
 ## De l'architecture

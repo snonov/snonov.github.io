@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20250130"
 date: 2025-01-30
-tags : Law Code Legal Retro 2024 2025 Perspective Ai Dxcore Developer Productivity Llm Fisheye Kennethkousen Dop Llama Reasoning Model Ide Githubcopilot Codemod Api Emilybache Kata Cursor Deepseek Claude Coding Sonnet Model Api Deepinfra  Modelinfra Rag Springai Grafana Zipkin Sessionize Jvm Startup Llm Risk Terminal Warpdev Jvm Exception Tdd Ai  Semanticsearch Scholar Papers 3d Nvidia Json Metadata Datagouv Openai Stargate Founding Coding Carrer Peterlawrey Generateddoc Fullremote Jobs Deepseek Podman Llama Llamastack Loom Structuredconcurrency Docker Image Version Versioning Deepseek Azure Langchain4j Github
+tags : Law Code Legal Retro 2024 2025 Perspective Ai Dxcore Developer Productivity Llm Fisheye Kennethkousen Dop Llama Reasoning Model Ide Githubcopilot Codemod Api Emilybache Kata Cursor Deepseek Claude Coding Sonnet Deepinfra Modelinfra Rag Springai Grafana Zipkin Sessionize Jvm Startup Risk Terminal Warpdev Exception Tdd Semanticsearch Scholar Papers 3d Nvidia Json Metadata Datagouv Openai Stargate Founding Carrer Peterlawrey Generateddoc Fullremote Jobs Podman Llamastack Loom Structuredconcurrency Docker Image Version Versioning Azure Langchain4j Github
 ---
 
 ## Architecture  

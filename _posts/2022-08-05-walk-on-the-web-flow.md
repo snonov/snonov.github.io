@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20220805"
 date: 2022-08-05
-tags : Architecture C4 NewSQL Database Leak Offheap Java Jmc Flightrecorder Protocol Nostr Random Git Command Anki Systemdesign Nealford Functionnal Jdk Project Practises RecordType Constructor Ideal Solid Microservice Cloud Distributedsystem Consensus Convergence Consistency
+tags : Architecture C4 Newsql Database Leak Offheap Java Jmc Flightrecorder Protocol Nostr Random Git Command Anki Systemdesign Nealford Functionnal Jdk Project Practises Recordtype Constructor Ideal Solid Microservice Cloud Distributedsystem Consensus Convergence Consistency
 ---
 
 ## Architecture  

@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20230418"
 date: 2023-04-18 
-tags : Diagram Sequence Devoxx Rex Keyboard Typing Web Fingerprint Miller File Wrangle Java17 Performance Git Springboot Joshlong Jmm Memory Java Micrometer Observability Developper Oracle Licenses Yaml Docker Distroless Kubernetes Migration Database Flyway Liquibase Loom Virtualthread Cloud Localstack Aws Distributedsystem Monorepo Bazel Google Buck Meta Ratelimiter Enum Twitter Opensource Recommandation Postgresql Test Fakes Mocks Spies Stubs Lamportclock Gof Designpattern dp
+tags : Diagram Sequence Devoxx Rex Keyboard Typing Web Fingerprint Miller File Wrangle Java17 Performance Git Springboot Joshlong Jmm Memory Java Micrometer Observability Developper Oracle Licenses Yaml Docker Distroless Kubernetes Migration Database Flyway Liquibase Loom Virtualthread Cloud Localstack Aws Distributedsystem Monorepo Bazel Google Buck Meta Ratelimiter Enum Twitter Opensource Recommandation Postgresql Test Fakes Mocks Spies Stubs Lamportclock Gof Designpattern Dp
 ---
 
 ## Architecture  

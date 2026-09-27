@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170711"
 date: 2017-07-11
-tags : Chatbot Bitcoin Smack API Lagom Microservice Linux Profiling Tlab Jvm Rust Certification Java Webflowwalk
+tags : Chatbot Bitcoin Smack Api Lagom Microservice Linux Profiling Tlab Jvm Rust Certification Java Webflowwalk
 ---
 
 ## Code

@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20240219"
 date: 2024-02-19
-tags : Docker Spring Opendata Ocde Tracing Devsecops Kata Twitters Bluesky Discord Mastodon Threads Nostr Api Latency Tdd Design Donraab Noif Java Github Certification Systems Complex Web Bot Game Java22 Ai Plateform Gartner Trend  Fosdem Jit Openrewrite Container Daggerio Sovereign Cloud Cd Forrester Cicd Documentation Gatsby Docusaurus Vale Multithreading Loom Virtualthread Atlantis Terraform Opentofu Aiforensics Media Juliaevans Linux Performance 1brc Cliffclick Kentbeck Ddd Guillaumelaforge Builder Functionnal Parser Javaparser Briangoetz Pattern Llm Size Stream Scholarpaper Debugging Alistaircockburn Hexagonal Springboot Roles Azure Mitchellhashimoto Ghostty Apache Pekko Actor Iac History Commit Openjdk Kevinbourrillion Guava Datamodel Javaclasses Javatypes Helm
+tags : Docker Spring Opendata Ocde Tracing Devsecops Kata Twitters Bluesky Discord Mastodon Threads Nostr Api Latency Tdd Design Donraab Noif Java Github Certification Systems Complex Web Bot Game Java22 Ai Plateform Gartner Trend Fosdem Jit Openrewrite Container Daggerio Sovereign Cloud Cd Forrester Cicd Documentation Gatsby Docusaurus Vale Multithreading Loom Virtualthread Atlantis Terraform Opentofu Aiforensics Media Juliaevans Linux Performance 1brc Cliffclick Kentbeck Ddd Guillaumelaforge Builder Functionnal Parser Javaparser Briangoetz Pattern Llm Size Stream Scholarpaper Debugging Alistaircockburn Hexagonal Springboot Roles Azure Mitchellhashimoto Ghostty Apache Pekko Actor Iac History Commit Openjdk Kevinbourrillion Guava Datamodel Javaclasses Javatypes Helm
 ---
 
 ## Architecture  

@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20241008"
 date: 2024-10-08
-tags : Jvm Gc Zgc Dolma Dataset Llm Gpt3 Cost N8n Ai Automation Deployment Sdkman Distribution Silverbullet Log Stacktrace Filter Llm Molmo Contamination Tracing Dolma Energy Paradox Kata Llm Api Jdk Library Releasetrain Amber Java Martinfowler Refactoring Book Reading Students Codereadingclub Data Rag Langchain4j Functional Modeling Open Custom Llama Llama32 Ddia Dataintensive Devoxx Maven4 Tabby Djl Langchain4j Podman Jextract Jbang Java10 Java18 Javaflame Challenge Streamgathers Jep485 Collections Git Bisect Script Aiassistant Cassandra Columnfamily Hbase Buildpack Container 
+tags : Jvm Gc Zgc Dolma Dataset Llm Gpt3 Cost N8n Ai Automation Deployment Sdkman Distribution Silverbullet Log Stacktrace Filter Molmo Contamination Tracing Energy Paradox Kata Api Jdk Library Releasetrain Amber Java Martinfowler Refactoring Book Reading Students Codereadingclub Data Rag Langchain4j Functional Modeling Open Custom Llama Llama32 Ddia Dataintensive Devoxx Maven4 Tabby Djl Podman Jextract Jbang Java10 Java18 Javaflame Challenge Streamgathers Jep485 Collections Git Bisect Script Aiassistant Cassandra Columnfamily Hbase Buildpack Container
 ---
 
 ## Architecture  

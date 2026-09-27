@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20161129"
 date: 2016-11-29
-tags : Docker AWS Template Spring Hadoop Webflowwalk
+tags : Docker Aws Template Spring Hadoop Webflowwalk
 ---
 
 OLAP & OLTP sur une base Spark : SnappyData    

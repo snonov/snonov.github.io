@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20180312"
 date: 2018-03-12
-tags : Jaeger Network Machinelearning Opentracing Grpc Linux Cli Stream Maven Java9 Spring Reactive Serverless Concurrency Awslambda AWS Google Kubernetes Containers Webflowwalk  Citus Veritasdb Quantum Engineering Cpu Blog
+tags : Jaeger Network Machinelearning Opentracing Grpc Linux Cli Stream Maven Java9 Spring Reactive Serverless Concurrency Awslambda Aws Google Kubernetes Containers Webflowwalk Citus Veritasdb Quantum Engineering Cpu Blog
 ---
 
 ## Architecture

@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170213"
 date: 2017-02-13
-tags : Qbit Timeseries Beringei NetFlix Hollow Montecarlo Jfokus Java9 Streaming Google Deeplearning Webflowwalk
+tags : Qbit Timeseries Beringei Netflix Hollow Montecarlo Jfokus Java9 Streaming Google Deeplearning Webflowwalk
 ---
 
 

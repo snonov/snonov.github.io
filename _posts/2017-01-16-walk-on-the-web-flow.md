@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170116"
 date: 2017-01-16
-tags : Trends Reactive Lux Deeplearning Janus Jit AWS Java Webflowwalk
+tags : Trends Reactive Lux Deeplearning Janus Jit Aws Java Webflowwalk
 ---
 
 ## Tech trends, changement d'année temps des bilans et perspectives

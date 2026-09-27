@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20180131"
 date: 2018-01-31
-tags : Blockchain git Flamegraph Java9 Jvm Java Java8 Cloud AWS Kafka Spark Cassandra Apachebeam Stream Microservices Nosql Captheoreme Yugabyte Cosmodb Googlespanner Dbcloud Webflowwalk
+tags : Blockchain Git Flamegraph Java9 Jvm Java Java8 Cloud Aws Kafka Spark Cassandra Apachebeam Stream Microservices Nosql Captheoreme Yugabyte Cosmodb Googlespanner Dbcloud Webflowwalk
 ---
 
 ## Architecture

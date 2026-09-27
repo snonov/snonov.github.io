@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20240523"
 date: 2024-05-23
-tags : Git Tips Fosdem Kubernetes Debug Apple Llm Openelm Docker Llama Ai Kata Dojo Java Collector Gc Garbagecollector Zgc Cloudnative Github Dependabot Machinelearning Weka Genai Stream Intellij 12factor Mach Cyberdojo 1brc  Loom  Venkatsubramaniam Joshlong Podman Ai Trishagee Planning Time Wiremock Api  Github Docker Dop Dataorientedprogramming Claude Midjourney Perplexity Poe Bigcode Huggingface  
+tags : Git Tips Fosdem Kubernetes Debug Apple Llm Openelm Docker Llama Ai Kata Dojo Java Collector Gc Garbagecollector Zgc Cloudnative Github Dependabot Machinelearning Weka Genai Stream Intellij 12factor Mach Cyberdojo 1brc Loom Venkatsubramaniam Joshlong Podman Trishagee Planning Time Wiremock Api Dop Dataorientedprogramming Claude Midjourney Perplexity Poe Bigcode Huggingface
   
 ---
 

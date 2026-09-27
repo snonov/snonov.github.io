@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170906"
 date: 2017-09-06
-tags : Conference Kafka Http Httprepeater Apache Ignite Cpu Distributedsystem Machinelearning AWS Coinbase Blockchain Webflowwalk
+tags : Conference Kafka Http Httprepeater Apache Ignite Cpu Distributedsystem Machinelearning Aws Coinbase Blockchain Webflowwalk
 ---
 
 ## Architecture

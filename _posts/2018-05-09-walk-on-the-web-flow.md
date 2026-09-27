@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20180509"
 date: 2018-05-09
-tags : Functionnal Lockfree Cyclicbarrier Neo4j Container Java10 Flink Kafka Lambda Webflowwalk Tensor Manytomany Ksql Junit5 Facebook Ia TensorFlow Deeplearning4j Gvisor Google JMC Javamissioncontrol Squbs Paypal Gitea Git Quantum
+tags : Functionnal Lockfree Cyclicbarrier Neo4j Container Java10 Flink Kafka Lambda Webflowwalk Tensor Manytomany Ksql Junit5 Facebook Ia Tensorflow Deeplearning4j Gvisor Google Jmc Javamissioncontrol Squbs Paypal Gitea Git Quantum
 ---
 
 

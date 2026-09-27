@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20250415"
 date: 2025-04-15
-tags : Faan Job Automated Monad Functional Ide Platform Eclipse Github Copilot Certification Ramalama Container Llama Llm Loadtesting Java Gatherers Google Devops Memory Clean Java Kata Lambda Fizzbuzz Iop Oop If Jmempool Offheap Rust Azure Threetier Orchestration Cursor Prng Random Stream Gatherers Diagrams Architecture Mcp Api Dop Dataorientedprogramming Code Blackboxai Digital Hack Codeagent Mcp Modelcontextprotocol Advent Craft Kata Systemdesign Opentelemetry Game Killercoda Interactiveenvironment Oceanbase Scalable Oltp Filesystem Json Sql Stephanjanssen Endoflife Benchmark Codingllm Virtualthread Legacy 18f Governmenttech
+tags : Faan Job Automated Monad Functional Ide Platform Eclipse Github Copilot Certification Ramalama Container Llama Llm Loadtesting Java Gatherers Google Devops Memory Clean Kata Lambda Fizzbuzz Iop Oop If Jmempool Offheap Rust Azure Threetier Orchestration Cursor Prng Random Stream Diagrams Architecture Mcp Api Dop Dataorientedprogramming Code Blackboxai Digital Hack Codeagent Modelcontextprotocol Advent Craft Systemdesign Opentelemetry Game Killercoda Interactiveenvironment Oceanbase Scalable Oltp Filesystem Json Sql Stephanjanssen Endoflife Benchmark Codingllm Virtualthread Legacy 18f Governmenttech
 ---
 
 ## Architecture  

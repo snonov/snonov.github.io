@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20251117"
 date: 2025-11-17
-tags : Nicolasmartignole Claudecode Refactor Devoxx Kata Refactoring Context7 Mcp Chess Agent Build Andrewng Deeplearning Augmented Codingpattern Dora Google Aiassisted Toolformer Llm Mermaid Schema Agent Agentgateway Anthropics Jackclark Githubcopilot Apikey Guide Sdd Specdrivendevelopment Eurostack Google Security Prompt Vscode Githubcopilot Drawio Thinking Cloud Sovereignty Claudecode Git Linustorvald Stanford Trends Aitrends Agentic  Langchain4j Abtesting Tggl Unleash Featuremanagement Launchdarkly Learning Research Lessismore Anthropic Dpai Jetbrain Benchmark Evaluation Nx Educativeio Software20 Sandboxing Claudecode OpenAi Gpt51 Github Pr Pullrequest Instructionfile 
+tags : Nicolasmartignole Claudecode Refactor Devoxx Kata Refactoring Context7 Mcp Chess Agent Build Andrewng Deeplearning Augmented Codingpattern Dora Google Aiassisted Toolformer Llm Mermaid Schema Agentgateway Anthropics Jackclark Githubcopilot Apikey Guide Sdd Specdrivendevelopment Eurostack Security Prompt Vscode Drawio Thinking Cloud Sovereignty Git Linustorvald Stanford Trends Aitrends Agentic Langchain4j Abtesting Tggl Unleash Featuremanagement Launchdarkly Learning Research Lessismore Anthropic Dpai Jetbrain Benchmark Evaluation Nx Educativeio Software20 Sandboxing Openai Gpt51 Github Pr Pullrequest Instructionfile
 ---
 
 ## Architecture  

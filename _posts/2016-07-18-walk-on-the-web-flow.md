@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20160718"
 date: 2016-07-18
-tags : Neo4j Deeplearning JMM Git Machinelearning AWS Java Webflowwalk
+tags : Neo4j Deeplearning Jmm Git Machinelearning Aws Java Webflowwalk
 ---
 
 ## Finance et IT

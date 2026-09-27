@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20230310"
 date: 2023-03-10 
-tags : Gpt3 Facebook Ia Diplomacy Python Raft Crac Java Linuxfoundation Datastorage Stanford Courses Architecture Design Cap Dagger Ci Security Cryostat Flightrecord Devops Httpie Emt4j Migration Markmail Script Dhall Nixos Distributedsystem Jcmd Joshlong Gosling Javachampion Supercomputing Ssh Refactoring 
+tags : Gpt3 Facebook Ia Diplomacy Python Raft Crac Java Linuxfoundation Datastorage Stanford Courses Architecture Design Cap Dagger Ci Security Cryostat Flightrecord Devops Httpie Emt4j Migration Markmail Script Dhall Nixos Distributedsystem Jcmd Joshlong Gosling Javachampion Supercomputing Ssh Refactoring
 ---
 
 ## Architecture  

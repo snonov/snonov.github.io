@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20190318"
 date: 2019-03-18
-tags : Rss Language Distributedsystem Crdt Code Poi Continuousdelivery Heap Java RSocket Kafka Zookeeper GraphQL Neo4j Jvm Metrics Jacoco
+tags : Rss Language Distributedsystem Crdt Code Poi Continuousdelivery Heap Java Rsocket Kafka Zookeeper Graphql Neo4j Jvm Metrics Jacoco
 ---
 
 ## Architecture  

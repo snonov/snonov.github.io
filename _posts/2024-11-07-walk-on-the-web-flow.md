@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20241107"
 date: 2024-11-07
-tags : Java Productivity Jmc Java23 Collections Briangoetz Venkatsubramaniam Designpattern Ai Devoxx Devoxxgenie Intellij Leyden Llm Benchmark Infrastructure Score Selfcorrection Google Probability Softwareengineer Knowledge Rag Koan Null Handling Codellama Codingllm Deepseekcoder Stephanjanssen Dotai Watermark Deepmind Google Transformer Perplexity Foundationmodel Transparency Jfr Javamissioncontrol Slm Smollm2  Codereview Azure Azureit Llmexplain 1brc Nlp Fernflower Jade Decompiler Javadecompiler Stiver Ecosystem Explorer Anthropic Claude Computeruse Chatgpt Search Github Fork Diagram Schema Architecture
+tags : Java Productivity Jmc Java23 Collections Briangoetz Venkatsubramaniam Designpattern Ai Devoxx Devoxxgenie Intellij Leyden Llm Benchmark Infrastructure Score Selfcorrection Google Probability Softwareengineer Knowledge Rag Koan Null Handling Codellama Codingllm Deepseekcoder Stephanjanssen Dotai Watermark Deepmind Transformer Perplexity Foundationmodel Transparency Jfr Javamissioncontrol Slm Smollm2 Codereview Azure Azureit Llmexplain 1brc Nlp Fernflower Jade Decompiler Javadecompiler Stiver Ecosystem Explorer Anthropic Claude Computeruse Chatgpt Search Github Fork Diagram Schema Architecture
 ---
 
 ## Architecture  

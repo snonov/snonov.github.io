@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20250728"
 date: 2025-07-28
-tags : Metrics Dora Spaceframework Space Dxcore4 Tdd Mob Aidriven Greptile Codereview Codeclimate Systemdesign Whiteboard Staffengineer Career Git Jujutsu Harvard Java Jupyter Standford Llm Mitmproxy Proxy Githubcopilot Model Coordinatedprogressmodel Metr Developerproductivity Aitools Claude Systemprompt Prompt Anthropic Cursor Conference Openrewrite Agent Blog Llm Contextengineering Context Anthropic Economicindex Reasoning Andrewng Learning Systemdesign Softwaredesign Sameness Philosophy Java Performance Claude Claudecode Mcp Qwen Qwen3 Qwen3coder Agentic Coderabbit 
+tags : Metrics Dora Spaceframework Space Dxcore4 Tdd Mob Aidriven Greptile Codereview Codeclimate Systemdesign Whiteboard Staffengineer Career Git Jujutsu Harvard Java Jupyter Standford Llm Mitmproxy Proxy Githubcopilot Model Coordinatedprogressmodel Metr Developerproductivity Aitools Claude Systemprompt Prompt Anthropic Cursor Conference Openrewrite Agent Blog Contextengineering Context Economicindex Reasoning Andrewng Learning Softwaredesign Sameness Philosophy Performance Claudecode Mcp Qwen Qwen3 Qwen3coder Agentic Coderabbit
 ---
 
 ## Architecture  

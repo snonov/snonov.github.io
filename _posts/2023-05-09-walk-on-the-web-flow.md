@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20230509"
 date: 2023-05-09 
-tags : Data Stream Flink Kafka Java Io Design Searchengine Microservice Amazon Monolith Manifesto Distributedcomputing Springboot Debugging Aop Graalvm Aot Jit File Ssh Finance Dataset Webcrawling Tagcloud Kumo Wordcloud Loom Benchmark Jmh Xpipe Remote Connection Explorer Podman Archimate Modeling Pattern Ignorefile OATutor Opensource Contribution AI Generativeai Llm Github Contentauthenticity Jobs OpenAI Developers 
+tags : Data Stream Flink Kafka Java Io Design Searchengine Microservice Amazon Monolith Manifesto Distributedcomputing Springboot Debugging Aop Graalvm Aot Jit File Ssh Finance Dataset Webcrawling Tagcloud Kumo Wordcloud Loom Benchmark Jmh Xpipe Remote Connection Explorer Podman Archimate Modeling Pattern Ignorefile Oatutor Opensource Contribution Ai Generativeai Llm Github Contentauthenticity Jobs Openai Developers
 ---
 
 ## Architecture  

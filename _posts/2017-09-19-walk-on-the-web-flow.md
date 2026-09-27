@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170919"
 date: 2017-09-19
-tags : Lego Search Engineer Quantum Monitoring Bot Clarke Keyvi Ec2 Cloud AWS Kafka Java Machinelearning Io Serverless Webflowwalk
+tags : Lego Search Engineer Quantum Monitoring Bot Clarke Keyvi Ec2 Cloud Aws Kafka Java Machinelearning Io Serverless Webflowwalk
 ---
 
 ## Architecture

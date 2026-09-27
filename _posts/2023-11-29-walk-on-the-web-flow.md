@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20231129"
 date: 2023-11-29
-tags : Java Loom Virtualthread Storage Nosql Models Github Search Architecture Shell Nushell Sshx Sadservers Debug System Llm Langchain4j Jakartaee1 Jakarta Solid Curl Nix Juliaevans Flakes Optimisation Memq Pubsub Pinterest Ivarjacobson Alistaircockburn Agility Usecases Dependencymatrix Intellij Azcagit Gitops Modernizing Upgrade Olap Oltp Etl Engineering Blog Jvm Docker Image Size Microsoft Streams Collector Migration Terraform OpenTofu Teeing Senor Experience Work Datastore Newgeneration Roaring Bitmap Jfr Profiler Testkube Zgc Garbagecollector Trends Survey Javalin JReleaser Webserver Datastructure Tribuo Semantickernel Cinnamon Uber Pattern Distributedsystem Excalidraw Maven Kata Mutate Json Processor Jackson Fasterxml Latency Refactoring Mass Ai Aws Qcode CodeWhisperer
+tags : Java Loom Virtualthread Storage Nosql Models Github Search Architecture Shell Nushell Sshx Sadservers Debug System Llm Langchain4j Jakartaee1 Jakarta Solid Curl Nix Juliaevans Flakes Optimisation Memq Pubsub Pinterest Ivarjacobson Alistaircockburn Agility Usecases Dependencymatrix Intellij Azcagit Gitops Modernizing Upgrade Olap Oltp Etl Engineering Blog Jvm Docker Image Size Microsoft Streams Collector Migration Terraform Opentofu Teeing Senor Experience Work Datastore Newgeneration Roaring Bitmap Jfr Profiler Testkube Zgc Garbagecollector Trends Survey Javalin Jreleaser Webserver Datastructure Tribuo Semantickernel Cinnamon Uber Pattern Distributedsystem Excalidraw Maven Kata Mutate Json Processor Jackson Fasterxml Latency Refactoring Mass Ai Aws Qcode Codewhisperer
 ---
 
 ## Architecture  

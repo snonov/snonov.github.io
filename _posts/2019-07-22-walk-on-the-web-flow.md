@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20190722"
 date: 2019-07-22
-tags : Java Heap Sources Machinelearning Functionnal Datastructure Slack Event Bus DVC Report
+tags : Java Heap Sources Machinelearning Functionnal Datastructure Slack Event Bus Dvc Report
 ---
 
 ## Architecture  

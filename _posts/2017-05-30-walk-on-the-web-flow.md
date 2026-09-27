@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170530"
 date: 2017-05-30
-tags : Flamegraph Profiler Container Javamissioncontro… JMC Cryptocurrency Barclays Deeplearning Java Webflowwalk
+tags : Flamegraph Profiler Container Javamissioncontrol Jmc Cryptocurrency Barclays Deeplearning Java Webflowwalk
 ---
 
 ## Architecture

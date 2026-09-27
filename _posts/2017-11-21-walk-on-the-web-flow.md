@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20171121"
 date: 2017-11-21
-tags : Apache Gearpump Lambda Netflixoss NetFlix AWS Kibana Grafana Garbagecollector Zgc Performance Java10 Java Eventdriven Kafka Event Webflowwalk
+tags : Apache Gearpump Lambda Netflixoss Netflix Aws Kibana Grafana Garbagecollector Zgc Performance Java10 Java Eventdriven Kafka Event Webflowwalk
 ---
 
 ## Architecture

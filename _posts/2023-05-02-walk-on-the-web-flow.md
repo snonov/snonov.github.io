@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20230502"
 date: 2023-05-02 
-tags : Bug Simulation Java Google Interview Pattern Problem Design Urlshortening Graph Competitive Jug Youtube Kata Trivia Functionnal Cleancode Database Devoxx Dns Ipfs devoxx paris youtube Designpattern Douglea Leraboroditsky Language Think Conference Dataset Metadata Github Badge Tdd Chicago London Mockist Classicists Tcr Workflow Kentbeck Intellij Package Functionnal Maven Cli Mcs Toolchain Jdk Postgresql Snowflake Java20 Statistics Chatgpt Microservice Dora Devops Metrics OAuth Loom Virtualthread Module Moditect Mobprogramming Kubernetes Ratelimiter Andrewng Prompt Lowlatency Nativememory Reflection Benevans
+tags : Bug Simulation Java Google Interview Pattern Problem Design Urlshortening Graph Competitive Jug Youtube Kata Trivia Functionnal Cleancode Database Devoxx Dns Ipfs Paris Designpattern Douglea Leraboroditsky Language Think Conference Dataset Metadata Github Badge Tdd Chicago London Mockist Classicists Tcr Workflow Kentbeck Intellij Package Maven Cli Mcs Toolchain Jdk Postgresql Snowflake Java20 Statistics Chatgpt Microservice Dora Devops Metrics Oauth Loom Virtualthread Module Moditect Mobprogramming Kubernetes Ratelimiter Andrewng Prompt Lowlatency Nativememory Reflection Benevans
 ---
 
 ## Architecture  

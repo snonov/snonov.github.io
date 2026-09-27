@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170403"
 date: 2017-04-03
-tags : Datastorage Linkedin Docker Codeplex Performance Hft Finance Java Python Mxnet Distributedsystem Distribué Jstack Machinelearning Github Jvm AWS Webflowwalk
+tags : Datastorage Linkedin Docker Codeplex Performance Hft Finance Java Python Mxnet Distributedsystem Distribue Jstack Machinelearning Github Jvm Aws Webflowwalk
 ---
 
 ## Architecture

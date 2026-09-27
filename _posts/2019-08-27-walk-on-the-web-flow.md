@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20190827"
 date: 2019-08-27
-tags : Byteman Jboss Java Heap Stack Heapdump Stacktrace Jvm Ai Africa Performance Tlab Api Crawler Monitor Elk Stagemonitor Programming Git Gitworkflow Graalvm Recommendation Bigo Jython TiDB Distributed Designpattern Cqrs 2pc 
+tags : Byteman Jboss Java Heap Stack Heapdump Stacktrace Jvm Ai Africa Performance Tlab Api Crawler Monitor Elk Stagemonitor Programming Git Gitworkflow Graalvm Recommendation Bigo Jython Tidb Distributed Designpattern Cqrs 2pc
 ---
 
 ## Architecture  

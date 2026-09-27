@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20180328"
 date: 2018-03-28
-tags : Functionnal Java11 Java10 Containers Microservices Java API Web Crdt Webflowwalk  Multithreading Offheap Performance Certificate Rabbitmq Kafka Wiremock Mock Elasticsearch AWS Machinelearning Twitter Javascript
+tags : Functionnal Java11 Java10 Containers Microservices Java Api Web Crdt Webflowwalk Multithreading Offheap Performance Certificate Rabbitmq Kafka Wiremock Mock Elasticsearch Aws Machinelearning Twitter Javascript
 ---
 
 

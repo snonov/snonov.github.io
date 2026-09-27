@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20240923"
 date: 2024-09-23
-tags : Stackoverflow Fall Java Performance Jvmlanguagesummit Llm Evaluate Generatecode Docker Ai Python Packaging Tool Java23 Dns Llm Quantization Graphql Model Open Osi Netflix Virtualthread Monolith Generativeai  Oltp Database Systemdesign Llama3 Devops Psf Python Foundation Ddd Cleanarchitecture Hexagonalarchitecture C2 Jvm Cliffclick Octo Lagrosseconf Lambda Exception Huggingface
+tags : Stackoverflow Fall Java Performance Jvmlanguagesummit Llm Evaluate Generatecode Docker Ai Python Packaging Tool Java23 Dns Quantization Graphql Model Open Osi Netflix Virtualthread Monolith Generativeai Oltp Database Systemdesign Llama3 Devops Psf Foundation Ddd Cleanarchitecture Hexagonalarchitecture C2 Jvm Cliffclick Octo Lagrosseconf Lambda Exception Huggingface
 ---
 
 ## Architecture  

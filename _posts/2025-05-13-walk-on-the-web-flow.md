@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20250513"
 date: 2025-05-13
-tags : Mcp Openrewrite Inspector Debug Rest Springrest Mcpservice Security Infisical Augmentcode Bechmark Swe Github Githubcopilot Rag Ollama Spring Bubblesort Softwarearchitecture Largedataset Nix Docker Rust Specification Linux Kernel Promptinjection Protocols Mcp A2a Ide Agent Math Computerscience Llm Improving Models Unittest Vibes Wanaku Mcp Daytona Culture Trends Redmonk Tiobe Octoverse Pypl Programminglanguage Ranking Ieee Stackoverflow Jetbrain Hackerrank Uv Packagemanager Python Cursor Merkle Techwatch Blt Bytelatenttransformer Transformer Java Stateofcoding
+tags : Mcp Openrewrite Inspector Debug Rest Springrest Mcpservice Security Infisical Augmentcode Bechmark Swe Github Githubcopilot Rag Ollama Spring Bubblesort Softwarearchitecture Largedataset Nix Docker Rust Specification Linux Kernel Promptinjection Protocols A2a Ide Agent Math Computerscience Llm Improving Models Unittest Vibes Wanaku Daytona Culture Trends Redmonk Tiobe Octoverse Pypl Programminglanguage Ranking Ieee Stackoverflow Jetbrain Hackerrank Uv Packagemanager Python Cursor Merkle Techwatch Blt Bytelatenttransformer Transformer Java Stateofcoding
 ---
 
 ## Architecture  

@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20240605"
 date: 2024-06-05
-tags : Ollama Java Llm Spring Jlama Inference Jvm Container Startuptime Measure Juliaevans Git Cheatsheet Algorithm  Unisson Hardware Immutable Code Pythontutor Visualize Execution Rag Pattern Memory  Opentelemetry Performance Interview Impact Economy Protocol Capnproto Bigdata Genai Hermes2 Cookies Token Plateformeengineering Dop Cap Pacelc Theorem Illegalstate Nicolaiparlog Graphql Api Nosql Jakarta Eclipse Codecoverage Coverage Test Gpt Specification Patternmatching Tradeoff Ollama4j
+tags : Ollama Java Llm Spring Jlama Inference Jvm Container Startuptime Measure Juliaevans Git Cheatsheet Algorithm Unisson Hardware Immutable Code Pythontutor Visualize Execution Rag Pattern Memory Opentelemetry Performance Interview Impact Economy Protocol Capnproto Bigdata Genai Hermes2 Cookies Token Plateformeengineering Dop Cap Pacelc Theorem Illegalstate Nicolaiparlog Graphql Api Nosql Jakarta Eclipse Codecoverage Coverage Test Gpt Specification Patternmatching Tradeoff Ollama4j
 ---
 
 ## Architecture  

@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170220"
 date: 2017-02-20
-tags : BigData Analytics Functions Nginx Design Java9 Eclipse Mvcc Btree Mavibot NetFlix Microservices Webflowwalk
+tags : Bigdata Analytics Functions Nginx Design Java9 Eclipse Mvcc Btree Mavibot Netflix Microservices Webflowwalk
 ---
 
 ## Architecture, BigData et microservices

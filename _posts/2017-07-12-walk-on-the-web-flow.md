@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170712"
 date: 2017-07-12
-tags : NetFlix Data Eclipse Deeplearning Serverless Java9 Java Performance Reactive Lambda AWS Webflowwalk
+tags : Netflix Data Eclipse Deeplearning Serverless Java9 Java Performance Reactive Lambda Aws Webflowwalk
 ---
 
 ## Coding

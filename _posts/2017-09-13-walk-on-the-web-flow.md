@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170913"
 date: 2017-09-13
-tags : Elixir Junit5 Junit Spark Docker Recursivite Performance Rxjava GC Containers Eclipse Javaee Java9 Openjdk Oracle Java Webflowwalk
+tags : Elixir Junit5 Junit Spark Docker Recursivite Performance Rxjava Gc Containers Eclipse Javaee Java9 Openjdk Oracle Java Webflowwalk
 ---
 
 ## Architecture

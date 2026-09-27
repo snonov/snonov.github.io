@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170616"
 date: 2017-06-16
-tags : Devops HBase Faunadb Heapunit Deeplearning Stream Spark Java9 Java Influxdb Grafana Cqrs Webflowwalk
+tags : Devops Hbase Faunadb Heapunit Deeplearning Stream Spark Java9 Java Influxdb Grafana Cqrs Webflowwalk
 ---
 
 ## Architecture

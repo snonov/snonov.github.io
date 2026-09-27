@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20180306"
 date: 2018-03-06
-tags : BigData Data Sourcetrailer Docker Github Garbagecollector G1 Thread Java10 Java9 Java Consensus Raft Paxos Graph Cloud AWS Microservice Serverless Webflowwalk  Quantum Technicalbook
+tags : Bigdata Data Sourcetrailer Docker Github Garbagecollector G1 Thread Java10 Java9 Java Consensus Raft Paxos Graph Cloud Aws Microservice Serverless Webflowwalk Quantum Technicalbook
 ---
 
 

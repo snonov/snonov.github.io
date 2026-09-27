@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20171127"
 date: 2017-11-27
-tags : Memory Transhuman Ethereum Blockchain Webneutrality Sentinel Hashicorp Hadoop Apache Bigtop Media AWS Monad Ansible Architecture API Video Streaming Facebook Webflowwalk
+tags : Memory Transhuman Ethereum Blockchain Webneutrality Sentinel Hashicorp Hadoop Apache Bigtop Media Aws Monad Ansible Architecture Api Video Streaming Facebook Webflowwalk
 ---
 
 ## Architecture

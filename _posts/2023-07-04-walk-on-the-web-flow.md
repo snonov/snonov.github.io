@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20230704"
 date: 2023-07-04
-tags : Java Metrics Nushell Shell Amazon Corretto Jvm Cliffclick Stackoverflow Survey Records Briangoetz Nullability 12factor Spring OpenAI ChatGPT Crab Rust Memorymodel Jsr133 Histograms Responsetime Optimise Cpu Streams Garbagecollector Latency Virtualthread Http Grpc Kata Maven Distributedfilesystem Computerscience
+tags : Java Metrics Nushell Shell Amazon Corretto Jvm Cliffclick Stackoverflow Survey Records Briangoetz Nullability 12factor Spring Openai Chatgpt Crab Rust Memorymodel Jsr133 Histograms Responsetime Optimise Cpu Streams Garbagecollector Latency Virtualthread Http Grpc Kata Maven Distributedfilesystem Computerscience
 ---
 
 ## Architecture  

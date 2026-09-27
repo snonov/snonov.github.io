@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20250306"
 date: 2025-03-06
-tags : Github Rag Models Java24 Java Stream Codeassistant Anki Flashcard Performance Dop Dataorientedprogramming Tracking Ads App Epochai Virtualthread Reactiveprogramming Deepseek Llm Llm4code Githubcopilot Copilot Polars Python Certification Vector Embedding Jtaccuino Javafx Jepa Yannlecun Ferretdb Mongodb Deepinfra Openrouter Githubmodels Json Structureddata Models Llmdistributed Dspy Gpt4all Chatbotui Lmstudio Iac  Moe Mixtureofexpert Trishagee Debug Production Jeanphilippebempel Agent Javaagent Papers Research Wardley Design Architecture Productivity Contextswitch Garbagecollector Gc Bolt Reasoning Kata Container Mcp Mcpprotocol Opentelemetry Jaeger 
+tags : Github Rag Models Java24 Java Stream Codeassistant Anki Flashcard Performance Dop Dataorientedprogramming Tracking Ads App Epochai Virtualthread Reactiveprogramming Deepseek Llm Llm4code Githubcopilot Copilot Polars Python Certification Vector Embedding Jtaccuino Javafx Jepa Yannlecun Ferretdb Mongodb Deepinfra Openrouter Githubmodels Json Structureddata Llmdistributed Dspy Gpt4all Chatbotui Lmstudio Iac Moe Mixtureofexpert Trishagee Debug Production Jeanphilippebempel Agent Javaagent Papers Research Wardley Design Architecture Productivity Contextswitch Garbagecollector Gc Bolt Reasoning Kata Container Mcp Mcpprotocol Opentelemetry Jaeger
 ---
 
 ## Architecture  

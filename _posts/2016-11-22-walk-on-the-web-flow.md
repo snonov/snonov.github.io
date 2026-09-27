@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20161122"
 date: 2016-11-22
-tags : Scientist Cephfs Psd2 Architecture AWS BigData Webflowwalk
+tags : Scientist Cephfs Psd2 Architecture Aws Bigdata Webflowwalk
 ---
 
 Le BigData chez les scientifique cela ressemble à quoi (exemple : le telescope LSST, 15 TB de données par nuit)     

@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170123"
 date: 2017-01-23
-tags : API Redis Trisha Garbagecollector Flink Iot Ia BigData Github Java Webflowwalk
+tags : Api Redis Trisha Garbagecollector Flink Iot Ia Bigdata Github Java Webflowwalk
 ---
 
 ## Various

@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20230829"
 date: 2023-08-29
-tags : Functional Java Jbcnconf Benevans Jmm Java9 Nicolaiparlog Openjdk Java21 Lts Llm System Engineer Nasa JUnit4 Junit5 Safepoint Thread Container Meta Ci Cd Springboot Test Book Iac Jvmsummit Math Deadlock Virtualthread Gpt Tuning Github 
+tags : Functional Java Jbcnconf Benevans Jmm Java9 Nicolaiparlog Openjdk Java21 Lts Llm System Engineer Nasa Junit4 Junit5 Safepoint Thread Container Meta Ci Cd Springboot Test Book Iac Jvmsummit Math Deadlock Virtualthread Gpt Tuning Github
 ---
 
 ## Architecture  

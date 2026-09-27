@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20240529"
 date: 2024-05-29
-tags : Tdd Emilybache Java Llm Ollama Azure Blob Azurite Kata Racingcarkata State Ecosystem Newrelic Dop Immutable Books Jvm Jit Nicolaiparlog Github Crawler Jprime Outofmemory Victorrenta Performance Traps Lincheck Concurrent Jetbrain Jetbrain Stephanjansen Oom Garbagecollector Gc Profiler Genai Gemini Google Langchain4j Api Record Sealed Microservices Oreilly Nitsanwakart Filesystem Llama Queueing Queue GenAi Test Automatedtest Vllm Inference Gsql Langchain4j Graph
+tags : Tdd Emilybache Java Llm Ollama Azure Blob Azurite Kata Racingcarkata State Ecosystem Newrelic Dop Immutable Books Jvm Jit Nicolaiparlog Github Crawler Jprime Outofmemory Victorrenta Performance Traps Lincheck Concurrent Jetbrain Stephanjansen Oom Garbagecollector Gc Profiler Genai Gemini Google Langchain4j Api Record Sealed Microservices Oreilly Nitsanwakart Filesystem Llama Queueing Queue Test Automatedtest Vllm Inference Gsql Graph
 ---
 
 ## Architecture  

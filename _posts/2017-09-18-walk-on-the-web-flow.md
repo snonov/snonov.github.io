@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170918"
 date: 2017-09-18
-tags : Facebook Eclipse IBM J9 Amazon Kindleunlimited Mongodb Ducktape Dbkoda Windows Docker Joverflow Javamissioncontro… Jvm Functionnal Java9 Java Tests Kafka Webflowwalk
+tags : Facebook Eclipse Ibm J9 Amazon Kindleunlimited Mongodb Ducktape Dbkoda Windows Docker Joverflow Javamissioncontrol Jvm Functionnal Java9 Java Tests Kafka Webflowwalk
 ---
 
 ## Architecture

@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20230908"
 date: 2023-09-08
-tags : Computerscience Coursera Game Java21 Records Apache Paimon Streaming Plateform Rama Scalable Backend Terraform Bsl Hashicorp Opentf Qulice Quality Lipstick Timeseries Kirkpepperdine Branching Rust Google Github Grpc Springboot Curl Wget Mckinsey Kentbeck Martinfowler Class Initialization Jmt Queue Modeling Squashql Sql Sqlengine Plateform Engineering Scrap Web Quora Architecture Openrewrite Refactoring Automation Gpt Ai 
+tags : Computerscience Coursera Game Java21 Records Apache Paimon Streaming Plateform Rama Scalable Backend Terraform Bsl Hashicorp Opentf Qulice Quality Lipstick Timeseries Kirkpepperdine Branching Rust Google Github Grpc Springboot Curl Wget Mckinsey Kentbeck Martinfowler Class Initialization Jmt Queue Modeling Squashql Sql Sqlengine Engineering Scrap Web Quora Architecture Openrewrite Refactoring Automation Gpt Ai
 ---
 
 ## Architecture  

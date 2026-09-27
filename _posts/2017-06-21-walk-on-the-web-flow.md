@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170621"
 date: 2017-06-21
-tags : Jit Neo4j Jmeter Jupyter Java9 Java Kubernetes Serverless AWS 
+tags : Jit Neo4j Jmeter Jupyter Java9 Java Kubernetes Serverless Aws
 ---
 
 ## Architecture

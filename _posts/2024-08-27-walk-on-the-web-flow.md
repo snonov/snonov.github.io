@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20240827"
 date: 2024-08-27
-tags : Decathlon Java Rag Llm Jcrete Lock Virtualthread Java21 AlphaZero AlphaProof Ai Math Git Docker Api Apigateway  Jmh Benchmark Jvm Printmemorymapatexit Springai Ollama Lowlatency Chatgpt Reasoning Ebpf Secrets Jep Education Io Kata Architecturereview Generative Ai Darkpattern Openjdk Contributors Jvmlanguagesummit Jvm
+tags : Decathlon Java Rag Llm Jcrete Lock Virtualthread Java21 Alphazero Alphaproof Ai Math Git Docker Api Apigateway Jmh Benchmark Jvm Printmemorymapatexit Springai Ollama Lowlatency Chatgpt Reasoning Ebpf Secrets Jep Education Io Kata Architecturereview Generative Darkpattern Openjdk Contributors Jvmlanguagesummit
 ---
 
 ## Architecture  

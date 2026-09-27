@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20180321"
 date: 2018-03-21
-tags : Nudge4j Apm Ide React Reactiveprogrammi… Spring Java10 Jvm AWS Parquet Cyclomaticcomplex… Distributedsystem Scalability KeyValue Datastorage Memory Canary Serverless Smartcontract Webflowwalk  Curl Kubernetes Scafold Google Docker Kafka Latency Numbers
+tags : Nudge4j Apm Ide React Reactiveprogramming Spring Java10 Jvm Aws Parquet Cyclomaticcomplexity Distributedsystem Scalability Keyvalue Datastorage Memory Canary Serverless Smartcontract Webflowwalk Curl Kubernetes Scafold Google Docker Kafka Latency Numbers
 ---
 
 

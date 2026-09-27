@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20241217"
 date: 2024-12-17
-tags : Rag Bluesky Socialmedia Swf Atprotocol Martinfowler Timbray R&d Research Httpserver Decentralization Ai Linuxfoundation Jvm Build Log Rainbowgum Newsletter Langchain4j Deepinfra Inference Api Figma Stackbliz Boltnew Lovable Tdd Genai Coding Concurrency Regulation Hurl Http Slm Localllm Language Data Avro Parquet Iceberg Temporal Api Augmenteddeveloper Cursor Roadmap Aiengineer Git Aiagent Records Adventofcode Java Docker Function Lambda Opensource Advice Moore Eroom Law Peterlawrey Openai Sora Observability Zedai Cursor Lovable Boltnew Solverai Devin Builder Gc Garbagecollector Markscavenge 
+tags : Rag Bluesky Socialmedia Swf Atprotocol Martinfowler Timbray Rd Research Httpserver Decentralization Ai Linuxfoundation Jvm Build Log Rainbowgum Newsletter Langchain4j Deepinfra Inference Api Figma Stackbliz Boltnew Lovable Tdd Genai Coding Concurrency Regulation Hurl Http Slm Localllm Language Data Avro Parquet Iceberg Temporal Augmenteddeveloper Cursor Roadmap Aiengineer Git Aiagent Records Adventofcode Java Docker Function Lambda Opensource Advice Moore Eroom Law Peterlawrey Openai Sora Observability Zedai Solverai Devin Builder Gc Garbagecollector Markscavenge
 ---
 
 ## Architecture  

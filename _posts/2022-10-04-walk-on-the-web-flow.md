@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20221004"
 date: 2022-10-04
-tags : Distributed Yugabytedb Java Java19 Textsummarization Kubernetes Architecture Kata Alexandria Git Pantsbuild Build Database Flink Benchmark Kanito Mock Mail Graalvm Monad Loom Gtoolkit Bigdata Datastructure Goetz 
+tags : Distributed Yugabytedb Java Java19 Textsummarization Kubernetes Architecture Kata Alexandria Git Pantsbuild Build Database Flink Benchmark Kanito Mock Mail Graalvm Monad Loom Gtoolkit Bigdata Datastructure Goetz
 ---
 
 ## Architecture  
