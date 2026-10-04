@@ -1,0 +1,44 @@
+---
+layout: default
+title: Page not found
+permalink: /404.html
+sitemap: false
+---
+
+<div class="home">
+  <h1>Page not found</h1>
+  <p>The page you are looking for does not exist, or has moved.</p>
+
+  <p id="not-found-hint"></p>
+
+  <ul>
+    <li><a href="{{ '/' | relative_url }}">Home</a>: choose a subject in the tag cloud</li>
+    <li><a href="{{ '/AllPosts.html' | relative_url }}">All posts</a>, from the most recent</li>
+    <li><a href="{{ '/search.html' | relative_url }}">Search</a> the posts</li>
+  </ul>
+</div>
+
+<script>
+  // Tag pages now use one casing (Aws, Openai…): suggest the current page for an old tag URL,
+  // otherwise suggest a search for the last part of the missing URL.
+  (function () {
+    var hint = document.getElementById('not-found-hint');
+    var path = decodeURIComponent(window.location.pathname);
+    var tag = path.match(/^\/tags\/([^\/]+)\.html$/);
+    var link = document.createElement('a');
+
+    if (tag) {
+      var name = tag[1].normalize('NFD').replace(/[̀-ͯ]/g, '');
+      name = name.charAt(0).toUpperCase() + name.slice(1).toLowerCase();
+      link.href = '{{ "/tags/" | relative_url }}' + encodeURIComponent(name) + '.html';
+      link.textContent = 'tag ' + name;
+      hint.append('Looking for the ', link, '?');
+    } else {
+      var words = path.replace(/\.html$/, '').split('/').pop().replace(/[-_]+/g, ' ').trim();
+      if (!words) return;
+      link.href = '{{ "/search.html" | relative_url }}?q=' + encodeURIComponent(words);
+      link.textContent = 'search for “' + words + '”';
+      hint.append('You can try a ', link, '.');
+    }
+  })();
+</script>
