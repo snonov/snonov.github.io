@@ -7,7 +7,7 @@ show_downloads: false
 author: snonov
 
 #baseurl: "https://snonov.github.io/"
-url: "https://snonov.github.io/"
+url: "https://snonov.github.io"
 
 # Permet à jekyll-github-metadata de résoudre site.github en local
 repository: snonov/snonov.github.io
