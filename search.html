@@ -1,20 +1,23 @@
 ---
-layout: page
+layout: default
 title: Search
 sitemap: false
 ---
 
-<div id="home-search" class="home">
-    <script>
-        (function() {
-            var cx = '009206049459208805214:ucwcn-t3ms0';
-            var gcse = document.createElement('script');
-            gcse.type = 'text/javascript';
-            gcse.async = true;
-            gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(gcse, s);
-        })();
-    </script>
-    <gcse:search></gcse:search>
+<div class="home">
+  <h1>Search</h1>
+
+  <form id="search-page-form" role="search" method="get" action="{{ '/search.html' | relative_url }}">
+    <input id="search-page-input" name="q" type="search" autocomplete="off"
+           placeholder="kafka, graalvm, opentelemetry…" aria-label="Search posts">
+    <input type="submit" value="Search">
+  </form>
+
+  <p id="search-status"></p>
+  <ul id="search-results" class="posts"></ul>
+
+  <noscript><p>Search needs JavaScript. You can browse the <a href="{{ '/TagCloud.html' | relative_url }}">tag cloud</a> or <a href="{{ '/AllPosts.html' | relative_url }}">all posts</a>.</p></noscript>
 </div>
+
+<script src="{{ '/assets/js/minisearch-7.2.0.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/search.js' | relative_url }}" data-index="{{ '/search.json' | relative_url }}"></script>

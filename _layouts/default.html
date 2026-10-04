@@ -35,9 +35,9 @@
      <div>
          <div id="search">
              <form role="search" method="get" action="{{ '/search.html' | relative_url }}">
-                 <input id="searchString" name="searchString"
-                        placeholder="Learn Ionic, Be a Better Developer, etc." type="text">
-                 <input id="searchButton" name="googleSearchName" type="button" value="Search">
+                 <input id="searchString" name="q" type="search"
+                        placeholder="Search posts: kafka, graalvm, opentelemetry…" aria-label="Search posts">
+                 <input id="searchButton" type="submit" value="Search">
              </form>
          </div>
      </div>
