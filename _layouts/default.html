@@ -14,12 +14,12 @@
 
     <header>
       <div class="container">
-        <a href="https://snonov.github.io/" style="text-decoration: none"><h1>{{ site.title }}</h1></a>       
+        <a href="{{ '/' | relative_url }}" style="text-decoration: none"><h1>{{ site.title }}</h1></a>       
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
-        <a href="https://snonov.github.io/"><b>Home</b></a>
-        <a href="https://snonov.github.io/TagCloud.html"><b>TagCloud</b></a>
-        <a href="https://snonov.github.io/AllPosts.html"><b>All Posts</b></a>
+        <a href="{{ '/' | relative_url }}"><b>Home</b></a>
+        <a href="{{ '/TagCloud.html' | relative_url }}"><b>TagCloud</b></a>
+        <a href="{{ '/AllPosts.html' | relative_url }}"><b>All Posts</b></a>
         
         <section id="downloads">
           {% if site.show_downloads %}
@@ -34,7 +34,7 @@
     <div class="grid" id="searchBar">
      <div>
          <div id="search">
-             <form role="search" method="get" action="https://snonov.github.io/search.html">
+             <form role="search" method="get" action="{{ '/search.html' | relative_url }}">
                  <input id="searchString" name="searchString"
                         placeholder="Learn Ionic, Be a Better Developer, etc." type="text">
                  <input id="searchButton" name="googleSearchName" type="button" value="Search">
