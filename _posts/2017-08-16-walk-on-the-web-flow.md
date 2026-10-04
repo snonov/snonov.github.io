@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Walk on the web flow 20170821"
-date: 2017-08-21
+title: "Walk on the web flow 20170816"
+date: 2017-08-16
 tags : Graph Gremlin Api Conference Linkedin Aws Webflowwalk
 ---
 
