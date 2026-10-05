@@ -66,7 +66,7 @@ Bolt usage for developers
 ## Tool   
 
 Opentelemetry and Jaeger      
-	• [https://medium.com/](https://medium.com/)@fadhilhan01/tracing-your-system-with-jaeger-and-opentelemetry-c22f31ff3039        
+	• [https://medium.com/@fadhilhan01/tracing-your-system-with-jaeger-and-opentelemetry-c22f31ff3039](https://medium.com/@fadhilhan01/tracing-your-system-with-jaeger-and-opentelemetry-c22f31ff3039)        
 
 GitHub RAG         
 	• [https://techcommunity.microsoft.com/blog/azure-ai-services-blog/github-models-retrieval-augmented-generation-rag/4302518](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/github-models-retrieval-augmented-generation-rag/4302518)        

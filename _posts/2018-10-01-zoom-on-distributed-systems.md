@@ -8,7 +8,7 @@ tags : Zoomon Distributed Systems Paxos Raft Pattern
 
 ## Introduction  
 
-[https://medium.com/](https://medium.com/)@farcasiu.george/understanding-distributed-databases-5e7b30f154c5     
+[https://medium.com/@farcasiu.george/understanding-distributed-databases-5e7b30f154c5](https://medium.com/@farcasiu.george/understanding-distributed-databases-5e7b30f154c5)     
 
 [https://www.infoq.com/news/2019/06/patterns-distributed-systems](https://www.infoq.com/news/2019/06/patterns-distributed-systems)     
 

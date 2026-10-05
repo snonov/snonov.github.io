@@ -43,7 +43,7 @@ Why : linked to netBeans that now belong to Apache Foundation ([https://netbeans
 ### Usage tutorials
 
 * [https://engineering.talkdesk.com/ninjas-guide-to-getting-started-with-visualvm-f8bff061f7e7](https://engineering.talkdesk.com/ninjas-guide-to-getting-started-with-visualvm-f8bff061f7e7)
-* [https://medium.com/](https://medium.com/)@krishankantsinghal/using-visualvm-to-visualize-gc-and-memory-utilization-of-your-java-app-e3f0b6dec4a6
+* [https://medium.com/@krishankantsinghal/using-visualvm-to-visualize-gc-and-memory-utilization-of-your-java-app-e3f0b6dec4a6](https://medium.com/@krishankantsinghal/using-visualvm-to-visualize-gc-and-memory-utilization-of-your-java-app-e3f0b6dec4a6)
 * [https://www.cubrid.org/blog/how-to-monitor-java-garbage-collection](https://www.cubrid.org/blog/how-to-monitor-java-garbage-collection)
 * [Compare HeapDump VisualVM](https://community.jaspersoft.com/wiki/how-compare-heap-dumps-using-visualvm)
 * [Extend VisualVM memory to analyze big heapdump](http://www.sravansarraju.me/visualvm-and-the-art-of-analyzing-heap-dump/)

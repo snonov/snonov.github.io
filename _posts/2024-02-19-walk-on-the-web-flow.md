@@ -14,7 +14,7 @@ Where the web is going
 * [https://www.youtube.com/watch?v=fIYYC_p_uU8](https://www.youtube.com/watch?v=fIYYC_p_uU8) 
 
 Java developers what lies ahead in the ai era (and plateform projection)     
-* [https://medium.com/](https://medium.com/)@emijiang6/java-developers-what-lies-ahead-in-the-ai-era-e36aa3c32b64   
+* [https://medium.com/@emijiang6/java-developers-what-lies-ahead-in-the-ai-era-e36aa3c32b64](https://medium.com/@emijiang6/java-developers-what-lies-ahead-in-the-ai-era-e36aa3c32b64)   
 
 Tech trends (Gartner)    
 * [https://www.beinformed.com/blog/gartners-top-10-tech-trends-2024-embracing-platform-engineering/](https://www.beinformed.com/blog/gartners-top-10-tech-trends-2024-embracing-platform-engineering/)     
@@ -42,7 +42,7 @@ Build docker image with Spring
 * [https://www.geekyhacker.com/build-docker-images-in-spring-boot-3/](https://www.geekyhacker.com/build-docker-images-in-spring-boot-3/)
 
 Review distributed tracing 
-* [https://medium.com/](https://medium.com/)@vikas.taank_40391/a-quick-introduction-to-distributed-tracing-b0da0995e952
+* [https://medium.com/@vikas.taank_40391/a-quick-introduction-to-distributed-tracing-b0da0995e952](https://medium.com/@vikas.taank_40391/a-quick-introduction-to-distributed-tracing-b0da0995e952)
 
 On doing Katas   
 * [https://blog.ploeh.dk/2020/01/13/on-doing-katas/](https://blog.ploeh.dk/2020/01/13/on-doing-katas/)
@@ -175,7 +175,7 @@ Constraint driven innovation
 * [https://mvdirona.com/jrh/talksandpapers/JamesHamiltonCIDR2024.pdf](https://mvdirona.com/jrh/talksandpapers/JamesHamiltonCIDR2024.pdf)    
 
 LLM size in real world     
-* [https://medium.com/](https://medium.com/)@georgeanil/visualizing-size-of-large-language-models-ec576caa5557
+* [https://medium.com/@georgeanil/visualizing-size-of-large-language-models-ec576caa5557](https://medium.com/@georgeanil/visualizing-size-of-large-language-models-ec576caa5557)
 
 Power of conventional commit  
 * [https://julien.ponge.org/blog/the-power-of-conventional-commits/](https://julien.ponge.org/blog/the-power-of-conventional-commits/)

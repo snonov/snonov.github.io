@@ -34,7 +34,7 @@ Building a bullshit language
 	• [https://www.youtube.com/watch?v=mzMd45NpfN0](https://www.youtube.com/watch?v=mzMd45NpfN0)         
 
 Data formats in distributed systems       
-	• [https://medium.com/](https://medium.com/)@susanrebeccathomas/data-formats-in-distributed-systems-648085bfcecb         
+	• [https://medium.com/@susanrebeccathomas/data-formats-in-distributed-systems-648085bfcecb](https://medium.com/@susanrebeccathomas/data-formats-in-distributed-systems-648085bfcecb)         
 
 The role of aesthetics in understanding source code       
 	• [https://source.enframed.net/](https://source.enframed.net/)        

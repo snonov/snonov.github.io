@@ -28,7 +28,7 @@ Spring, cloud manage Zip
 * [https://dzone.com/articles/spring-download-zip-file-extract-and-save-to-cloud-storage](https://dzone.com/articles/spring-download-zip-file-extract-and-save-to-cloud-storage)     
 
 http and gRPC     
-* [https://medium.com/](https://medium.com/)@aditya.barik32/understanding-http-and-grpc-928515095f4a     
+* [https://medium.com/@aditya.barik32/understanding-http-and-grpc-928515095f4a](https://medium.com/@aditya.barik32/understanding-http-and-grpc-928515095f4a)     
 
 All you need to know about distributed file system     
 * [https://rongstudio.medium.com/all-you-need-to-know-about-distributed-file-system-80e30468e2f9](https://rongstudio.medium.com/all-you-need-to-know-about-distributed-file-system-80e30468e2f9)     
@@ -87,4 +87,4 @@ Crab, Rust fork
 * [https://crablang.org/](https://crablang.org/)   
 
 Resources for distributed computer science     
-* [https://medium.com/](https://medium.com/)@devgrowth/best-resources-for-programmers-to-build-solid-computer-science-foundations-v-distributed-systems-ed3ac6bb17    
+* [https://medium.com/@devgrowth/best-resources-for-programmers-to-build-solid-computer-science-foundations-v-distributed-systems-ed3ac6bb17](https://medium.com/@devgrowth/best-resources-for-programmers-to-build-solid-computer-science-foundations-v-distributed-systems-ed3ac6bb17)    

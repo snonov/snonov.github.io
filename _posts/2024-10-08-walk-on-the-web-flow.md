@@ -37,7 +37,7 @@ Ai integration for Java
 	• [https://www.infoq.com/presentations/ai-java-integrate](https://www.infoq.com/presentations/ai-java-integrate)      
 
 Note on Cassandra and Hbase (not same Column family store)     
-	• [https://medium.com/](https://medium.com/)@saeed.vayghani/a-note-on-apache-cassandra-and-hbase-e39ebfc88ec6      
+	• [https://medium.com/@saeed.vayghani/a-note-on-apache-cassandra-and-hbase-e39ebfc88ec6](https://medium.com/@saeed.vayghani/a-note-on-apache-cassandra-and-hbase-e39ebfc88ec6)      
 
 ## Dev   
 

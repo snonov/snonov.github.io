@@ -8,7 +8,7 @@ tags : Alibaba Java Maven Build Reproducible Reactive Reactor Protocol Record Mu
 ## Architecture  
 
 Choose the right protocol    
-* [https://medium.com/](https://medium.com/)@sabaoth-ou/choosing-the-right-communication-protocols-c0ba1864ce87    
+* [https://medium.com/@sabaoth-ou/choosing-the-right-communication-protocols-c0ba1864ce87](https://medium.com/@sabaoth-ou/choosing-the-right-communication-protocols-c0ba1864ce87)    
 
 ## Dev   
 

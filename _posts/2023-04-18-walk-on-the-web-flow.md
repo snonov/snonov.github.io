@@ -11,12 +11,12 @@ Explaining Distributed Systems Like I'm 5
 * [https://www.youtube.com/watch?v=CESKgdNiKJw](https://www.youtube.com/watch?v=CESKgdNiKJw)    
 
 Design a rate limiter    
-* [https://medium.com/](https://medium.com/)@meenak1996/system-design-of-rate-limiter-from-basic-to-distributed-environment-44e05a42d2dc    
+* [https://medium.com/@meenak1996/system-design-of-rate-limiter-from-basic-to-distributed-environment-44e05a42d2dc](https://medium.com/@meenak1996/system-design-of-rate-limiter-from-basic-to-distributed-environment-44e05a42d2dc)    
 
 Lamport clock : Use logical timestamps as a version for a value to allow ordering of values across servers    
 * [https://en.wikipedia.org/wiki/Lamport_timestamp](https://en.wikipedia.org/wiki/Lamport_timestamp)    
 * [https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html](https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html)    
-* [https://medium.com/](https://medium.com/)@girinath2452001/the-importance-of-lamport-clocks-in-distributed-systems-374019ac4081     
+* [https://medium.com/@girinath2452001/the-importance-of-lamport-clocks-in-distributed-systems-374019ac4081](https://medium.com/@girinath2452001/the-importance-of-lamport-clocks-in-distributed-systems-374019ac4081)     
 
 Review security aspect     
 * [https://blog.bytebytego.com/p/password-session-cookie-token-jwt](https://blog.bytebytego.com/p/password-session-cookie-token-jwt)    
@@ -82,7 +82,7 @@ Tool LocalStack : A fully functional local cloud stack Develop and test your clo
 * ok but if i'm using Azure and not AWS ... [https://stackoverflow.com/questions/53888830/local-cloud-stack-for-azure-similar-to-localstack-for-aws](https://stackoverflow.com/questions/53888830/local-cloud-stack-for-azure-similar-to-localstack-for-aws)    
 
 Monorepo tools to help    
-* what is a monorepo [https://medium.com/](https://medium.com/)@deshpande.sakalya/what-is-a-monorepo-db434da94e5d     
+* what is a monorepo [https://medium.com/@deshpande.sakalya/what-is-a-monorepo-db434da94e5d](https://medium.com/@deshpande.sakalya/what-is-a-monorepo-db434da94e5d)     
 * Bazel (Goole) : [https://bazel.build/](https://bazel.build/)   
 * Buck (Meta) : [https://buck.build/](https://buck.build/)   
 

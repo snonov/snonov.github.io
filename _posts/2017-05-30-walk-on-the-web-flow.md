@@ -30,7 +30,7 @@ VisualVM
 [https://dzone.com/articles/all-about-visualvm](https://dzone.com/articles/all-about-visualvm)
 
 Revue de Java Mission Control (JMC nick name)   
-[https://medium.com/](https://medium.com/)@chrishantha/using-java-flight-recorder-2367c01deacf
+[https://medium.com/@chrishantha/using-java-flight-recorder-2367c01deacf](https://medium.com/@chrishantha/using-java-flight-recorder-2367c01deacf)
 
 Pour les fan du flameGraph de Gregg Brendan (ingé Netflix, [http://www.brendangregg.com/](http://www.brendangregg.com/)) : JMC & FlameGraph   
 [https://github.com/chrishantha/jfr-flame-graph](https://github.com/chrishantha/jfr-flame-graph)

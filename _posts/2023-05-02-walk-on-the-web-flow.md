@@ -27,7 +27,7 @@ Some Java20 statistics
 * [https://dzone.com/articles/fun-statistics-about-jdk-20](https://dzone.com/articles/fun-statistics-about-jdk-20)   
 
 Design your Rate limiter    
-* [https://medium.com/](https://medium.com/)@abhishekranjandev/designing-a-rate-limiter-3495c26d614e     
+* [https://medium.com/@abhishekranjandev/designing-a-rate-limiter-3495c26d614e](https://medium.com/@abhishekranjandev/designing-a-rate-limiter-3495c26d614e)     
 
 Kubernetes design pattern     
 * [https://javarevisited.blogspot.com/2023/05/20-kubernetes-design-pattern-every.html](https://javarevisited.blogspot.com/2023/05/20-kubernetes-design-pattern-every.html)    
@@ -56,8 +56,8 @@ Introduction to Graph theory
 
 Some Java User Group youtube channels :   
 * JUG switzerland : [https://www.youtube.com/c/JavaUserGroupSwitzerland/videos](https://www.youtube.com/c/JavaUserGroupSwitzerland/videos)    
-* JUG NY [https://www.youtube.com/](https://www.youtube.com/)@NYJavaSIG/videos    
-* Paris JUG [https://www.youtube.com/](https://www.youtube.com/)@ParisJUG/videos    
+* JUG NY [https://www.youtube.com/@NYJavaSIG/videos](https://www.youtube.com/@NYJavaSIG/videos)    
+* Paris JUG [https://www.youtube.com/@ParisJUG/videos](https://www.youtube.com/@ParisJUG/videos)    
 
 Zoom on Kata Trivia :    
 * Live coding part 1 : [https://www.youtube.com/watch?v=iOYsxBvMkLk](https://www.youtube.com/watch?v=iOYsxBvMkLk)    
@@ -71,7 +71,7 @@ Clean code Two Decades Later
 Paris Devoxx 2023 quick selection :  
 * DNS : [https://www.youtube.com/watch?v=WvcY1E-bqf4](https://www.youtube.com/watch?v=WvcY1E-bqf4)    
 * IPFS : [https://www.youtube.com/watch?v=kQOkTet31gY](https://www.youtube.com/watch?v=kQOkTet31gY)    
-* All of them by playlist : [https://www.youtube.com/](https://www.youtube.com/)@DevoxxFRvideos/playlists    
+* All of them by playlist : [https://www.youtube.com/@DevoxxFRvideos/playlists](https://www.youtube.com/@DevoxxFRvideos/playlists)    
 
 Train your IDE knowledge regarding refactoring 
 * Refactoring kata : [https://github.com/AnnaWeakclaw/refactoringGolf](https://github.com/AnnaWeakclaw/refactoringGolf)    
@@ -84,7 +84,7 @@ Chicago school or london school in your TDD ?
 * Mockist vs Classicists repository : [https://github.com/Egga-zz/tdd-stylez](https://github.com/Egga-zz/tdd-stylez)     
 
 One more craft item, TCR workflow (Test, Commit, Revert)     
-* Original Kent Beck post : [https://medium.com/](https://medium.com/)@kentbeck_7670/test-commit-revert-870bbd756864     
+* Original Kent Beck post : [https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864)     
 * TCR with Intellij : [https://leeturner.me/posts/tooling-up-tcr-intellij/](https://leeturner.me/posts/tooling-up-tcr-intellij/)    
 * Article TCR extrem CI [https://blog.zenika.com/2019/01/23/tcr-et-lextreme-integration-continue/](https://blog.zenika.com/2019/01/23/tcr-et-lextreme-integration-continue/)     
 * TCR Workshop : [https://github.com/islomar/tcr-workshop](https://github.com/islomar/tcr-workshop)     

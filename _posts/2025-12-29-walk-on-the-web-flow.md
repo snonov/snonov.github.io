@@ -169,7 +169,7 @@ Interview training (learn)
 	• [https://www.hellointerview.com/](https://www.hellointerview.com/)          
 
 Futur of software engineering       
-	• [https://medium.com/](https://medium.com/)@pete.palles/the-future-of-software-engineering-51de53d2e45a           
+	• [https://medium.com/@pete.palles/the-future-of-software-engineering-51de53d2e45a](https://medium.com/@pete.palles/the-future-of-software-engineering-51de53d2e45a)           
 
 Most influential open source projects        
 	• [https://github.blog/open-source/maintainers/this-years-most-influential-open-source-projects/](https://github.blog/open-source/maintainers/this-years-most-influential-open-source-projects/)           

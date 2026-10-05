@@ -43,7 +43,7 @@ Apache Parquet and AWS
 [https://engineering.opsgenie.com/analyzing-aws-vpc-flow-logs-using-apache-parquet-files-and-amazon-athena-27f8025371fa](https://engineering.opsgenie.com/analyzing-aws-vpc-flow-logs-using-apache-parquet-files-and-amazon-athena-27f8025371fa)
 
 JVM performance investigation    
-[https://medium.com/](https://medium.com/)@muuki88/follow-the-stacktraces-jvm-performance-profiling-3c371d323e5f
+[https://medium.com/@muuki88/follow-the-stacktraces-jvm-performance-profiling-3c371d323e5f](https://medium.com/@muuki88/follow-the-stacktraces-jvm-performance-profiling-3c371d323e5f)
 
 Java 10 is released, some features review    
 * [https://jaxenter.com/java-10-is-here-142550.html](https://jaxenter.com/java-10-is-here-142550.html)

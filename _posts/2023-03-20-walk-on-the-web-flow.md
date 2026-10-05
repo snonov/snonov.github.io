@@ -21,7 +21,7 @@ Security TLS SSL
 * [https://blog.frankel.ch/mtls-everywhere/](https://blog.frankel.ch/mtls-everywhere/)    
 
 Architecture plateform api    
-* [https://medium.com/](https://medium.com/)@asimaslam/platform-apis-ca160c5663   
+* [https://medium.com/@asimaslam/platform-apis-ca160c5663](https://medium.com/@asimaslam/platform-apis-ca160c5663)   
 
 ## Dev   
 

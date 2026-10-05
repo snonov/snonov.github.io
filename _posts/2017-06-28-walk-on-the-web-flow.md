@@ -34,7 +34,7 @@ Hyperledger (a linux foundation project)
 * [https://www.hyperledger.org/projects](https://www.hyperledger.org/projects)
 
 Une blockchain en 200 lignes de code  
-[https://medium.com/](https://medium.com/)@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54
+[https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54](https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54)
 
 Alternate BlockChain : a naming system (currently used for domain names and identities) that backs authenticity of records using a blockchain  
 [https://www.infoq.com/presentations/namecoin-monero](https://www.infoq.com/presentations/namecoin-monero)  

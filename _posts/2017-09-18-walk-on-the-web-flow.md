@@ -37,7 +37,7 @@ J9 (implmentation JVM d'IBM) en open source (openJ9)
 [http://www.eclipse.org/openj9/](http://www.eclipse.org/openj9/)
 
 GraphQL et Facebook  
-[https://medium.com/](https://medium.com/)@dwalsh.sdlr/using-graphql-why-facebook-now-owns-you-3182751028c9
+[https://medium.com/@dwalsh.sdlr/using-graphql-why-facebook-now-owns-you-3182751028c9](https://medium.com/@dwalsh.sdlr/using-graphql-why-facebook-now-owns-you-3182751028c9)
 
 ## Various
 

@@ -17,7 +17,7 @@ Seven concurrency models in seven weeks
 [http://ontheroad.qiniudn.com/blog/resources/Seven%20Concurrency%20Models%20in%20Seven%20Weeks.pdf_9f63659e283556c488223d044c8c8bd1](http://ontheroad.qiniudn.com/blog/resources/Seven%20Concurrency%20Models%20in%20Seven%20Weeks.pdf_9f63659e283556c488223d044c8c8bd1)
 
 Serverless : 6 things I wish I had known before going Serverless  
-[https://medium.com/](https://medium.com/)@idvb/6-things-i-wish-i-had-known-before-going-serverless-502236cf5540
+[https://medium.com/@idvb/6-things-i-wish-i-had-known-before-going-serverless-502236cf5540](https://medium.com/@idvb/6-things-i-wish-i-had-known-before-going-serverless-502236cf5540)
 
 ## Dev
 
@@ -44,7 +44,7 @@ gRPC : The gRPC framework is a form of an Actor Model based on an IDL (collabora
 OpenTracing API for Java   
 * [https://github.com/opentracing/opentracing-java](https://github.com/opentracing/opentracing-java)
 * [https://www.slideshare.net/kslisenko/latency-tracing-in-distributed-java-applications-81894135](https://www.slideshare.net/kslisenko/latency-tracing-in-distributed-java-applications-81894135)
-* [https://medium.com/](https://medium.com/)@Pinterest_Engineering/distributed-tracing-at-pinterest-with-new-open-source-tools-a4f8a5562f6b
+* [https://medium.com/@Pinterest_Engineering/distributed-tracing-at-pinterest-with-new-open-source-tools-a4f8a5562f6b](https://medium.com/@Pinterest_Engineering/distributed-tracing-at-pinterest-with-new-open-source-tools-a4f8a5562f6b)
 
 Jaeger client, implements OpenTracing API for Java   
 [https://github.com/jaegertracing/jaeger-client-java](https://github.com/jaegertracing/jaeger-client-java)

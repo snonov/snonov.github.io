@@ -36,7 +36,7 @@ JMC command reference :
 
 Nice global presentaiton : 
 * [https://www.jfokus.se/jfokus18/preso/Mission-Possible--Near-zero-overhead-profiling.pdf](https://www.jfokus.se/jfokus18/preso/Mission-Possible--Near-zero-overhead-profiling.pdf)
-* [https://medium.com/](https://medium.com/)@chrishantha/using-java-flight-recorder-2367c01deacf
+* [https://medium.com/@chrishantha/using-java-flight-recorder-2367c01deacf](https://medium.com/@chrishantha/using-java-flight-recorder-2367c01deacf)
 
 
 ## Some practical links    

@@ -8,7 +8,7 @@ tags : Badsmell Performance Distributed Caching Jvm Profiling Ai Regulation Meta
 ## Architecture  
 
 Distributed caching    
-* [https://medium.com/](https://medium.com/)@haasitapinnepu/the-a-z-guide-to-distributed-caching-d0c6fec9592a
+* [https://medium.com/@haasitapinnepu/the-a-z-guide-to-distributed-caching-d0c6fec9592a](https://medium.com/@haasitapinnepu/the-a-z-guide-to-distributed-caching-d0c6fec9592a)
 
 Github MySQL infrastructure     
 * [https://github.blog/2023-12-07-upgrading-github-com-to-mysql-8-0/](https://github.blog/2023-12-07-upgrading-github-com-to-mysql-8-0/)    
@@ -25,7 +25,7 @@ How Uber Computes ETA at Half a Million Requests per Second
 ## Dev   
 
 List of badsmell performance   
-* [https://medium.com/](https://medium.com/)@dmosyan/lets-cause-scalability-problem-with-performance-antipatterns-1d163d8a6065
+* [https://medium.com/@dmosyan/lets-cause-scalability-problem-with-performance-antipatterns-1d163d8a6065](https://medium.com/@dmosyan/lets-cause-scalability-problem-with-performance-antipatterns-1d163d8a6065)
 
 Decoding the secrets of the JVM internals - Lennart ten Wolde     
 * [https://www.youtube.com/watch?v=Z3mTpqIp1Q0](https://www.youtube.com/watch?v=Z3mTpqIp1Q0)   

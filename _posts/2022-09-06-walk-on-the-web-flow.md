@@ -22,7 +22,7 @@ Compare Java collection and Stream : [https://www.infoq.com/articles/java-collec
 Java JVM perspectives : [https://www.infoq.com/articles/james-ward-java-jvm-languages/](https://www.infoq.com/articles/james-ward-java-jvm-languages/)    
 
 Covariance and contravariance in Java  :
-* Definition [https://cavat.website/poo/docs/variance/definition/](https://cavat.website/poo/docs/variance/definition/) and [https://medium.com/](https://medium.com/)@yuhuan/covariance-and-contravariance-in-java-6d9bfb7f6b8e
+* Definition [https://cavat.website/poo/docs/variance/definition/](https://cavat.website/poo/docs/variance/definition/) and [https://medium.com/@yuhuan/covariance-and-contravariance-in-java-6d9bfb7f6b8e](https://medium.com/@yuhuan/covariance-and-contravariance-in-java-6d9bfb7f6b8e)
 * Java evolution (not achieved) about it : [https://openjdk.org/jeps/300](https://openjdk.org/jeps/300) and [https://www.royvanrijn.com/blog/2016/12/three-new-jeps/](https://www.royvanrijn.com/blog/2016/12/three-new-jeps/)   
 * Three article series about it applied to generics
    * [https://medium.com/omnius/wildcards-in-java-generics-part-1-3-dd2ce5b0e59a](https://medium.com/omnius/wildcards-in-java-generics-part-1-3-dd2ce5b0e59a)   

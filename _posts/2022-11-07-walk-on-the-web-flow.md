@@ -11,7 +11,7 @@ McDonald event driven architecture
 [https://scaleyourapp.com/mcdonalds-event-driven-architecture/](https://scaleyourapp.com/mcdonalds-event-driven-architecture/)
 
 JVM explained (for beginner)    
-[https://medium.com/](https://medium.com/)@upGrad/guide-on-java-architecture-components-for-beginners-423e9231a420    
+[https://medium.com/@upGrad/guide-on-java-architecture-components-for-beginners-423e9231a420](https://medium.com/@upGrad/guide-on-java-architecture-components-for-beginners-423e9231a420)    
 
 Working with ADR (Architecture Decision Record)    
 [https://dzone.com/articles/defining-architecture-decision-record](https://dzone.com/articles/defining-architecture-decision-record)    

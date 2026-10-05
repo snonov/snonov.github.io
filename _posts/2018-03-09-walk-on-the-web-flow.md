@@ -22,7 +22,7 @@ Design principle (DRY, SRP, open/close, ...)
 ## Dev
 
 GraphQL et CQRS/EventSourcing   
-[https://medium.com/](https://medium.com/)@thomastourlourat/graphql-cqrs-eventsourcing-un-couple-strategique-9b3709e9438b
+[https://medium.com/@thomastourlourat/graphql-cqrs-eventsourcing-un-couple-strategique-9b3709e9438b](https://medium.com/@thomastourlourat/graphql-cqrs-eventsourcing-un-couple-strategique-9b3709e9438b)
 
 JSON-LD (JSon for Linked Data)   
 [https://json-ld.org/](https://json-ld.org/)

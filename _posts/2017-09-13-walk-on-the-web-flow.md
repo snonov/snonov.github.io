@@ -31,7 +31,7 @@ Java Performance Tuning
 [https://wiki.eclipse.org/images/c/ca/JavaPerformanceTuning.pdf](https://wiki.eclipse.org/images/c/ca/JavaPerformanceTuning.pdf)
 
 Java, récursivité et concurrence  
-[https://medium.com/](https://medium.com/)@johnmcclean/java-fun-recursive-concurrency-the-easy-way-f2c7cc02db28
+[https://medium.com/@johnmcclean/java-fun-recursive-concurrency-the-easy-way-f2c7cc02db28](https://medium.com/@johnmcclean/java-fun-recursive-concurrency-the-easy-way-f2c7cc02db28)
 
 ## Tool
 

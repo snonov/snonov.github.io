@@ -47,7 +47,7 @@ Algebric Data Types (ADT)
 	• [https://jakubpierzchlewicz.medium.com/adt-with-java-sealed-classes-pattern-matching-records-a88ebb3a5200](https://jakubpierzchlewicz.medium.com/adt-with-java-sealed-classes-pattern-matching-records-a88ebb3a5200)      
 
 Yes, you can unit test GenAi applications by Rod Johnson with Embabel        
-	• [https://medium.com/](https://medium.com/)@springrod/yes-you-can-unit-test-gen-ai-applications-9b2838bb0f45         
+	• [https://medium.com/@springrod/yes-you-can-unit-test-gen-ai-applications-9b2838bb0f45](https://medium.com/@springrod/yes-you-can-unit-test-gen-ai-applications-9b2838bb0f45)         
 
 Feedback on Ai agent coding all       
 	• [https://towardsdatascience.com/zero-human-code-what-i-learned-from-forcing-ai-to-build-and-fix-its-own-code-for-27-straight-days/](https://towardsdatascience.com/zero-human-code-what-i-learned-from-forcing-ai-to-build-and-fix-its-own-code-for-27-straight-days/)      

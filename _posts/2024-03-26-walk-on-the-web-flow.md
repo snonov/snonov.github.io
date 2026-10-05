@@ -35,7 +35,7 @@ Creation workshop
 * [https://moaw.dev/workshop/create-workshop/](https://moaw.dev/workshop/create-workshop/) 
 
 Llm usage, architecture and link with DDD
-* DDD experiment LLM [https://www.infoq.com/news/2024/03/Evans-ddd-experiment-llm/](https://www.infoq.com/news/2024/03/Evans-ddd-experiment-llm/) and [https://www.youtube.com/](https://www.youtube.com/)@ExploreDDD/playlists   
+* DDD experiment LLM [https://www.infoq.com/news/2024/03/Evans-ddd-experiment-llm/](https://www.infoq.com/news/2024/03/Evans-ddd-experiment-llm/) and [https://www.youtube.com/@ExploreDDD/playlists](https://www.youtube.com/@ExploreDDD/playlists)   
 * LLM et DDD [https://microservices.io//post/architecture/2024/03/23/exploreddd-intersection-ddd-llms.html](https://microservices.io//post/architecture/2024/03/23/exploreddd-intersection-ddd-llms.html) 
 * Usages [https://hbr.org/2024/03/how-people-are-really-using-genai](https://hbr.org/2024/03/how-people-are-really-using-genai)
 

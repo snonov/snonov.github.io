@@ -12,13 +12,13 @@ Github search engine architecture
 * [https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/](https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/)    
 
 Database cheatsheet (models and cloud providers)   
-* [https://medium.com/](https://medium.com/)@sureshpodeti/database-cheat-sheet-db5363a7b997
+* [https://medium.com/@sureshpodeti/database-cheat-sheet-db5363a7b997](https://medium.com/@sureshpodeti/database-cheat-sheet-db5363a7b997)
 
 Four kinds of optimisation    
 * [https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)     
 
 Olap and Oltp in Etl   
-* [https://medium.com/](https://medium.com/)@shivajiofficial5088/unraveling-olap-oltp-and-htap-in-etl-system-architecture-1b4fad936665     
+* [https://medium.com/@shivajiofficial5088/unraveling-olap-oltp-and-htap-in-etl-system-architecture-1b4fad936665](https://medium.com/@shivajiofficial5088/unraveling-olap-oltp-and-htap-in-etl-system-architecture-1b4fad936665)     
 
 New generation of datastore       
 * [https://spinscale.de/posts/2022-08-02-the-new-generation-data-stores.html](https://spinscale.de/posts/2022-08-02-the-new-generation-data-stores.html)      
@@ -29,7 +29,7 @@ Java trends 2023
 * JetBrain 2023 survey [https://www.jetbrains.com/lp/devecosystem-2023/java/](https://www.jetbrains.com/lp/devecosystem-2023/java/)    
 
 Cinnamon, a new resiliency approach at Uber    
-* [https://medium.com/](https://medium.com/)@bmarquie/bits-of-thought-cinnamon-a-new-resiliency-approach-at-uber-996c078b5b7b      
+* [https://medium.com/@bmarquie/bits-of-thought-cinnamon-a-new-resiliency-approach-at-uber-996c078b5b7b](https://medium.com/@bmarquie/bits-of-thought-cinnamon-a-new-resiliency-approach-at-uber-996c078b5b7b)      
 
 Pattern of distributed system    
 * [https://martinfowler.com/articles/patterns-of-distributed-systems/](https://martinfowler.com/articles/patterns-of-distributed-systems/)     
@@ -74,7 +74,7 @@ Java Collector Teeing
 * [https://dzone.com/articles/java-12-the-teeing-collector](https://dzone.com/articles/java-12-the-teeing-collector)    
 
 Migration Terraform to OpenTofu       
-* [https://medium.com/](https://medium.com/)@bisinet/from-terraform-to-opentofu-ebb23863b6a7
+* [https://medium.com/@bisinet/from-terraform-to-opentofu-ebb23863b6a7](https://medium.com/@bisinet/from-terraform-to-opentofu-ebb23863b6a7)
 * [https://spacelift.io/blog/terraform-tools](https://spacelift.io/blog/terraform-tools)
 
 How Roaring Bitmap wworks     

@@ -20,7 +20,7 @@ Two Oracle builds
 * [http://jdk.java.net/](http://jdk.java.net/)
 
 Java Champions to the rescue   
-* [https://medium.com/](https://medium.com/)@javachampions/java-is-still-free-c02aef8c9e04
+* [https://medium.com/@javachampions/java-is-still-free-c02aef8c9e04](https://medium.com/@javachampions/java-is-still-free-c02aef8c9e04)
 * [https://docs.google.com/document/d/1nFGazvrCvHMZJgFstlbzoHjpAVwv5DEdnaBr_5pKuHo/edit](https://docs.google.com/document/d/1nFGazvrCvHMZJgFstlbzoHjpAVwv5DEdnaBr_5pKuHo/edit)
 * [https://www.javaspecialists.eu/archive/Issue260.html](https://www.javaspecialists.eu/archive/Issue260.html)
 * [https://developer.okta.com/blog/2019/01/16/which-java-sdk](https://developer.okta.com/blog/2019/01/16/which-java-sdk)
