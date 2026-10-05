@@ -10,7 +10,7 @@ tags : Zoomon Mastodon Tech Java Social Swf
    * [First links to have a look at](#first-links-to-have-a-look-at)
    * [Mastodon server and instances](#mastodon-server-and-instances)
    * [Mastodon people to follow](#mastodon-people-to-follow)
-   * [Some tech opinions about Mastodon](#some-tech-opinions-about-mastodon)
+   * [Some news and tech opinions about Mastodon](#some-news-and-tech-opinions-about-mastodon)
    * [Tech part of Mastodon](#tech-part-of-mastodon)
 
 

@@ -38,7 +38,7 @@ Futur contenu pour Java 11
 [http://marxsoftware.blogspot.fr/2018/02/early-jeps-java-11.html](http://marxsoftware.blogspot.fr/2018/02/early-jeps-java-11.html)
 
 Extension du free support lifetime Java 8
-[https://www.infoq.com/news/2018/02/Java8SupportJan18]([https://www.infoq.com/news/2018/02/Java8SupportJan18)
+[https://www.infoq.com/news/2018/02/Java8SupportJan18](https://www.infoq.com/news/2018/02/Java8SupportJan18)
 
 ## Tool
 

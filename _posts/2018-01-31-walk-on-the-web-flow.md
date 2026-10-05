@@ -15,7 +15,7 @@ CAP theorem extension, PACCEL
 [http://cs-www.cs.yale.edu/homes/dna/papers/abadi-pacelc.pdf](http://cs-www.cs.yale.edu/homes/dna/papers/abadi-pacelc.pdf)
 
 SQL, NoSQL en 2017
-[https://blog.yugabyte.com/nosql-vs-sql-in-2017-58a42ce159b8]()
+[https://blog.yugabyte.com/nosql-vs-sql-in-2017-58a42ce159b8](https://blog.yugabyte.com/nosql-vs-sql-in-2017-58a42ce159b8)
 
 Debugging microservices : OpenTracing, Squash, Service Mesh
 [https://www.infoq.com/presentations/squash-microservices-container](https://www.infoq.com/presentations/squash-microservices-container)

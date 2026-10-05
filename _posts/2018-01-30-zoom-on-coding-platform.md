@@ -14,7 +14,7 @@ non-exhaustive list of coding platform, coding contest and so on
 * TechIo : [https://tech.io/](https://tech.io/)
 * Exercism : [http://exercism.io/](http://exercism.io/)
 * Code Fight : [https://codefights.com/home](https://codefights.com/home)
-* CodingGame : [https://www.codingame.com/start]()
+* CodingGame : [https://www.codingame.com/start](https://www.codingame.com/start)
 * Kattis : [https://open.kattis.com/](https://open.kattis.com/)
 * Codility : [https://app.codility.com/programmers/](https://app.codility.com/programmers/)
 * CodeChef : [https://www.codechef.com/](https://www.codechef.com/)
