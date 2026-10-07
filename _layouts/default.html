@@ -11,6 +11,7 @@
     <!-- To override required CSS properties -->
     <link rel="stylesheet" href="{{ '/assets/css/styleOver.css' | relative_url }}">
 {% seo %}
+{% feed_meta %}
   </head>
 
   <body>
@@ -23,6 +24,7 @@
         <a href="{{ '/' | relative_url }}"><b>Home</b></a>
         <a href="{{ '/TagCloud.html' | relative_url }}"><b>TagCloud</b></a>
         <a href="{{ '/AllPosts.html' | relative_url }}"><b>All Posts</b></a>
+        <a href="{{ '/feed.xml' | relative_url }}" title="Atom feed: add this link to your feed reader"><b>RSS</b></a>
         
         <section id="downloads">
           {% if site.show_downloads %}
