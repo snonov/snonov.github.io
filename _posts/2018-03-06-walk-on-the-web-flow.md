@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20180306"
 date: 2018-03-06
-tags : BigData Data Sourcetrailer Docker Github Garbagecollector G1 Thread Java10 Java9 Java Consensus Raft Paxos Graph Cloud AWS Microservice Serverless Webflowwalk  Quantum Technicalbook
+tags : Bigdata Data Sourcetrailer Docker Github Garbagecollector G1 Thread Java10 Java9 Java Consensus Raft Paxos Graph Cloud Aws Microservice Serverless Webflowwalk Quantum Technicalbook
 ---
 
 
@@ -74,7 +74,7 @@ What is BigData
 [https://bigstep.com/blog/what-is-big-data](https://bigstep.com/blog/what-is-big-data)
 
 How to hand over your Open Source project to a new maintainer
-[https://medium.com/](https://medium.com/)@shazow/how-to-hand-over-an-open-source-project-to-a-new-maintainer-db433aaf57e8
+[https://medium.com/@shazow/how-to-hand-over-an-open-source-project-to-a-new-maintainer-db433aaf57e8](https://medium.com/@shazow/how-to-hand-over-an-open-source-project-to-a-new-maintainer-db433aaf57e8)
 
 New google Quantum processor
 [https://research.googleblog.com/2018/03/a-preview-of-bristlecone-googles-new.html](https://research.googleblog.com/2018/03/a-preview-of-bristlecone-googles-new.html)

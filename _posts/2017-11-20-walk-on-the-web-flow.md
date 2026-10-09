@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20171120"
 date: 2017-11-20
-tags : Quantum Mozilla Docker AWS Twitter Paradisepaper Neo4j Mvcc Java10 Java Garbagecollector Mob Mobprogramming Github Duplicate Machinelearning Ia Finance Chaos Webflowwalk
+tags : Quantum Mozilla Docker Aws Twitter Paradisepaper Neo4j Mvcc Java10 Java Garbagecollector Mob Mobprogramming Github Duplicate Machinelearning Ia Finance Chaos Webflowwalk
 ---
 
 ## Architecture

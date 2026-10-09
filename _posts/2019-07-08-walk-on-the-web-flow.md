@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20190708"
 date: 2019-07-08
-tags : Python Quality AWS Schema Markdown Serverless Github Tiobe Exercice Programming Ssl Mozilla Java Io Nio GraalVM Opendata Lobby OOM JXRay Memory 
+tags : Python Quality Aws Schema Markdown Serverless Github Tiobe Exercice Programming Ssl Mozilla Java Io Nio Graalvm Opendata Lobby Oom Jxray Memory
 ---
 
 ## Architecture  

@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20231107"
 date: 2023-11-07
-tags : Llm GenerativeAI Curl Cleancode Functionnal Fp Webcrawler Oreilly Knowledge Jvmsummit Conference Graalvm C4 Structurizr Architecture Hotswap JRebel Github Java Baremetal Stream Gatherers Jep461 Microservice Viktorklang Profiler Memoryleak Debug Jeyzer Jvm Tuning Performance Alibaba Offheap Api Asynchronous Tdd Doubleloop Langchain4j Java21 Switch Patternmatching Countdown Openai Jmc Jrockit Javamissioncontrol Jacoco Deadcode Coverage Kappa Deeplearning4j Encog Weka Ai Machinelearning Guillaumelaforge Lizraes
+tags : Llm Generativeai Curl Cleancode Functionnal Fp Webcrawler Oreilly Knowledge Jvmsummit Conference Graalvm C4 Structurizr Architecture Hotswap Jrebel Github Java Baremetal Stream Gatherers Jep461 Microservice Viktorklang Profiler Memoryleak Debug Jeyzer Jvm Tuning Performance Alibaba Offheap Api Asynchronous Tdd Doubleloop Langchain4j Java21 Switch Patternmatching Countdown Openai Jmc Jrockit Javamissioncontrol Jacoco Deadcode Coverage Kappa Deeplearning4j Encog Weka Ai Machinelearning Guillaumelaforge Lizraes
 ---
 
 ## Architecture  

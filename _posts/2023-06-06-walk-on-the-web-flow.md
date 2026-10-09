@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20230606"
 date: 2023-06-06
-tags : Briangoetz Patterns Dependencyinjection Dependencycomposition Loom Virtualthread Java Mermaid Markdown Profiling Jvm Thread Compiler Innersource Tdd Flow Git Architecturalkata Kata Db Concurrency Performance Create Llm Google Andrewng Kappa Map Github Python Jupyter 
+tags : Briangoetz Patterns Dependencyinjection Dependencycomposition Loom Virtualthread Java Mermaid Markdown Profiling Jvm Thread Compiler Innersource Tdd Flow Git Architecturalkata Kata Db Concurrency Performance Create Llm Google Andrewng Kappa Map Github Python Jupyter
 ---
 
 ## Architecture  

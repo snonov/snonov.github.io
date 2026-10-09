@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170919"
 date: 2017-09-19
-tags : Lego Search Engineer Quantum Monitoring Bot Clarke Keyvi Ec2 Cloud AWS Kafka Java Machinelearning Io Serverless Webflowwalk
+tags : Lego Search Engineer Quantum Monitoring Bot Clarke Keyvi Ec2 Cloud Aws Kafka Java Machinelearning Io Serverless Webflowwalk
 ---
 
 ## Architecture
@@ -12,8 +12,8 @@ Point sur le serverless
 [https://medium.com/memory-leak/5-interesting-findings-about-serverless-2b3cff405d50](https://medium.com/memory-leak/5-interesting-findings-about-serverless-2b3cff405d50)
 
 Les IO en détail (syscalls, standardIO, VectoredIO, MemoryMappedIO)
-[https://medium.com/](https://medium.com/)@ifesdjeen/on-disk-io-part-1-flavours-of-io-8e1ace1de017
-[https://medium.com/](https://medium.com/)@ifesdjeen/on-disk-io-part-2-more-flavours-of-io-c945db3edb13
+[https://medium.com/@ifesdjeen/on-disk-io-part-1-flavours-of-io-8e1ace1de017](https://medium.com/@ifesdjeen/on-disk-io-part-1-flavours-of-io-8e1ace1de017)
+[https://medium.com/@ifesdjeen/on-disk-io-part-2-more-flavours-of-io-c945db3edb13](https://medium.com/@ifesdjeen/on-disk-io-part-2-more-flavours-of-io-c945db3edb13)
 
 Kafka and Kappa
 [https://www.confluent.io/blog/okay-store-data-apache-kafka/](https://www.confluent.io/blog/okay-store-data-apache-kafka/)

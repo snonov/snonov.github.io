@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20180413"
 date: 2018-04-13
-tags : Neo4j Docker Monad Designpattern Openjdk Java10 Machinelearning ContinuousIntegra… Branching Webflowwalk  Zeromq Maven Databaseflow Maif Oss
+tags : Neo4j Docker Monad Designpattern Openjdk Java10 Machinelearning Continuousintegration Branching Webflowwalk Zeromq Maven Databaseflow Maif Oss
 ---
 
 ## Architecture

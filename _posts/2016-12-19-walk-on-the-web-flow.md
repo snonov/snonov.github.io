@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20161219"
 date: 2016-12-19
-tags : Amazon AWS Arpanet Internet Javascript Iot Microservices NetFlix Webflowwalk
+tags : Amazon Aws Arpanet Internet Javascript Iot Microservices Netflix Webflowwalk
 ---
 
 En attendant l'ouverture de la région AWS France, l'ouverture de Londres est officielle depuis la semaine dernière    

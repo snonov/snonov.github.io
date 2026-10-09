@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20250625"
 date: 2025-06-25
-tags : Statsig Product Platform Testdriven Tdd Agentic Codingagent Mistral Claude Claudecode Stanford Gametheory Report Europe Ai Network Latency Http3 Aiagent Java Gcp Incident Claude Claude4 Opus Sonnet Openrewrite License Github Copilot Moderne Dop Dataorientedprogramming Researchpapers Research Agent Deepcoder Mckinsey Report Attention Repomix Codebase Ollama Inference Training Gpu Model Choose Hexagonal Java Augmenteddeveloper Darwin Godel Techwatch Privacy Incogni Andrejkarpathy Openai Martinfowler Abstraction Embabel Rodjohnson Gitingest Llmstxt Jeremyhoward A2a Jfr Javaflightrecord Git Gitfluence Keystore Security Explorer Map Huggingface Models Githubcopilot Jmh Profiling
+tags : Statsig Product Platform Testdriven Tdd Agentic Codingagent Mistral Claude Claudecode Stanford Gametheory Report Europe Ai Network Latency Http3 Aiagent Java Gcp Incident Claude4 Opus Sonnet Openrewrite License Github Copilot Moderne Dop Dataorientedprogramming Researchpapers Research Agent Deepcoder Mckinsey Attention Repomix Codebase Ollama Inference Training Gpu Model Choose Hexagonal Augmenteddeveloper Darwin Godel Techwatch Privacy Incogni Andrejkarpathy Openai Martinfowler Abstraction Embabel Rodjohnson Gitingest Llmstxt Jeremyhoward A2a Jfr Javaflightrecord Git Gitfluence Keystore Security Explorer Map Huggingface Models Githubcopilot Jmh Profiling
 ---
 
 ## Architecture  

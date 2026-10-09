@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20171211"
 date: 2017-12-11
-tags : Ia Quantum Redis Facebook Onnx Datascientist Benchmark Machinelearning Pattern Memory Java JMM Index Architecture Messaging Microservices Webflowwalk
+tags : Ia Quantum Redis Facebook Onnx Datascientist Benchmark Machinelearning Pattern Memory Java Jmm Index Architecture Messaging Microservices Webflowwalk
 ---
 
 ## Architecture

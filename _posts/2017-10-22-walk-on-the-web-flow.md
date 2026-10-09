@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Walk on the web flow 20171106"
-date: 2017-11-06
+title: "Walk on the web flow 20171022"
+date: 2017-10-22
 tags : Rodjohnson Atomist Ec Jcp Blockchain Multithreading Debian Neo4j Slack Machinelearning Jmx Java9 Java Serverless Github Eventdriven Distributedsystem Containers Mesosphere Webflowwalk
 ---
 

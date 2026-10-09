@@ -2,13 +2,13 @@
 layout: post
 title: "Walk on the web flow 20230411"
 date: 2023-04-11 
-tags : Alibaba Java Maven Build Reproducible Reactive Reactor Protocol Record Mutable Serialization Chatgpt Kubernetes Generation Terraform Cloud 
+tags : Alibaba Java Maven Build Reproducible Reactive Reactor Protocol Record Mutable Serialization Chatgpt Kubernetes Generation Terraform Cloud
 ---
 
 ## Architecture  
 
 Choose the right protocol    
-* [https://medium.com/](https://medium.com/)@sabaoth-ou/choosing-the-right-communication-protocols-c0ba1864ce87    
+* [https://medium.com/@sabaoth-ou/choosing-the-right-communication-protocols-c0ba1864ce87](https://medium.com/@sabaoth-ou/choosing-the-right-communication-protocols-c0ba1864ce87)    
 
 ## Dev   
 

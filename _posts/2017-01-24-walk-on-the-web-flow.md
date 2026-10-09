@@ -31,7 +31,7 @@ Zipkin, distributed tracing system
 
 Functional programming   
 * [https://medium.freecodecamp.com/learning-the-fundamentals-of-functional-programming-425c9fd901c6#.cthzxbxl0](https://medium.freecodecamp.com/learning-the-fundamentals-of-functional-programming-425c9fd901c6#.cthzxbxl0)
-* [https://medium.com/](https://medium.com/)@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536#.sg0gr3y3g
+* [https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536#.sg0gr3y3g](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536#.sg0gr3y3g)
 * [https://www.quora.com/What-are-monads-in-functional-programming-and-why-are-they-useful](https://www.quora.com/What-are-monads-in-functional-programming-and-why-are-they-useful)
 
 ## Various

@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20180131"
 date: 2018-01-31
-tags : Blockchain git Flamegraph Java9 Jvm Java Java8 Cloud AWS Kafka Spark Cassandra Apachebeam Stream Microservices Nosql Captheoreme Yugabyte Cosmodb Googlespanner Dbcloud Webflowwalk
+tags : Blockchain Git Flamegraph Java9 Jvm Java Java8 Cloud Aws Kafka Spark Cassandra Apachebeam Stream Microservices Nosql Captheoreme Yugabyte Cosmodb Googlespanner Dbcloud Webflowwalk
 ---
 
 ## Architecture
@@ -15,7 +15,7 @@ CAP theorem extension, PACCEL
 [http://cs-www.cs.yale.edu/homes/dna/papers/abadi-pacelc.pdf](http://cs-www.cs.yale.edu/homes/dna/papers/abadi-pacelc.pdf)
 
 SQL, NoSQL en 2017
-[https://blog.yugabyte.com/nosql-vs-sql-in-2017-58a42ce159b8]()
+[https://blog.yugabyte.com/nosql-vs-sql-in-2017-58a42ce159b8](https://blog.yugabyte.com/nosql-vs-sql-in-2017-58a42ce159b8)
 
 Debugging microservices : OpenTracing, Squash, Service Mesh
 [https://www.infoq.com/presentations/squash-microservices-container](https://www.infoq.com/presentations/squash-microservices-container)

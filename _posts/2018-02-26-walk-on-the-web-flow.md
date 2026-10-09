@@ -43,4 +43,4 @@ Slides de conférences en parcourant différents sites
 [http://lanyrd.com/slides/](http://lanyrd.com/slides/)
 
 Why decentralization matters  
-[https://medium.com/](https://medium.com/)@cdixon/why-decentralization-matters-5e3f79f7638e
+[https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e](https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e)

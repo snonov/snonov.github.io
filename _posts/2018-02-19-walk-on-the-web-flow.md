@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20180219"
 date: 2018-02-19
-tags : Datalineage Metadata Java Blog Reactiveprogrammi… Reactive Stateful Distributedsystem Serverless Tungsten Graphql Apollo React Neo4j Grandstack Mesos Kafka Stream Beam Webflowwalk  Spark Grand
+tags : Datalineage Metadata Java Blog Reactiveprogramming Reactive Stateful Distributedsystem Serverless Tungsten Graphql Apollo React Neo4j Grandstack Mesos Kafka Stream Beam Webflowwalk Spark Grand
 ---
 
 Walk on the web flow

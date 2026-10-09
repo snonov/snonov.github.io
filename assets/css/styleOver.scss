@@ -1,9 +1,44 @@
 ---
 ---
 
+// Wider than the theme default (1000px) on large screens, fluid on small ones.
 .container {
-  min-width: 920px;
   width: 90%;
   max-width: 1920px;
   margin: 0 auto;
+}
+
+// Search bar: aligned with the page content, input taking the free space.
+#searchBar {
+  margin-bottom: 20px;
+}
+
+#search form {
+  display: flex;
+  gap: 8px;
+  max-width: 40em;
+}
+
+#searchString {
+  flex: 1;
+  min-width: 0;
+}
+
+// Long URLs and words wrap instead of widening the page on small screens.
+#main_content {
+  overflow-wrap: anywhere;
+  word-wrap: break-word;
+}
+
+pre {
+  overflow-x: auto;
+}
+
+// Tag cloud: a tag is never split in the middle of the word.
+.tagcloud {
+  overflow-wrap: normal;
+}
+
+.tagcloud a {
+  white-space: nowrap;
 }

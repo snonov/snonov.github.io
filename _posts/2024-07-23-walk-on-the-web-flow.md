@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20240723"
 date: 2024-07-23
-tags : Llm State Code Packaging Hexagonal Alistaircockburn Marimo Notebook Python Datascience Maven Bandwidth Dop Dataorientedprogramming Nicolaiparlog Java Embeddings Ai Git Mistake Juliaevans Testcontainer Callback Dependencies Aigateway Ollama Springai Features Models Explicability Evaluation Mixeval Model Families Landscape Exist Tcpdump Wireshark Jamesgosling Retired Goldmansachs Machinelearning Iac Terraform Virtualthread Javac Performance  Module Path Java23 Garbagecollector Gc Logging Kay Konveyor Code Judge Choiceofexpert Nmt Nativememory Jfr Deprecated Github Codereview 
+tags : Llm State Code Packaging Hexagonal Alistaircockburn Marimo Notebook Python Datascience Maven Bandwidth Dop Dataorientedprogramming Nicolaiparlog Java Embeddings Ai Git Mistake Juliaevans Testcontainer Callback Dependencies Aigateway Ollama Springai Features Models Explicability Evaluation Mixeval Model Families Landscape Exist Tcpdump Wireshark Jamesgosling Retired Goldmansachs Machinelearning Iac Terraform Virtualthread Javac Performance Module Path Java23 Garbagecollector Gc Logging Kay Konveyor Judge Choiceofexpert Nmt Nativememory Jfr Deprecated Github Codereview
 ---
 
 ## Architecture  

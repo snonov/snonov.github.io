@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20180418"
 date: 2018-04-18
-tags : API Serverless Kafka NetFlix Containers Parquet Apache Machinelearning Mckinsey Webflowwalk  Java8 Lambda Stream Jvm Spark Java11 Blockchain Docker Maven Jlib Kaniko Kubernetes Dockly Jwt Prototool Babel Lightbend Termofservice
+tags : Api Serverless Kafka Netflix Containers Parquet Apache Machinelearning Mckinsey Webflowwalk Java8 Lambda Stream Jvm Spark Java11 Blockchain Docker Maven Jlib Kaniko Kubernetes Dockly Jwt Prototool Babel Lightbend Termofservice
 ---
 
 Walk on the web flow ([https://snonov.github.io/](https://snonov.github.io/))

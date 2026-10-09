@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20230509"
 date: 2023-05-09 
-tags : Data Stream Flink Kafka Java Io Design Searchengine Microservice Amazon Monolith Manifesto Distributedcomputing Springboot Debugging Aop Graalvm Aot Jit File Ssh Finance Dataset Webcrawling Tagcloud Kumo Wordcloud Loom Benchmark Jmh Xpipe Remote Connection Explorer Podman Archimate Modeling Pattern Ignorefile OATutor Opensource Contribution AI Generativeai Llm Github Contentauthenticity Jobs OpenAI Developers 
+tags : Data Stream Flink Kafka Java Io Design Searchengine Microservice Amazon Monolith Manifesto Distributedcomputing Springboot Debugging Aop Graalvm Aot Jit File Ssh Finance Dataset Webcrawling Tagcloud Kumo Wordcloud Loom Benchmark Jmh Xpipe Remote Connection Explorer Podman Archimate Modeling Pattern Ignorefile Oatutor Opensource Contribution Ai Generativeai Llm Github Contentauthenticity Jobs Openai Developers
 ---
 
 ## Architecture  
@@ -14,7 +14,7 @@ Build and design your search engine
 * [http://wiby.org/about/guide.html](http://wiby.org/about/guide.html)   
 
 Microservices pattern   
-* [https://medium.com/](https://medium.com/)@abhishekranjandev/unlocking-the-magic-of-microservices-design-patterns-for-beginners-fbcfee7b4aa9      
+* [https://medium.com/@abhishekranjandev/unlocking-the-magic-of-microservices-design-patterns-for-beginners-fbcfee7b4aa9](https://medium.com/@abhishekranjandev/unlocking-the-magic-of-microservices-design-patterns-for-beginners-fbcfee7b4aa9)      
 
 Microservice architecture example
 * [https://www.infoq.com/articles/cassandra-kubernetes-microservices/](https://www.infoq.com/articles/cassandra-kubernetes-microservices/)    
@@ -85,7 +85,7 @@ Big subject of the moment IA and various thinking around
 * Usage of generative IA in stackoverflow, in short banned
     * [https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned](https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned)    
 	* [https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-temporarily-banned-stack-overflow-llms-dangers](https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-temporarily-banned-stack-overflow-llms-dangers)   
-* Usage of generative AI in Github [https://hachyderm.io/](https://hachyderm.io/)@danluu@mastodon.social/110335983775082261   
+* Usage of generative AI in Github [https://hachyderm.io/@danluu@mastodon.social/110335983775082261](https://hachyderm.io/@danluu@mastodon.social/110335983775082261)   
 * AI bots proliferation [https://www.newsguardtech.com/special-reports/newsbots-ai-generated-news-websites-proliferating/](https://www.newsguardtech.com/special-reports/newsbots-ai-generated-news-websites-proliferating/)    
 * White collar jobs impact [https://twitter.com/mishadavinci/status/1655210987677687809](https://twitter.com/mishadavinci/status/1655210987677687809)     
 * Tech initiative in this context Contentauthenticity [https://contentauthenticity.org/blog](https://contentauthenticity.org/blog)     	 

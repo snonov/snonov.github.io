@@ -11,7 +11,7 @@ Open close system principle
 * [https://brooker.co.za/blog/2023/05/10/open-closed.html](https://brooker.co.za/blog/2023/05/10/open-closed.html)    
 
 History of microservices     
-* [https://medium.com/](https://medium.com/)@emijiang6/rethinking-microservices-dcf9696af385    
+* [https://medium.com/@emijiang6/rethinking-microservices-dcf9696af385](https://medium.com/@emijiang6/rethinking-microservices-dcf9696af385)    
 
 Distributed patterns compared: Frameworks vs. K8s vs. Service Mesh vs. eBPF   
 * [https://www.youtube.com/watch?v=QpU_qHN4MWo](https://www.youtube.com/watch?v=QpU_qHN4MWo)    

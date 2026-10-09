@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170220"
 date: 2017-02-20
-tags : BigData Analytics Functions Nginx Design Java9 Eclipse Mvcc Btree Mavibot NetFlix Microservices Webflowwalk
+tags : Bigdata Analytics Functions Nginx Design Java9 Eclipse Mvcc Btree Mavibot Netflix Microservices Webflowwalk
 ---
 
 ## Architecture, BigData et microservices
@@ -15,7 +15,7 @@ NGinx et architecture microservices :
 [https://www.nginx.com/blog/3-models-nginx-microservices-reference-architecture/](https://www.nginx.com/blog/3-models-nginx-microservices-reference-architecture/)
 
 Du monolithe aux fonctions en passant par le microservice   
-[https://medium.com/](https://medium.com/)@adrianco/evolution-of-business-logic-from-monoliths-through-microservices-to-functions-ff464b95a44d#.kot4lgbj7
+[https://medium.com/@adrianco/evolution-of-business-logic-from-monoliths-through-microservices-to-functions-ff464b95a44d#.kot4lgbj7](https://medium.com/@adrianco/evolution-of-business-logic-from-monoliths-through-microservices-to-functions-ff464b95a44d#.kot4lgbj7)
 
 Microservice service et design   
 * [https://www.infoq.com/news/2017/02/microxchg-service-design](https://www.infoq.com/news/2017/02/microxchg-service-design)

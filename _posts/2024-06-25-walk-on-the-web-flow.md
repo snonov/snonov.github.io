@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20240625"
 date: 2024-06-25
-tags : Mlops Llm Evolution Routes Apisix Java Dop Nicolaiparlog Azure Kubernetes Aks Container Author Book Economy Graphql Api Git Productivity Metrics Cpu Java21 Java17 Google Didact Ai Meta Megalodon Babylon Mistral Codestral Aqua Jetbrain Test Automation Nvidia Spreadsheet Nanogpt Commonhaus Oss Foundation Linkedin Ecosystem Github Openllm Benchmark Streams Donaldraab Openjdk Quality Qualityoutreach Thread Stop Springboot Spring Graalvm Aot Azure Letsencrypt Ssl Attention Google Ollama Mindsdb Bloomberggpt Finance Technicalwriting Writing Onnxmodel Onnx Model Microsoft Csharp Models Families Encoder Decoder Finetune Flan Benchmark Glue Superglue Helm Mmmlu Bigbench Webcrawler Coupling Ci Cd Velocity Langchain Langsmith Monad Intellij Debug
+tags : Mlops Llm Evolution Routes Apisix Java Dop Nicolaiparlog Azure Kubernetes Aks Container Author Book Economy Graphql Api Git Productivity Metrics Cpu Java21 Java17 Google Didact Ai Meta Megalodon Babylon Mistral Codestral Aqua Jetbrain Test Automation Nvidia Spreadsheet Nanogpt Commonhaus Oss Foundation Linkedin Ecosystem Github Openllm Benchmark Streams Donaldraab Openjdk Quality Qualityoutreach Thread Stop Springboot Spring Graalvm Aot Letsencrypt Ssl Attention Ollama Mindsdb Bloomberggpt Finance Technicalwriting Writing Onnxmodel Onnx Model Microsoft Csharp Models Families Encoder Decoder Finetune Flan Glue Superglue Helm Mmmlu Bigbench Webcrawler Coupling Ci Cd Velocity Langchain Langsmith Monad Intellij Debug
 ---
 
 ## Architecture  

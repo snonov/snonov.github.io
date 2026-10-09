@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170214"
 date: 2017-02-14
-tags : Webflowwalk Spark TensorFlow Microservices Elasticsearch Queue API Java9
+tags : Webflowwalk Spark Tensorflow Microservices Elasticsearch Queue Api Java9
 ---
 
 ## Architecture

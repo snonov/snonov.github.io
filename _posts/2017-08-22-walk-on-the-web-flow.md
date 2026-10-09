@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170822"
 date: 2017-08-22
-tags : Google React Java9 Java AWS Docker Containers Cloud Oss NetFlix Aot Compilation Webflowwalk
+tags : Google React Java9 Java Aws Docker Containers Cloud Oss Netflix Aot Compilation Webflowwalk
 ---
 
 

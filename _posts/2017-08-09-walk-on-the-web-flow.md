@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170809"
 date: 2017-08-09
-tags : Docker Kylin Graal Machinelearning Github AWS Lambda Spark Olap Java Webflowwalk
+tags : Docker Kylin Graal Machinelearning Github Aws Lambda Spark Olap Java Webflowwalk
 ---
 
 ## Architecture

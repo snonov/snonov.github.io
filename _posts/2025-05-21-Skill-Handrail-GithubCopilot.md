@@ -2,7 +2,7 @@
 layout: post
 title: "Skill handrail Github Copilot"
 date: 2025-05-21
-tags : Skills Handrail Github Copilot Ai Certification Kimadelinemiguel instructionfile
+tags : Skills Handrail Github Copilot Ai Certification Kimadelinemiguel Instructionfile
 ---
 
 Links and data around Github Copilot

@@ -7,7 +7,13 @@ show_downloads: false
 author: snonov
 
 #baseurl: "https://snonov.github.io/"
-url: "https://snonov.github.io/"
+url: "https://snonov.github.io"
 
-# Google Analytics
-google_analytics: UA-114519646-1
+# Permet à jekyll-github-metadata de résoudre site.github en local
+repository: snonov/snonov.github.io
+
+# Plugins activés (tous fournis par la gem github-pages)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed

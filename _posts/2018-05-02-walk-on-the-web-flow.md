@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20180502"
 date: 2018-05-02
-tags : React Java11 Java Java9 Samza Neo4j Graph Distributedsystem Adriancockcroft Tensorflow Webflowwalk  Graalvm Titus Netflix Wiremock Junit5 Flogger Log Google Cloud Automation Ansible Ec Alibaba Os Javaone Conference
+tags : React Java11 Java Java9 Samza Neo4j Graph Distributedsystem Adriancockcroft Tensorflow Webflowwalk Graalvm Titus Netflix Wiremock Junit5 Flogger Log Google Cloud Automation Ansible Ec Alibaba Os Javaone Conference
 ---
 
 

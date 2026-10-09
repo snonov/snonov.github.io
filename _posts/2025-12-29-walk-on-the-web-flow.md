@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20251229"
 date: 2025-12-29
-tags : Toon Token Llm Json Jtoon Agent Code Codearena Obsidian Reader Aiagent Interview Learn Aidrivendevelopment Ai Sdlc Aws React Reactpattern Reasoning Acting Ibd Issuebaseddevelopment Codingagent Model Systemprompt Vibes Augmentcoding Openai Codex Opensource Prompt Prompthowto Aiagentusage Codereview Context Contextengineering Llm Awesome Claudecode Google Agentic Designpattern Codeberg Github Softwareengineering Swe Embabel Langgraph Claudemd LearnLM Google Chatgpt Openai Openaiacademy Googleskills Anthropic Perplexity Perplexitylab Machinelearning Gemini Prompt Vibium Browser Softwareengineering Martinfowler Computing Nondeterministic Genai Legacy Thoughtwork Radar Promptengineering Agent Javaagentbuild Memory Container Microsoft Rust Iac Platform Opensource Influential Mcpserver Skills Githubcopilot Rag Maturerag Nicolasmartignole Skillsweaver Media Bragdocument Accomplishments Juliaevans Oldjava Learnai Aicourses  Systemprompt Cl4r1t4s Stanford 
+tags : Toon Token Llm Json Jtoon Agent Code Codearena Obsidian Reader Aiagent Interview Learn Aidrivendevelopment Ai Sdlc Aws React Reactpattern Reasoning Acting Ibd Issuebaseddevelopment Codingagent Model Systemprompt Vibes Augmentcoding Openai Codex Opensource Prompt Prompthowto Aiagentusage Codereview Context Contextengineering Awesome Claudecode Google Agentic Designpattern Codeberg Github Softwareengineering Swe Embabel Langgraph Claudemd Learnlm Chatgpt Openaiacademy Googleskills Anthropic Perplexity Perplexitylab Machinelearning Gemini Vibium Browser Martinfowler Computing Nondeterministic Genai Legacy Thoughtwork Radar Promptengineering Javaagentbuild Memory Container Microsoft Rust Iac Platform Influential Mcpserver Skills Githubcopilot Rag Maturerag Nicolasmartignole Skillsweaver Media Bragdocument Accomplishments Juliaevans Oldjava Learnai Aicourses Cl4r1t4s Stanford
 ---
 
 ## Architecture  
@@ -169,7 +169,7 @@ Interview training (learn)
 	• [https://www.hellointerview.com/](https://www.hellointerview.com/)          
 
 Futur of software engineering       
-	• [https://medium.com/](https://medium.com/)@pete.palles/the-future-of-software-engineering-51de53d2e45a           
+	• [https://medium.com/@pete.palles/the-future-of-software-engineering-51de53d2e45a](https://medium.com/@pete.palles/the-future-of-software-engineering-51de53d2e45a)           
 
 Most influential open source projects        
 	• [https://github.blog/open-source/maintainers/this-years-most-influential-open-source-projects/](https://github.blog/open-source/maintainers/this-years-most-influential-open-source-projects/)           

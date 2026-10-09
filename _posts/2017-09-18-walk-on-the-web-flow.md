@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170918"
 date: 2017-09-18
-tags : Facebook Eclipse IBM J9 Amazon Kindleunlimited Mongodb Ducktape Dbkoda Windows Docker Joverflow Javamissioncontro… Jvm Functionnal Java9 Java Tests Kafka Webflowwalk
+tags : Facebook Eclipse Ibm J9 Amazon Kindleunlimited Mongodb Ducktape Dbkoda Windows Docker Joverflow Javamissioncontrol Jvm Functionnal Java9 Java Tests Kafka Webflowwalk
 ---
 
 ## Architecture
@@ -37,7 +37,7 @@ J9 (implmentation JVM d'IBM) en open source (openJ9)
 [http://www.eclipse.org/openj9/](http://www.eclipse.org/openj9/)
 
 GraphQL et Facebook  
-[https://medium.com/](https://medium.com/)@dwalsh.sdlr/using-graphql-why-facebook-now-owns-you-3182751028c9
+[https://medium.com/@dwalsh.sdlr/using-graphql-why-facebook-now-owns-you-3182751028c9](https://medium.com/@dwalsh.sdlr/using-graphql-why-facebook-now-owns-you-3182751028c9)
 
 ## Various
 

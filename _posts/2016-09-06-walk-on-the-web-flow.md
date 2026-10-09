@@ -14,7 +14,7 @@ Encore de la données : use case Spark/Facebook, 60 TB en production
 [https://databricks.com/blog/2016/08/31/apache-spark-scale-a-60-tb-production-use-case.html](https://databricks.com/blog/2016/08/31/apache-spark-scale-a-60-tb-production-use-case.html)
 
 De la donnée et un vieux débat, tabulation ou espace dans le code ? Feedback des 400 000 repo GitHub    
-[https://medium.com/](https://medium.com/)@hoffa/400-000-github-repositories-1-billion-files-14-terabytes-of-code-spaces-or-tabs-7cfe0b5dd7fd#.rg6n5lcaz
+[https://medium.com/@hoffa/400-000-github-repositories-1-billion-files-14-terabytes-of-code-spaces-or-tabs-7cfe0b5dd7fd#.rg6n5lcaz](https://medium.com/@hoffa/400-000-github-repositories-1-billion-files-14-terabytes-of-code-spaces-or-tabs-7cfe0b5dd7fd#.rg6n5lcaz)
 
 Tendance microservice : mais au fait comment on gère les transactions distribuées ?    
 [http://www.grahamlea.com/2016/08/distributed-transactions-microservices-icebergs/](http://www.grahamlea.com/2016/08/distributed-transactions-microservices-icebergs/)

@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20190409"
 date: 2019-04-09
-tags : Ioc Proxy Pipehub Reactive Performance Quarkus Java Spark BigTop Python Google Olep Event Distributedsystem Git Rust Stream Alibaba
+tags : Ioc Proxy Pipehub Reactive Performance Quarkus Java Spark Bigtop Python Google Olep Event Distributedsystem Git Rust Stream Alibaba
 ---
 
 ## Architecture  

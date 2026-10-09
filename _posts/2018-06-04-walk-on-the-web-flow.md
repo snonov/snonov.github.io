@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20180604"
 date: 2018-06-04
-tags : Icij Paradisepaper Architecture Archunit Pattern Lambda Graalvm JMC Jvm Crdt Hydra Hypermedia Reactive Rxjava Webflowwalk
+tags : Icij Paradisepaper Architecture Archunit Pattern Lambda Graalvm Jmc Jvm Crdt Hydra Hypermedia Reactive Rxjava Webflowwalk
 ---
 
 ## Architecture

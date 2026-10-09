@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20240312"
 date: 2024-03-12
-tags : Linux Workenvironment Langchain4j Openai Ollama Ai Kata Refactoring Patternmatching Optional Java Stephencolebourne Spring Troubleshooting Leaks Servicemesh Generativeai Patricklewis Meta 1brc Donaldraab Lambda Githubcopilot Jmx Azure Refs Filesystem Codecomplexity Jvp Performance Cto Wikimedia Rag Terraform Biceps Polling Webhook Google Monorepo Netflix Engineering Unixdaemons Cloud Edge Boundaries Llm Microsoft Vectordatabase Mach Api Microservices Jmm Javamemorymodel Jcp Conwayslaw Microfrontend Designpattern constraint Exceptionhandling Modularmonolith 
+tags : Linux Workenvironment Langchain4j Openai Ollama Ai Kata Refactoring Patternmatching Optional Java Stephencolebourne Spring Troubleshooting Leaks Servicemesh Generativeai Patricklewis Meta 1brc Donaldraab Lambda Githubcopilot Jmx Azure Refs Filesystem Codecomplexity Jvp Performance Cto Wikimedia Rag Terraform Biceps Polling Webhook Google Monorepo Netflix Engineering Unixdaemons Cloud Edge Boundaries Llm Microsoft Vectordatabase Mach Api Microservices Jmm Javamemorymodel Jcp Conwayslaw Microfrontend Designpattern Constraint Exceptionhandling Modularmonolith
 ---
 
 ## Architecture  

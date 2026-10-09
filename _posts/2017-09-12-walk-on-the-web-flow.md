@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170912"
 date: 2017-09-12
-tags : Openstreetmap Irma Timeseries Junit Elixir Neo4j Okta Spring Microservices Jdbc Kubernetes AWS Blockchain Release Architecture Reactive Facebook Webflowwalk
+tags : Openstreetmap Irma Timeseries Junit Elixir Neo4j Okta Spring Microservices Jdbc Kubernetes Aws Blockchain Release Architecture Reactive Facebook Webflowwalk
 ---
 
 ## Architecture

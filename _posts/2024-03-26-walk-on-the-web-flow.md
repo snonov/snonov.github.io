@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20240326"
 date: 2024-03-26
-tags : Jit Remiforax Invoke Java Oop Dop Milvus Vectordatabase Java22 Meta Git Instagram Stream Gather Llm Debugger Invokedynamic Kata Refactoring Springai Codecomplexity Spring Ebay Generativeai Langchain LangChain4j Semantickernel Codecrafters Moaw Workshop Careerpath Dataframeec MethodHandle Google Timeseries Python Shell Xonsh Ocr Tess4j Ai Jmc Javamissioncontrol Ddd Pattern Bbf Backendforfrontend Decathlon Brendangregg Linux Plateformengineering Restclient 
+tags : Jit Remiforax Invoke Java Oop Dop Milvus Vectordatabase Java22 Meta Git Instagram Stream Gather Llm Debugger Invokedynamic Kata Refactoring Springai Codecomplexity Spring Ebay Generativeai Langchain Langchain4j Semantickernel Codecrafters Moaw Workshop Careerpath Dataframeec Methodhandle Google Timeseries Python Shell Xonsh Ocr Tess4j Ai Jmc Javamissioncontrol Ddd Pattern Bbf Backendforfrontend Decathlon Brendangregg Linux Plateformengineering Restclient
 ---
 
 ## Architecture  
@@ -35,7 +35,7 @@ Creation workshop
 * [https://moaw.dev/workshop/create-workshop/](https://moaw.dev/workshop/create-workshop/) 
 
 Llm usage, architecture and link with DDD
-* DDD experiment LLM [https://www.infoq.com/news/2024/03/Evans-ddd-experiment-llm/](https://www.infoq.com/news/2024/03/Evans-ddd-experiment-llm/) and [https://www.youtube.com/](https://www.youtube.com/)@ExploreDDD/playlists   
+* DDD experiment LLM [https://www.infoq.com/news/2024/03/Evans-ddd-experiment-llm/](https://www.infoq.com/news/2024/03/Evans-ddd-experiment-llm/) and [https://www.youtube.com/@ExploreDDD/playlists](https://www.youtube.com/@ExploreDDD/playlists)   
 * LLM et DDD [https://microservices.io//post/architecture/2024/03/23/exploreddd-intersection-ddd-llms.html](https://microservices.io//post/architecture/2024/03/23/exploreddd-intersection-ddd-llms.html) 
 * Usages [https://hbr.org/2024/03/how-people-are-really-using-genai](https://hbr.org/2024/03/how-people-are-really-using-genai)
 

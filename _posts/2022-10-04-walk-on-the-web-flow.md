@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20221004"
 date: 2022-10-04
-tags : Distributed Yugabytedb Java Java19 Textsummarization Kubernetes Architecture Kata Alexandria Git Pantsbuild Build Database Flink Benchmark Kanito Mock Mail Graalvm Monad Loom Gtoolkit Bigdata Datastructure Goetz 
+tags : Distributed Yugabytedb Java Java19 Textsummarization Kubernetes Architecture Kata Alexandria Git Pantsbuild Build Database Flink Benchmark Kanito Mock Mail Graalvm Monad Loom Gtoolkit Bigdata Datastructure Goetz
 ---
 
 ## Architecture  
@@ -14,7 +14,7 @@ GraalVM Road Map
 * [https://medium.com/graalvm/announcing-the-graalvm-community-roadmap-b8d77201b497](https://medium.com/graalvm/announcing-the-graalvm-community-roadmap-b8d77201b497)    
 
 Architecture pattern   
-* [https://medium.com/](https://medium.com/)@hari.bodicherla/popular-software-architecture-patterns-60080a96e385   
+* [https://medium.com/@hari.bodicherla/popular-software-architecture-patterns-60080a96e385](https://medium.com/@hari.bodicherla/popular-software-architecture-patterns-60080a96e385)   
 
 Bigdata plateform architecture   
 * [https://nexocode.com/blog/posts/hadoop-spark-kafka-modern-big-data-architecture/](https://nexocode.com/blog/posts/hadoop-spark-kafka-modern-big-data-architecture/)    

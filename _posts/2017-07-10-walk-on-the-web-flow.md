@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170710"
 date: 2017-07-10
-tags : Tsung Gradle Eclipse Photon Angular React Eff Nasa BigData Github Ia Webflowwalk
+tags : Tsung Gradle Eclipse Photon Angular React Eff Nasa Bigdata Github Ia Webflowwalk
 ---
 
 ## Architecture

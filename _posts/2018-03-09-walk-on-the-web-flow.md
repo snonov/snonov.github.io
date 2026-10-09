@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20180309"
 date: 2018-03-09
-tags : Ksql Java Ssh Spoon Staticcodeanalysi… Sonar Anna Kvstore Machinelearning Mxnet Docker Jvm Json Ld Cqrs Graphql Designprinciple Http Serverless Baas Webflowwalk
+tags : Ksql Java Ssh Spoon Staticcodeanalysis Sonar Anna Kvstore Machinelearning Mxnet Docker Jvm Json Ld Cqrs Graphql Designprinciple Http Serverless Baas Webflowwalk
 ---
 
 ## Architecture
@@ -22,7 +22,7 @@ Design principle (DRY, SRP, open/close, ...)
 ## Dev
 
 GraphQL et CQRS/EventSourcing   
-[https://medium.com/](https://medium.com/)@thomastourlourat/graphql-cqrs-eventsourcing-un-couple-strategique-9b3709e9438b
+[https://medium.com/@thomastourlourat/graphql-cqrs-eventsourcing-un-couple-strategique-9b3709e9438b](https://medium.com/@thomastourlourat/graphql-cqrs-eventsourcing-un-couple-strategique-9b3709e9438b)
 
 JSON-LD (JSon for Linked Data)   
 [https://json-ld.org/](https://json-ld.org/)

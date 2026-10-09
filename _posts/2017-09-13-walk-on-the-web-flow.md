@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170913"
 date: 2017-09-13
-tags : Elixir Junit5 Junit Spark Docker Recursivite Performance Rxjava GC Containers Eclipse Javaee Java9 Openjdk Oracle Java Webflowwalk
+tags : Elixir Junit5 Junit Spark Docker Recursivite Performance Rxjava Gc Containers Eclipse Javaee Java9 Openjdk Oracle Java Webflowwalk
 ---
 
 ## Architecture
@@ -31,7 +31,7 @@ Java Performance Tuning
 [https://wiki.eclipse.org/images/c/ca/JavaPerformanceTuning.pdf](https://wiki.eclipse.org/images/c/ca/JavaPerformanceTuning.pdf)
 
 Java, récursivité et concurrence  
-[https://medium.com/](https://medium.com/)@johnmcclean/java-fun-recursive-concurrency-the-easy-way-f2c7cc02db28
+[https://medium.com/@johnmcclean/java-fun-recursive-concurrency-the-easy-way-f2c7cc02db28](https://medium.com/@johnmcclean/java-fun-recursive-concurrency-the-easy-way-f2c7cc02db28)
 
 ## Tool
 

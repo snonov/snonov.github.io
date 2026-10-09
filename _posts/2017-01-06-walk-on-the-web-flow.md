@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170106"
 date: 2017-01-06
-tags : AWS Microservices Antlr Dataset Java9 Java Webflowwalk
+tags : Aws Microservices Antlr Dataset Java9 Java Webflowwalk
 ---
 
 ## De la data (big enough)

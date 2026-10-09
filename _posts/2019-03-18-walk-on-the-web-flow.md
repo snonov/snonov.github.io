@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20190318"
 date: 2019-03-18
-tags : Rss Language Distributedsystem Crdt Code Poi Continuousdelivery Heap Java RSocket Kafka Zookeeper GraphQL Neo4j Jvm Metrics Jacoco
+tags : Rss Language Distributedsystem Crdt Code Poi Continuousdelivery Heap Java Rsocket Kafka Zookeeper Graphql Neo4j Jvm Metrics Jacoco
 ---
 
 ## Architecture  
@@ -11,7 +11,7 @@ Towards Language Support for Distributed Systems
 [https://www.infoq.com/presentations/research-languages-crdt-serverless-functions](https://www.infoq.com/presentations/research-languages-crdt-serverless-functions)
 
 Kafka without Zookeeper    
-[https://medium.com/](https://medium.com/)@lukasz.antoniak/apache-kafka-leaves-the-zoo-bef529ba82b7
+[https://medium.com/@lukasz.antoniak/apache-kafka-leaves-the-zoo-bef529ba82b7](https://medium.com/@lukasz.antoniak/apache-kafka-leaves-the-zoo-bef529ba82b7)
 
 ## Dev  
 
@@ -55,7 +55,7 @@ RSSHeap, rss reader for developer
 [http://www.rssheap.com/](http://www.rssheap.com/)
 
 POI, generate a powerpoint with Java    
-[https://medium.com/](https://medium.com/)@ssaurel/creating-microsoft-powerpoint-pptx-presentations-in-java-13d1923451e7
+[https://medium.com/@ssaurel/creating-microsoft-powerpoint-pptx-presentations-in-java-13d1923451e7](https://medium.com/@ssaurel/creating-microsoft-powerpoint-pptx-presentations-in-java-13d1923451e7)
 
 Tech Watch sources     
 [https://blog.ippon.fr/2019/03/13/la-veille-techno-dans-la-data/](https://blog.ippon.fr/2019/03/13/la-veille-techno-dans-la-data/)

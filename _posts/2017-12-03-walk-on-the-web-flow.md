@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20171203"
 date: 2017-12-03
-tags : Netneutrality Mozilla Objetconnecté Security Keycloak Olap Kylin Digitalocean Cloud Jvm Cliffclick Java9 Java Lambda AWS Opencl Reactive Webflowwalk
+tags : Netneutrality Mozilla Objetconnecte Security Keycloak Olap Kylin Digitalocean Cloud Jvm Cliffclick Java9 Java Lambda Aws Opencl Reactive Webflowwalk
 ---
 
 ## Architecture

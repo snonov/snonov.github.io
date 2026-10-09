@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20230523"
 date: 2023-05-23
-tags : Java Profiler Docker Podman Keycloak Cncf Kubernetes Minikube Microk8s Kind K3s K3d Graphql Rest Grpc Azure Iot Maven Mavencentral Data Residency Markdown Kata Tdd Zombies Gitops Kubernetes Slido Quizz Bigo Digitalmemory Mariofusco Loom Alistaircockburn Hexagonal Quotations Solid Cohesion Random Dreyfus Model Skill
+tags : Java Profiler Docker Podman Keycloak Cncf Kubernetes Minikube Microk8s Kind K3s K3d Graphql Rest Grpc Azure Iot Maven Mavencentral Data Residency Markdown Kata Tdd Zombies Gitops Slido Quizz Bigo Digitalmemory Mariofusco Loom Alistaircockburn Hexagonal Quotations Solid Cohesion Random Dreyfus Model Skill
 ---
 
 ## Architecture  

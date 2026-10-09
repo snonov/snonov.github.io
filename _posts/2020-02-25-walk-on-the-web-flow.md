@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20200225"
 date: 2020-02-25
-tags : Garbagecollector Gc Java Shell Cli Jcoz Profiler Jvm Developer Certification Devops Skills Java11 Devops Reactive Foundation Algo C10k Stream Git Rest Flightrecord Jmc Rgpd Springboot Docker Rust Loom Fiber Thread Java9 Neo4j Graph Pokemon Documentation Spring Performance Olap
+tags : Garbagecollector Gc Java Shell Cli Jcoz Profiler Jvm Developer Certification Devops Skills Java11 Reactive Foundation Algo C10k Stream Git Rest Flightrecord Jmc Rgpd Springboot Docker Rust Loom Fiber Thread Java9 Neo4j Graph Pokemon Documentation Spring Performance Olap
 ---
 
 ## Architecture  

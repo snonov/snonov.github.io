@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20180321"
 date: 2018-03-21
-tags : Nudge4j Apm Ide React Reactiveprogrammi… Spring Java10 Jvm AWS Parquet Cyclomaticcomplex… Distributedsystem Scalability KeyValue Datastorage Memory Canary Serverless Smartcontract Webflowwalk  Curl Kubernetes Scafold Google Docker Kafka Latency Numbers
+tags : Nudge4j Apm Ide React Reactiveprogramming Spring Java10 Jvm Aws Parquet Cyclomaticcomplexity Distributedsystem Scalability Keyvalue Datastorage Memory Canary Serverless Smartcontract Webflowwalk Curl Kubernetes Scafold Google Docker Kafka Latency Numbers
 ---
 
 
@@ -43,7 +43,7 @@ Apache Parquet and AWS
 [https://engineering.opsgenie.com/analyzing-aws-vpc-flow-logs-using-apache-parquet-files-and-amazon-athena-27f8025371fa](https://engineering.opsgenie.com/analyzing-aws-vpc-flow-logs-using-apache-parquet-files-and-amazon-athena-27f8025371fa)
 
 JVM performance investigation    
-[https://medium.com/](https://medium.com/)@muuki88/follow-the-stacktraces-jvm-performance-profiling-3c371d323e5f
+[https://medium.com/@muuki88/follow-the-stacktraces-jvm-performance-profiling-3c371d323e5f](https://medium.com/@muuki88/follow-the-stacktraces-jvm-performance-profiling-3c371d323e5f)
 
 Java 10 is released, some features review    
 * [https://jaxenter.com/java-10-is-here-142550.html](https://jaxenter.com/java-10-is-here-142550.html)

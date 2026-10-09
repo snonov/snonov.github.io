@@ -2,7 +2,7 @@
 layout: post
 title: "Zoom on Ai tools for developers"
 date: 2025-05-07
-tags : Ai Developers Tools Zoomon Code Cursor Github Graphite Gitlab Openrouter Deepinfra Model Daytona Theia Trae Brokk Models Benchmark Augment Codex Openai Claude Deeplearning Diamond Graphite Mcp A2a
+tags : Ai Developers Tools Zoomon Code Cursor Github Graphite Gitlab Openrouter Deepinfra Model Daytona Theia Trae Brokk Models Benchmark Augment Codex Openai Claude Deeplearning Diamond Mcp A2a
 ---
 
 This page to give and not forget some references concerning Ai tools that would be use in development environnement

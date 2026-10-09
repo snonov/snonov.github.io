@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20220706"
 date: 2022-07-06
-tags : Google Spannerdb Algorithms CodeWhisperer Amazon DragonFly Inmemory System Cloud Deploy Machinelearning Brave Chronicle Java 
+tags : Google Spannerdb Algorithms Codewhisperer Amazon Dragonfly Inmemory System Cloud Deploy Machinelearning Brave Chronicle Java
 ---
 
 ## Architecture  

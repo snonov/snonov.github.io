@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170925"
 date: 2017-09-25
-tags : Opendata JMC Javamissioncontro… Google Protobuf Graphdatabase Spotify TensorFlow Machinelearning Ethereum Blockchain Microservice Neuralnetwork Distributedsystem Java Simonritter Markreinhold Java9 Webflowwalk
+tags : Opendata Jmc Javamissioncontrol Google Protobuf Graphdatabase Spotify Tensorflow Machinelearning Ethereum Blockchain Microservice Neuralnetwork Distributedsystem Java Simonritter Markreinhold Java9 Webflowwalk
 ---
 
 Bon hors catégorie, il va y avoir quelques posts sur le sujet mais les premiers concernant sortie officielle de Java 9 :

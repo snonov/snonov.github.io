@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20180507"
 date: 2018-05-07
-tags : Concurrency Java11 Javascript Codequality Deeplearning Theory Queue Spring Reactor Reactiveprogramming Blockchain Ethereum Machinelearning Danku TensorFlow Heap Distributed Containers Serverless Webflowwalk  Tracing Graalvm Devops
+tags : Concurrency Java11 Javascript Codequality Deeplearning Theory Queue Spring Reactor Reactiveprogramming Blockchain Ethereum Machinelearning Danku Tensorflow Heap Distributed Containers Serverless Webflowwalk Tracing Graalvm Devops
 ---
 
 ## Architecture

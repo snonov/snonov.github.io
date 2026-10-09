@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170703"
 date: 2017-07-03
-tags : Ia Apache TensorFlow Docker Kafka Flamegraph NetFlix AWS Graphql Containers Java9 Java Webflowwalk
+tags : Ia Apache Tensorflow Docker Kafka Flamegraph Netflix Aws Graphql Containers Java9 Java Webflowwalk
 ---
 
 ## Dev

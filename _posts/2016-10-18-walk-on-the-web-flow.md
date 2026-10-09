@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20161018"
 date: 2016-10-18
-tags : Ignite Storm Flink Kafka Olap Microservices Uber NetFlix Crdt Git Jvm Java9 Java Webflowwalk
+tags : Ignite Storm Flink Kafka Olap Microservices Uber Netflix Crdt Git Jvm Java9 Java Webflowwalk
 ---
 
 ## un peu de tooling autour de Git

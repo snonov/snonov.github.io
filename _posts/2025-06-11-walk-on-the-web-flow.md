@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20250611"
 date: 2025-06-11
-tags : Githubcopilot Kimadelinemiguel Wizard Devoxx2025 Java Llm Mcp Java Keycloak Quarkus Infrastructure Genai Plateform Jvm Outage Augmenteddeveloper Ollama Multimodal Mise Openai Modelsusage Promptengineering Oreilly Nlweb Microsoft Azimutt Sql Database Benedictevans Papers Functional Tla Lamport Languages Mistral Devstral Agent Coding Llm Foundations Mcpserver Brokk Code Codesmell Deepwiki Github Vibecoding Zed Stitch Google Langchain Openagentplatform Chatgpt Memory Adt Algebricdatatype Unittest Genai Rodjohson Embabel Vmlens Multithreaded Concurrent Agents 12factors Augmenteddeveloper Deepresearch Perplexity Llmasjudge Evaluate Huggingface Course Agentic Stanford Claude Codex Models China 
+tags : Githubcopilot Kimadelinemiguel Wizard Devoxx2025 Java Llm Mcp Keycloak Quarkus Infrastructure Genai Plateform Jvm Outage Augmenteddeveloper Ollama Multimodal Mise Openai Modelsusage Promptengineering Oreilly Nlweb Microsoft Azimutt Sql Database Benedictevans Papers Functional Tla Lamport Languages Mistral Devstral Agent Coding Foundations Mcpserver Brokk Code Codesmell Deepwiki Github Vibecoding Zed Stitch Google Langchain Openagentplatform Chatgpt Memory Adt Algebricdatatype Unittest Rodjohson Embabel Vmlens Multithreaded Concurrent Agents 12factors Deepresearch Perplexity Llmasjudge Evaluate Huggingface Course Agentic Stanford Claude Codex Models China
 ---
 
 ## Architecture  
@@ -47,7 +47,7 @@ Algebric Data Types (ADT)
 	• [https://jakubpierzchlewicz.medium.com/adt-with-java-sealed-classes-pattern-matching-records-a88ebb3a5200](https://jakubpierzchlewicz.medium.com/adt-with-java-sealed-classes-pattern-matching-records-a88ebb3a5200)      
 
 Yes, you can unit test GenAi applications by Rod Johnson with Embabel        
-	• [https://medium.com/](https://medium.com/)@springrod/yes-you-can-unit-test-gen-ai-applications-9b2838bb0f45         
+	• [https://medium.com/@springrod/yes-you-can-unit-test-gen-ai-applications-9b2838bb0f45](https://medium.com/@springrod/yes-you-can-unit-test-gen-ai-applications-9b2838bb0f45)         
 
 Feedback on Ai agent coding all       
 	• [https://towardsdatascience.com/zero-human-code-what-i-learned-from-forcing-ai-to-build-and-fix-its-own-code-for-27-straight-days/](https://towardsdatascience.com/zero-human-code-what-i-learned-from-forcing-ai-to-build-and-fix-its-own-code-for-27-straight-days/)      

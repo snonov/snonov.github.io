@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170619"
 date: 2017-06-19
-tags : Webflowwalk Qcon AWS Graph Git Hateoas Rest Remiforax Patternmatching Java10 Java9 Java
+tags : Webflowwalk Qcon Aws Graph Git Hateoas Rest Remiforax Patternmatching Java10 Java9 Java
 ---
 
 ## Coding

@@ -2,7 +2,7 @@
 layout: post
 title: "Zoom on Jdk Builds"
 date: 2018-09-18
-tags : Zoomon Jdk Build Java OpenJdk
+tags : Zoomon Jdk Build Java Openjdk
 ---
 
 Period of changes regarding Java and Jdk, impact on builds (open or not, free or not), release and support. Few blogs and articles entry points to keep an eye on those changes
@@ -20,7 +20,7 @@ Two Oracle builds
 * [http://jdk.java.net/](http://jdk.java.net/)
 
 Java Champions to the rescue   
-* [https://medium.com/](https://medium.com/)@javachampions/java-is-still-free-c02aef8c9e04
+* [https://medium.com/@javachampions/java-is-still-free-c02aef8c9e04](https://medium.com/@javachampions/java-is-still-free-c02aef8c9e04)
 * [https://docs.google.com/document/d/1nFGazvrCvHMZJgFstlbzoHjpAVwv5DEdnaBr_5pKuHo/edit](https://docs.google.com/document/d/1nFGazvrCvHMZJgFstlbzoHjpAVwv5DEdnaBr_5pKuHo/edit)
 * [https://www.javaspecialists.eu/archive/Issue260.html](https://www.javaspecialists.eu/archive/Issue260.html)
 * [https://developer.okta.com/blog/2019/01/16/which-java-sdk](https://developer.okta.com/blog/2019/01/16/which-java-sdk)

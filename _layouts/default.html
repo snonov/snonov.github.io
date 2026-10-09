@@ -1,26 +1,30 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    {% include analytics.html %}
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="{{ '/favicon.svg' | relative_url }}" type="image/svg+xml">
+    <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="16x16 32x32 48x48">
+    <link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <!-- To override required CSS properties -->
     <link rel="stylesheet" href="{{ '/assets/css/styleOver.css' | relative_url }}">
 {% seo %}
+{% feed_meta %}
   </head>
 
   <body>
 
     <header>
       <div class="container">
-        <a href="https://snonov.github.io/" style="text-decoration: none"><h1>{{ site.title }}</h1></a>       
+        <a href="{{ '/' | relative_url }}" style="text-decoration: none"><h1>{{ site.title }}</h1></a>       
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
-        <a href="https://snonov.github.io/"><b>Home</b></a>
-        <a href="https://snonov.github.io/TagCloud.html"><b>TagCloud</b></a>
-        <a href="https://snonov.github.io/AllPosts.html"><b>All Posts</b></a>
+        <a href="{{ '/' | relative_url }}"><b>Home</b></a>
+        <a href="{{ '/TagCloud.html' | relative_url }}"><b>TagCloud</b></a>
+        <a href="{{ '/AllPosts.html' | relative_url }}"><b>All Posts</b></a>
+        <a href="{{ '/feed.xml' | relative_url }}" title="Atom feed: add this link to your feed reader"><b>RSS</b></a>
         
         <section id="downloads">
           {% if site.show_downloads %}
@@ -32,13 +36,13 @@
       </div>
     </header>
 
-    <div class="grid" id="searchBar">
+    <div class="container" id="searchBar">
      <div>
          <div id="search">
-             <form role="search" method="get" action="https://snonov.github.io/search.html">
-                 <input id="searchString" name="searchString"
-                        placeholder="Learn Ionic, Be a Better Developer, etc." type="text">
-                 <input id="searchButton" name="googleSearchName" type="button" value="Search">
+             <form role="search" method="get" action="{{ '/search.html' | relative_url }}">
+                 <input id="searchString" name="q" type="search"
+                        placeholder="Search posts: kafka, graalvm, opentelemetry…" aria-label="Search posts">
+                 <input id="searchButton" type="submit" value="Search">
              </form>
          </div>
      </div>

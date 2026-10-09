@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20171217"
 date: 2017-12-17
-tags : Flash Neutralitédunet Distributedsystem Paxos AWS Cosmodb Graphql Container Hadoop Maven Neo4j Graalvm Server Io Http2 Search Machinelearning Google Webflowwalk
+tags : Flash Neutralitedunet Distributedsystem Paxos Aws Cosmodb Graphql Container Hadoop Maven Neo4j Graalvm Server Io Http2 Search Machinelearning Google Webflowwalk
 ---
 
 ## Architecture

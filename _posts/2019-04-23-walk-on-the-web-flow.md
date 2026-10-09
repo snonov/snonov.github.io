@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20190423"
 date: 2019-04-23
-tags : Elixir Openjdk Github Spring Mockit Mock Api Ai Linkedin OneFile STM Lockfree Erlang Joearmstrong Dijkstra Functional Profiling Jvm Developers Searchengine Facebook Arome Machinelearning Code Architecture Openclose Scraping Htmlunit Nutch Jdk Redhat Duckduckgo Jmm Memory Java Threadpool Distributedsystem Dslabs Go Gitflow
+tags : Elixir Openjdk Github Spring Mockit Mock Api Ai Linkedin Onefile Stm Lockfree Erlang Joearmstrong Dijkstra Functional Profiling Jvm Developers Searchengine Facebook Arome Machinelearning Code Architecture Openclose Scraping Htmlunit Nutch Jdk Redhat Duckduckgo Jmm Memory Java Threadpool Distributedsystem Dslabs Go Gitflow
 ---
 
 ## Architecture  

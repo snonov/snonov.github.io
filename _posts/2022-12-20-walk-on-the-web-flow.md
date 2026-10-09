@@ -38,7 +38,7 @@ Spring 6 and SpringBoot 3 are ready
 * [https://www.infoq.com/articles/josh-long-spring-6/](https://www.infoq.com/articles/josh-long-spring-6/)   
 
 Real nice Youtube Tech chann about Java 
-* [https://www.youtube.com/](https://www.youtube.com/)@JChampionsConf/streams    
+* [https://www.youtube.com/@JChampionsConf/streams](https://www.youtube.com/@JChampionsConf/streams)    
 
 ## Tool   
 

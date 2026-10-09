@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20230320"
 date: 2023-03-20 
-tags : Mainfold Compiler Markdown Mindmap Api JoshuaBloch Docker Zookeeper Java20 Garbagecollector Intellij Trishagee Curl Optaplanner Planning JParse Parsing Record Hibernate Webhook Quality Tls Ssl Plateform Manifold
+tags : Mainfold Compiler Markdown Mindmap Api Joshuabloch Docker Zookeeper Java20 Garbagecollector Intellij Trishagee Curl Optaplanner Planning Jparse Parsing Record Hibernate Webhook Quality Tls Ssl Plateform Manifold
 ---
 
 ## Architecture  
@@ -21,7 +21,7 @@ Security TLS SSL
 * [https://blog.frankel.ch/mtls-everywhere/](https://blog.frankel.ch/mtls-everywhere/)    
 
 Architecture plateform api    
-* [https://medium.com/](https://medium.com/)@asimaslam/platform-apis-ca160c5663   
+* [https://medium.com/@asimaslam/platform-apis-ca160c5663](https://medium.com/@asimaslam/platform-apis-ca160c5663)   
 
 ## Dev   
 

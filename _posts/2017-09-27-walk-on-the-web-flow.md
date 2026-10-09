@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170927"
 date: 2017-09-27
-tags : Ia Slack Chaos Parsing Patternmatching Eclipse Stalkwalking Reactivestream Java9 Java Nginx AWS Adcash Architecture Zeroturnaround Webflowwalk
+tags : Ia Slack Chaos Parsing Patternmatching Eclipse Stalkwalking Reactivestream Java9 Java Nginx Aws Adcash Architecture Zeroturnaround Webflowwalk
 ---
 
 ## Architecture

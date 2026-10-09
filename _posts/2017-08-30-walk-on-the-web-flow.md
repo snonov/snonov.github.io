@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20170830"
 date: 2017-08-30
-tags : Eclipse Hack NetFlix Apache Opensource Redux React Java9 Java API Cloud Vmware AWS Webflowwalk
+tags : Eclipse Hack Netflix Apache Opensource Redux React Java9 Java Api Cloud Vmware Aws Webflowwalk
 ---
 
 ## Architecture

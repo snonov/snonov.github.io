@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20171106"
 date: 2017-11-06
-tags : Googlespreadsheet Cyclops Microsoft AWS Gluon Hattries Java Jvm Network Olap Countingquotientfilter Microservices Hypermedia Learn Hateoas Machinelearning Webflowwalk
+tags : Googlespreadsheet Cyclops Microsoft Aws Gluon Hattries Java Jvm Network Olap Countingquotientfilter Microservices Hypermedia Learn Hateoas Machinelearning Webflowwalk
 ---
 
 ## Architecture

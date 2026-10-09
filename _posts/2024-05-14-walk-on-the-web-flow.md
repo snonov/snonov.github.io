@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20240514"
 date: 2024-05-14
-tags : Kata Energy Jdk Backstage Developerportal Learning Competencyevaluation Wikipedia Pattern Architecturepattern Java Gemini Llm Xz Hack Decompile Craftmanship Lingua Stephenjansen Rag Intellij Nakadi Eventbus Broker Ia Courses Cypher Neo4j Gql Prattparser Parser Jvm Troubleshooting Languages Memorymodels Ownership Salaries Spark Collections Bsl Hashicorp Gc Devoxx Stackoverflow Vector Stream Collector Brain Pinterest HBase Codeinterpreter Gratification OpenTofu Terraform Genai Linkedin Webcrawler Messagequeue Queue Container Jfr Log Synchronized Cloud 
+tags : Kata Energy Jdk Backstage Developerportal Learning Competencyevaluation Wikipedia Pattern Architecturepattern Java Gemini Llm Xz Hack Decompile Craftmanship Lingua Stephenjansen Rag Intellij Nakadi Eventbus Broker Ia Courses Cypher Neo4j Gql Prattparser Parser Jvm Troubleshooting Languages Memorymodels Ownership Salaries Spark Collections Bsl Hashicorp Gc Devoxx Stackoverflow Vector Stream Collector Brain Pinterest Hbase Codeinterpreter Gratification Opentofu Terraform Genai Linkedin Webcrawler Messagequeue Queue Container Jfr Log Synchronized Cloud
 ---
 
 ## Architecture  

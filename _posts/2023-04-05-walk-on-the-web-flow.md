@@ -16,7 +16,7 @@ Webcrawler architecture design
 * [https://experiencestack.co/distributed-web-crawler-system-design-6c9df8aa7ce4](https://experiencestack.co/distributed-web-crawler-system-design-6c9df8aa7ce4)    
 
 Cloud native design pattern    
-* [https://medium.com/](https://medium.com/)@bindu.bc27/design-pattern-for-cloudnative-application-series-1-b489649de83e    
+* [https://medium.com/@bindu.bc27/design-pattern-for-cloudnative-application-series-1-b489649de83e](https://medium.com/@bindu.bc27/design-pattern-for-cloudnative-application-series-1-b489649de83e)    
 
 ## Dev   
 
