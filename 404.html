@@ -28,7 +28,7 @@ sitemap: false
     var link = document.createElement('a');
 
     if (tag) {
-      var name = tag[1].normalize('NFD').replace(/[̀-ͯ]/g, '');
+      var name = tag[1].normalize('NFD').replace(/[\u0300-\u036f]/g, '');
       name = name.charAt(0).toUpperCase() + name.slice(1).toLowerCase();
       link.href = '{{ "/tags/" | relative_url }}' + encodeURIComponent(name) + '.html';
       link.textContent = 'tag ' + name;

@@ -14,7 +14,7 @@
 
   // Lower case and strip accents, so "distribue" finds "Distribué".
   function normalize(term) {
-    return term.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+    return term.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
   }
 
   function escapeHtml(text) {
