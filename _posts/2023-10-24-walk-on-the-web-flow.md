@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20231024"
 date: 2023-10-24
-tags : Java Profilers Microservices Monolith Digma Jetbrain Plugin Zarf Ci Cd Rust Apigateway Authentication Podman Shortcut Phind Codingai Jmx Container Java21 Javafeatures Swapcode Virtualthread Gc Zgc Jeanphilippebempel Mentalmodels Mistral Frenchai Goodcode Cleancode Craft Llm Langchain4j Mckinsey Productivity Unicode Stacktrace Stacksrc Enshitification Businessmodel Freemap Stream Streamprocessing Benevans Wellgrounded Ssh Build Meta Buck2 Github Stars Awesome Jep Jdk21files Backpressure Exception Dependencies Unittest Easyrandom
+tags : Java Profilers Microservices Monolith Digma Jetbrain Plugin Zarf Ci Cd Rust Apigateway Authentication Podman Shortcut Phind Codingai Jmx Container Java21 Javafeatures Swapcode Virtualthread Gc Zgc Jeanphilippebempel Mentalmodels Mistral Frenchai Goodcode Cleancode Craft Llm Langchain4j Mckinsey Productivity Unicode Stacktrace Stacksrc Enshitification Businessmodel Freemap Stream Streamprocessing Benevans Wellgrounded Ssh Build Meta Buck2 Github Stars Awesome Jep Jdk21files Backpressure Exception Dependencies Unittest Easyrandom Webflowwalk
 ---
 
 ## Architecture  

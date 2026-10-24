@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20221107"
 date: 2022-11-07
-tags : Metrics Jpeek Codesmell Architecture Structure101 Checkpoint Rest Documentation Raml Swagger Spring Adr Errorprone Event Eventdriven Goetz Virtualthread Loom Devoxx Java Fusco Testcontainers Functional Leyden Solid Cupid Junit Archunit Javaparser Python Multithreading Hexagonal Git Kata Kebab
+tags : Metrics Jpeek Codesmell Architecture Structure101 Checkpoint Rest Documentation Raml Swagger Spring Adr Errorprone Event Eventdriven Goetz Virtualthread Loom Devoxx Java Fusco Testcontainers Functional Leyden Solid Cupid Junit Archunit Javaparser Python Multithreading Hexagonal Git Kata Kebab Webflowwalk
 ---
 
 ## Architecture  

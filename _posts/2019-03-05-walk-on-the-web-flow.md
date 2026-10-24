@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20190305"
 date: 2019-03-05
-tags : Cloud Spring Amazon Tlab Jcov Coverage Docker Robotframework Java Stream State Cognitive Biases
+tags : Cloud Spring Amazon Tlab Jcov Coverage Docker Robotframework Java Stream State Cognitive Biases Webflowwalk
 ---
 
 ## Architecture   

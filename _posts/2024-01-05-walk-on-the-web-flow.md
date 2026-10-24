@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20240105"
 date: 2024-01-05
-tags : Java Briangoetz Switch Error Javet Javascript Webhooks Github Jupyter Notebooks Kernels Ai Generative Codingassistant Fireplace Flamegraph Swing Icicle Cloud Cost Jfr Jdkflightrecord Bsl License Fork Terraform Nicolaiparlog Frontend Deprecated Java21 Ebpf Observability Gunnarmorling 1brc Web Performance Hashnode Blog Adventofcode Puzzle Patternmatching Chrisnewland Remiforax Craft Monad Tree Btree Niklauswirth Quentinadam Persistance Featurebranch Lombok Record Ratelimit Darklang Json Gson Compareandswap Cas Activitypub Meta
+tags : Java Briangoetz Switch Error Javet Javascript Webhooks Github Jupyter Notebooks Kernels Ai Generative Codingassistant Fireplace Flamegraph Swing Icicle Cloud Cost Jfr Jdkflightrecord Bsl License Fork Terraform Nicolaiparlog Frontend Deprecated Java21 Ebpf Observability Gunnarmorling 1brc Web Performance Hashnode Blog Adventofcode Puzzle Patternmatching Chrisnewland Remiforax Craft Monad Tree Btree Niklauswirth Quentinadam Persistance Featurebranch Lombok Record Ratelimit Darklang Json Gson Compareandswap Cas Activitypub Meta Webflowwalk
 ---
 
 ## Architecture  

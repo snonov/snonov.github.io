@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20220906"
 date: 2022-09-06
-tags : Maven Testcontainer Springboot Java Loom Amber Stream Collection Opensource Git Kalix Serverless Jvm Hash Velox Generics Covariance Contravariance Ratelimiter Throttling Newsql Jit Devops Microsoft
+tags : Maven Testcontainer Springboot Java Loom Amber Stream Collection Opensource Git Kalix Serverless Jvm Hash Velox Generics Covariance Contravariance Ratelimiter Throttling Newsql Jit Devops Microsoft Webflowwalk
 ---
 
 ## Architecture  

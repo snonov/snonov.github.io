@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20221220"
 date: 2022-12-20 
-tags : Jit Aot Shell Api Logging Memory Heap Functionnal Paradigm Copilot Lawsuit Draw Architecture Spring Springboot Devops G1 Distributed Jailer Database Chatgpt Jol Layout Community Blog Jchampionconf Youtube
+tags : Jit Aot Shell Api Logging Memory Heap Functionnal Paradigm Copilot Lawsuit Draw Architecture Spring Springboot Devops G1 Distributed Jailer Database Chatgpt Jol Layout Community Blog Jchampionconf Youtube Webflowwalk
 ---
 
 ## Architecture  

@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20230313"
 date: 2023-03-13 
-tags : Spring Learn Zulu Jvm Microsoft Min Browser Memory Java Oss Firefox Profiler Jobrunr Martinfowler Nosql Sbom Sonatype Instancio Test Techlead Cleancode Api Loom Virtualthread Functionnal Bittorrent Python Packaging
+tags : Spring Learn Zulu Jvm Microsoft Min Browser Memory Java Oss Firefox Profiler Jobrunr Martinfowler Nosql Sbom Sonatype Instancio Test Techlead Cleancode Api Loom Virtualthread Functionnal Bittorrent Python Packaging Webflowwalk
 ---
 
 ## Architecture  

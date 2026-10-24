@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20210830"
 date: 2021-08-30
-tags : Github Visualization Java Datacollection Springboot Microservices Architecture Lessons Loom Multithreading Goetz Parlog Reinhold Patterns Distributedsystems Paxos Doctolib
+tags : Github Visualization Java Datacollection Springboot Microservices Architecture Lessons Loom Multithreading Goetz Parlog Reinhold Patterns Distributedsystems Paxos Doctolib Webflowwalk
 ---
 
 ## Architecture  

@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20230425"
 date: 2023-04-25 
-tags : Machinelearning Loadbalancing Java Patternmatching Bruceeckel Record Reflection Benevans Briangoetz Remiforax Nicolaiparlog Yehonathansharvit Dop Dataorientedprogramming Cache Git Gitignore Kata Solid Devoxx Foundationdb Debug Orchestration Choreography Microservices Maven Mavenarchetype Springboot Voxxed Bucarest Performance Kubernetes Java17 3a Generecis Wasi Component Webassembly Llm Chatgpt Concurrency Heap Stack
+tags : Machinelearning Loadbalancing Java Patternmatching Bruceeckel Record Reflection Benevans Briangoetz Remiforax Nicolaiparlog Yehonathansharvit Dop Dataorientedprogramming Cache Git Gitignore Kata Solid Devoxx Foundationdb Debug Orchestration Choreography Microservices Maven Mavenarchetype Springboot Voxxed Bucarest Performance Kubernetes Java17 3a Generecis Wasi Component Webassembly Llm Chatgpt Concurrency Heap Stack Webflowwalk
 ---
 
 ## Architecture  

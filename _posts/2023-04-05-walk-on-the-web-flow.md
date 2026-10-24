@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20230405"
 date: 2023-04-05 
-tags : Docker Alpine Radar Thoughtworks Api Zalando Openapi Gitignore Git Boredom Java Jre Stephenwolfram Chatgpt Profiler Logging Kirkpepperdine Jeka Ci Cd Lock Concurrency Maven Github Sbom Trend Jrebel Loom Webcrawler Reactive Reactor Spring Archunit Cloudnative Memory Native Collections Eclipse Rest Restassured
+tags : Docker Alpine Radar Thoughtworks Api Zalando Openapi Gitignore Git Boredom Java Jre Stephenwolfram Chatgpt Profiler Logging Kirkpepperdine Jeka Ci Cd Lock Concurrency Maven Github Sbom Trend Jrebel Loom Webcrawler Reactive Reactor Spring Archunit Cloudnative Memory Native Collections Eclipse Rest Restassured Webflowwalk
 ---
 
 ## Architecture  

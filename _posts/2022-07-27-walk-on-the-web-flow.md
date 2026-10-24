@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20220727"
 date: 2022-07-27
-tags : Jvm Jit Airbnb Safepoints Multithread Distributedsystem Java Reflection Burnout Docker Maven Architecture
+tags : Jvm Jit Airbnb Safepoints Multithread Distributedsystem Java Reflection Burnout Docker Maven Architecture Webflowwalk
 ---
 
 ## Architecture  

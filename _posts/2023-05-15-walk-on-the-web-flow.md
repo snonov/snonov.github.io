@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20230515"
 date: 2023-05-15
-tags : Aws Lambda Container Llm Prompt Devfile Development Environment Hashing Java Api Performance Jep250 Internstring Java18 Microservices Openclose Kubernetes Network Distributed Mesh Ebpf Classloader Java9 Design Monoliths Manager Sequencedcollection Build Bld Dns Python Loom Heinzkabutz Privategpt Profiler Opensource
+tags : Aws Lambda Container Llm Prompt Devfile Development Environment Hashing Java Api Performance Jep250 Internstring Java18 Microservices Openclose Kubernetes Network Distributed Mesh Ebpf Classloader Java9 Design Monoliths Manager Sequencedcollection Build Bld Dns Python Loom Heinzkabutz Privategpt Profiler Opensource Webflowwalk
 ---
 
 ## Architecture  

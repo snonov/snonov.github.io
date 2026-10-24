@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20261024"
 date: 2026-10-24
-tags : Eventsourcing Dynamic Consistency Boundary Systemdesign Learn Course Rfc Http Httpberb Query Method Culture Tech History Moovies Git Github Worktree Ai Kentbeck Talk Ci Cd Continuousdelivery Emilybasch Code Agent Practise Cloudflare Security Audit Skill Claude Monitoring Codingagent Tool Sandbox D2 Diagram Language Schema Typescript Compiler Native Scriptc Poneytail Build Lazy Codebase Knowledge Oak Sourcecontrol Clepsydre Thomaspierrain Context Claudecode Compact 2ndbrain Llm Token Saas Business Cost Rex Contextmap Loop Loopengineering Langchain Replacement
+tags : Eventsourcing Dynamic Consistency Boundary Systemdesign Learn Course Rfc Http Httpberb Query Method Culture Tech History Moovies Git Github Worktree Ai Kentbeck Talk Ci Cd Continuousdelivery Emilybasch Code Agent Practise Cloudflare Security Audit Skill Claude Monitoring Codingagent Tool Sandbox D2 Diagram Language Schema Typescript Compiler Native Scriptc Poneytail Build Lazy Codebase Knowledge Oak Sourcecontrol Clepsydre Thomaspierrain Context Claudecode Compact 2ndbrain Llm Token Saas Business Cost Rex Contextmap Loop Loopengineering Langchain Replacement Webflowwalk
 ---
 
 ## Architecture

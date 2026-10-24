@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20200928"
 date: 2020-09-28
-tags : Cncf Java Records Distributedsystem Kubernetes Git Github Cli Watchman Python Dependencies Garbagecollector G1 Java15 Codespaces Visualstudio Corretto
+tags : Cncf Java Records Distributedsystem Kubernetes Git Github Cli Watchman Python Dependencies Garbagecollector G1 Java15 Codespaces Visualstudio Corretto Webflowwalk
 ---
 
 ## Architecture  

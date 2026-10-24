@@ -2,7 +2,7 @@
 layout: post
 title: "Walk on the web flow 20250929"
 date: 2025-09-29
-tags : Ai Tool Google Context Inspector Llm Choose Pair Ronjeffries Grok Codefast1 Java Flowprocessor Reactive Agent Tools Misconception Mcp Hiring Engineer Vibecoding Risk Designpattern Marketmap Contextengineering Tdd Api Playwright Interview Performance Scale Github Speckit Algorithm Visualizer Java25 Profiling Benchmark Valhalla Traffic Claudecode Framework War Hallucination Openai Vercel Developer Statistics Gateway Aigateway Morganstanley Calm Jvmls Briangoetz Guysteele Growingalanguage Paper2agent Finetuning Architecturepattern Vladimirzakharov Designprinciples
+tags : Ai Tool Google Context Inspector Llm Choose Pair Ronjeffries Grok Codefast1 Java Flowprocessor Reactive Agent Tools Misconception Mcp Hiring Engineer Vibecoding Risk Designpattern Marketmap Contextengineering Tdd Api Playwright Interview Performance Scale Github Speckit Algorithm Visualizer Java25 Profiling Benchmark Valhalla Traffic Claudecode Framework War Hallucination Openai Vercel Developer Statistics Gateway Aigateway Morganstanley Calm Jvmls Briangoetz Guysteele Growingalanguage Paper2agent Finetuning Architecturepattern Vladimirzakharov Designprinciples Webflowwalk
 ---
 
 ## Architecture  
