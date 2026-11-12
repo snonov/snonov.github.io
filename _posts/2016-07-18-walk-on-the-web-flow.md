@@ -8,30 +8,30 @@ tags : Neo4j Deeplearning Jmm Git Machinelearning Aws Java Webflowwalk
 ## Finance et IT
 
 L'impact du réglementaire sur les requirements de nos systèmes   
-[https://jaxenter.com/coding-error-costs-citigroup-7-million-127747.html](https://jaxenter.com/coding-error-costs-citigroup-7-million-127747.html)
+[https://jaxenter.com/coding-error-costs-citigroup-7-million-127747.html](https://jaxenter.com/coding-error-costs-citigroup-7-million-127747.html) *(moved)* · [archive](https://web.archive.org/web/20200923105537/https://jaxenter.com/coding-error-costs-citigroup-7-million-127747.html)
 
 Exemple d'utilisaiton de Neo4j à la Royal Bank of Scotland    
-[https://neo4j.com/blog/dependency-management-neo4j-royal-bank-scotland](https://neo4j.com/blog/dependency-management-neo4j-royal-bank-scotland)
+[https://neo4j.com/blog/dependency-management-neo4j-royal-bank-scotland](https://neo4j.com/blog/dependency-management-neo4j-royal-bank-scotland) *(moved)* · [archive](https://web.archive.org/web/20190822224405/https://neo4j.com/blog/dependency-management-neo4j-royal-bank-scotland)
 
 ## Un peu de Java pour continuer
 
 JMM (Java Memory Model), article très complet    
-[https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/](https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/)
+[https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/](https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/) · [archive](https://web.archive.org/web/20160706163616/https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/)
 
 Résultats en tris partie du sondage JRebel sur Java, son ecosysteme son utilisation    
-[http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/](http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/)
+[http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/](http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/) *(moved)* · [archive](https://web.archive.org/web/20160717182809/http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/)
 
 Git & Java : Parallelgit    
-[https://dzone.com/articles/parallelgit-a-high-performance-java-jdk7-nio-in-me](https://dzone.com/articles/parallelgit-a-high-performance-java-jdk7-nio-in-me)
+[https://dzone.com/articles/parallelgit-a-high-performance-java-jdk7-nio-in-me](https://dzone.com/articles/parallelgit-a-high-performance-java-jdk7-nio-in-me) · [archive](https://web.archive.org/web/20160715144158/https://dzone.com/articles/parallelgit-a-high-performance-java-jdk7-nio-in-me)
 
 ## Et pour finir du tooling
 
 AWS & scripting    
-[https://www.infoq.com/news/2016/07/aws-multi-cloud-scripting](https://www.infoq.com/news/2016/07/aws-multi-cloud-scripting)
+[https://www.infoq.com/news/2016/07/aws-multi-cloud-scripting](https://www.infoq.com/news/2016/07/aws-multi-cloud-scripting) · [archive](https://web.archive.org/web/20170304174926/https://www.infoq.com/news/2016/07/aws-multi-cloud-scripting)
 
 Testing quickly with in memory file system    
-[https://blog.8thlight.com/dariusz-pasciak/2016/07/13/speed-up-your-tests-with-temporary-in-memory-file-system-tmpfs.html](https://blog.8thlight.com/dariusz-pasciak/2016/07/13/speed-up-your-tests-with-temporary-in-memory-file-system-tmpfs.html)
+[https://blog.8thlight.com/dariusz-pasciak/2016/07/13/speed-up-your-tests-with-temporary-in-memory-file-system-tmpfs.html](https://blog.8thlight.com/dariusz-pasciak/2016/07/13/speed-up-your-tests-with-temporary-in-memory-file-system-tmpfs.html) *(offline)* · [archive](https://web.archive.org/web/20160716023756/https://blog.8thlight.com/dariusz-pasciak/2016/07/13/speed-up-your-tests-with-temporary-in-memory-file-system-tmpfs.html)
 
 DeepLearning open model    
-[http://blog.algorithmia.com/2016/07/open-source-deep-learning-algorithm-roundup/](http://blog.algorithmia.com/2016/07/open-source-deep-learning-algorithm-roundup/)
+[http://blog.algorithmia.com/2016/07/open-source-deep-learning-algorithm-roundup/](http://blog.algorithmia.com/2016/07/open-source-deep-learning-algorithm-roundup/) *(offline)* · [archive](https://web.archive.org/web/20160718232812/http://blog.algorithmia.com/2016/07/open-source-deep-learning-algorithm-roundup/)
 
