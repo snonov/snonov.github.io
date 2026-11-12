@@ -281,7 +281,7 @@ GEM
       afm (>= 0.2.1, < 2)
       hashery (~> 2.0)
       ttfunk
-    prism (2.1.0-x86_64-linux-gnu)
+    prism (2.1.0)
     public_suffix (5.1.1)
     racc (1.8.1)
     rainbow (3.1.1)
