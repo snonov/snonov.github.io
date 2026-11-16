@@ -23,7 +23,7 @@ Le codeCache en Java9
 
 ## Various
 
-Le plus petit fragment de temps mesuré la ZeptoSecond (c'est assez loin apres la nanosecond, pour voir où c'est situé : [https://en.wikipedia.org/wiki/Orders_of_magnitude_](https://en.wikipedia.org/wiki/Orders_of_magnitude_)(time))    
+Le plus petit fragment de temps mesuré la ZeptoSecond (c'est assez loin apres la nanosecond, pour voir où c'est situé : [https://en.wikipedia.org/wiki/Orders_of_magnitude_(time)](https://en.wikipedia.org/wiki/Orders_of_magnitude_%28time%29))    
 [http://wornandwound.com/scientists-record-zeptosecond-smallest-fragment-time-ever-measured/](http://wornandwound.com/scientists-record-zeptosecond-smallest-fragment-time-ever-measured/)
 
 ## Du tooling

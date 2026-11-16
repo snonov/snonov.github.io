@@ -26,7 +26,7 @@ tags : Ignite Storm Flink Kafka Olap Microservices Uber Netflix Crdt Git Jvm Jav
 ## Modern Tools
 
 Pinot "realtime distributed OLAP datastore" de Linkedin    
-* [https://github.com/linkedin/pinot](https://github.com/linkedin/pinot)
+* [https://github.com/linkedin/pinot](https://github.com/linkedin/pinot) (now <https://github.com/apache/pinot>)
 * [https://github.com/linkedin/pinot/wiki/Architecture](https://github.com/linkedin/pinot/wiki/Architecture)
 
 Datanet "CRDT database", CRDT pour Conflict Free Replicated Data Type    
