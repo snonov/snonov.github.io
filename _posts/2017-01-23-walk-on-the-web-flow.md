@@ -8,27 +8,27 @@ tags : Api Redis Trisha Garbagecollector Flink Iot Ia Bigdata Github Java Webflo
 ## Various
 
 BigData chez les scientifiques "Australian Square Kilometre Array Pathfinder" : 5.2 Terabytes par seconde   
-[https://blog.csiro.au/australian-square-kilometre-array-pathfinder-finally-hits-big-data-highway/](https://blog.csiro.au/australian-square-kilometre-array-pathfinder-finally-hits-big-data-highway/)
+[https://blog.csiro.au/australian-square-kilometre-array-pathfinder-finally-hits-big-data-highway/](https://blog.csiro.au/australian-square-kilometre-array-pathfinder-finally-hits-big-data-highway/) *(moved)* · [archive](https://web.archive.org/web/20170119053142/https://blog.csiro.au/australian-square-kilometre-array-pathfinder-finally-hits-big-data-highway/)
 
 On parle souvent des nouveaux, mais certains meurent aussi : fin pour RethinkDb   
-[http://www.defstartup.org/2017/01/18/why-rethinkdb-failed.html](http://www.defstartup.org/2017/01/18/why-rethinkdb-failed.html)
+[http://www.defstartup.org/2017/01/18/why-rethinkdb-failed.html](http://www.defstartup.org/2017/01/18/why-rethinkdb-failed.html) · [archive](https://web.archive.org/web/20170123110825/http://www.defstartup.org/2017/01/18/why-rethinkdb-failed.html)
 
 Histoire de GitHub pour sortir sa persistence de Redis   
-[https://githubengineering.com/moving-persistent-data-out-of-redis/](https://githubengineering.com/moving-persistent-data-out-of-redis/)
+[https://githubengineering.com/moving-persistent-data-out-of-redis/](https://githubengineering.com/moving-persistent-data-out-of-redis/) · [archive](https://web.archive.org/web/20170115091945/https://githubengineering.com/moving-persistent-data-out-of-redis/)
 
 IA et politique, audition au senat sur l'intelligence artificielle    
-[http://www.senat.fr/opecst/](http://www.senat.fr/opecst/)
+[http://www.senat.fr/opecst/](http://www.senat.fr/opecst/) · [archive](https://web.archive.org/web/20161219134514/http://www.senat.fr/opecst/)
 
 Exploration dataset GitHub   
-[https://github.com/blog/2298-github-data-ready-for-you-to-explore](https://github.com/blog/2298-github-data-ready-for-you-to-explore)
+[https://github.com/blog/2298-github-data-ready-for-you-to-explore](https://github.com/blog/2298-github-data-ready-for-you-to-explore) *(moved)* · [archive](https://web.archive.org/web/20170419133100/https://github.com/blog/2298-github-data-ready-for-you-to-explore)
 
 ## Architecture
 
 IoT : les choix en terme de mémoire   
-[https://jaxenter.com/iot-memory-overview-options-131270.html](https://jaxenter.com/iot-memory-overview-options-131270.html)
+[https://jaxenter.com/iot-memory-overview-options-131270.html](https://jaxenter.com/iot-memory-overview-options-131270.html) *(moved)* · [archive](https://web.archive.org/web/20191016065558/https://jaxenter.com/iot-memory-overview-options-131270.html)
 
 Petite architecture pour automatiser la récupération et la création de résumé de présentation slideshare via API    
-[http://blog.algorithmia.com/automatic-slideshare-text-summarization/](http://blog.algorithmia.com/automatic-slideshare-text-summarization/)
+[http://blog.algorithmia.com/automatic-slideshare-text-summarization/](http://blog.algorithmia.com/automatic-slideshare-text-summarization/) *(offline)* · [archive](https://web.archive.org/web/20170204051606/http://blog.algorithmia.com/automatic-slideshare-text-summarization/)
 
 ## Tools & languages
 
