@@ -33,10 +33,10 @@ Petite architecture pour automatiser la récupération et la création de résum
 ## Tools & languages
 
 Sondage sur l'utilisation de Flink   
-[http://data-artisans.com/flink-user-survey-2016-part-1/](http://data-artisans.com/flink-user-survey-2016-part-1/)
+[http://data-artisans.com/flink-user-survey-2016-part-1/](http://data-artisans.com/flink-user-survey-2016-part-1/) *(offline)* · [archive](https://web.archive.org/web/20170211035753/http://data-artisans.com/flink-user-survey-2016-part-1/)
 
 Liste des cause possible d'un GC (passage du Garbage Collector) en Java   
-[https://dzone.com/articles/java-gc-causes-distilled](https://dzone.com/articles/java-gc-causes-distilled)
+[https://dzone.com/articles/java-gc-causes-distilled](https://dzone.com/articles/java-gc-causes-distilled) · [archive](https://web.archive.org/web/20170208141239/https://dzone.com/articles/java-gc-causes-distilled)
 
 Interview de Trisha Gee (Java Champion) sur l'importance du passage à Java 8    
-[https://www.voxxed.com/blog/2017/01/refactor-java-8/](https://www.voxxed.com/blog/2017/01/refactor-java-8/) 
+[https://www.voxxed.com/blog/2017/01/refactor-java-8/](https://www.voxxed.com/blog/2017/01/refactor-java-8/) · [archive](https://web.archive.org/web/20170205113141/https://www.voxxed.com/blog/2017/01/refactor-java-8/) 
