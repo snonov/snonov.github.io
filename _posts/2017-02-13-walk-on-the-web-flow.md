@@ -61,10 +61,10 @@ Les managers chez google
 [https://www.infoq.com/news/2017/02/google-managers](https://www.infoq.com/news/2017/02/google-managers) · [archive](https://web.archive.org/web/20170427233727/https://www.infoq.com/news/2017/02/google-managers)
 
 Developpeur du WE vs Developpeur de la semaine (source screenShot)    
-[https://jaxenter.com/most-popular-weekend-programming-languages-131632.html](https://jaxenter.com/most-popular-weekend-programming-languages-131632.html)
+[https://jaxenter.com/most-popular-weekend-programming-languages-131632.html](https://jaxenter.com/most-popular-weekend-programming-languages-131632.html) *(moved)* · [archive](https://web.archive.org/web/20181116061619/https://jaxenter.com/most-popular-weekend-programming-languages-131632.html)
 
 JFokus, présentations accessible depuis le schedule (contenu dans la ligne des tendances)    
-[https://www.jfokus.se/jfokus/schedule.jsp](https://www.jfokus.se/jfokus/schedule.jsp)
+[https://www.jfokus.se/jfokus/schedule.jsp](https://www.jfokus.se/jfokus/schedule.jsp) *(offline)* · [archive](https://web.archive.org/web/20170211044054/https://www.jfokus.se/jfokus/schedule.jsp)
 
 Retour sur les simulations Monte Carlo    
-[http://www.allthingsdistributed.com/2017/02/monte-carlo-methods.html](http://www.allthingsdistributed.com/2017/02/monte-carlo-methods.html) 
+[http://www.allthingsdistributed.com/2017/02/monte-carlo-methods.html](http://www.allthingsdistributed.com/2017/02/monte-carlo-methods.html) · [archive](https://web.archive.org/web/20170220164803/http://www.allthingsdistributed.com/2017/02/monte-carlo-methods.html) 
