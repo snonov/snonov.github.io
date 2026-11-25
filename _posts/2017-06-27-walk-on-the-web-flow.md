@@ -8,25 +8,25 @@ tags : Chaos Hadoop Blockchain Spring Moby Docker Webflowwalk
 ## Architecture
 
 Chaos Engineering pour systèmes distribués   
-[https://speakerdeck.com/tammybutow/chaos-engineering-bootcamp](https://speakerdeck.com/tammybutow/chaos-engineering-bootcamp)
+[https://speakerdeck.com/tammybutow/chaos-engineering-bootcamp](https://speakerdeck.com/tammybutow/chaos-engineering-bootcamp) · [archive](https://web.archive.org/web/20190522070636/https://speakerdeck.com/tammybutow/chaos-engineering-bootcamp)
 
 ## Tool
 
 Java CLI
-* Apache common CLI : [https://commons.apache.org/proper/commons-cli/](https://commons.apache.org/proper/commons-cli/)
-* args4j : [http://args4j.kohsuke.org/](http://args4j.kohsuke.org/) (les utilisateurs jenkins reconnaitront l'auteur Kohsuke Kawaguchi)
-* jbock : [https://github.com/h908714124/jbock](https://github.com/h908714124/jbock)
+* Apache common CLI : [https://commons.apache.org/proper/commons-cli/](https://commons.apache.org/proper/commons-cli/) · [archive](https://web.archive.org/web/20170627121749/https://commons.apache.org/proper/commons-cli/)
+* args4j : [http://args4j.kohsuke.org/](http://args4j.kohsuke.org/) *(offline)* · [archive](https://web.archive.org/web/20170608015215/http://args4j.kohsuke.org/) (les utilisateurs jenkins reconnaitront l'auteur Kohsuke Kawaguchi)
+* jbock : [https://github.com/h908714124/jbock](https://github.com/h908714124/jbock) *(moved)* · [archive](https://web.archive.org/web/20180613054539/https://github.com/h908714124/jbock)
 
 Spring pour Hadoop   
-[http://projects.spring.io/spring-hadoop/](http://projects.spring.io/spring-hadoop/)
+[http://projects.spring.io/spring-hadoop/](http://projects.spring.io/spring-hadoop/) *(offline)* · [archive](https://web.archive.org/web/20170607000756/http://projects.spring.io/spring-hadoop/)
 
 Spring et BlockChain   
-[https://github.com/blk-io/erc20-rest-service](https://github.com/blk-io/erc20-rest-service)
+[https://github.com/blk-io/erc20-rest-service](https://github.com/blk-io/erc20-rest-service) *(moved)*
 
 ## Event
 
 La docker .... non moby summit (vidéo et slides)   
-[http://blog.docker.com/2017/06/moby-summit-june-2017-recap/](http://blog.docker.com/2017/06/moby-summit-june-2017-recap/)
+[http://blog.docker.com/2017/06/moby-summit-june-2017-recap/](http://blog.docker.com/2017/06/moby-summit-june-2017-recap/) *(moved)* · [archive](https://web.archive.org/web/20181113094856/http://blog.docker.com/2017/06/moby-summit-june-2017-recap/)
 
 Pour la petite histoire Docker / Moby :   
-[https://blog.docker.com/2017/04/introducing-the-moby-project/](https://blog.docker.com/2017/04/introducing-the-moby-project/) 
+[https://blog.docker.com/2017/04/introducing-the-moby-project/](https://blog.docker.com/2017/04/introducing-the-moby-project/) *(moved)* · [archive](https://web.archive.org/web/20170627203250/https://blog.docker.com/2017/04/introducing-the-moby-project/) 
